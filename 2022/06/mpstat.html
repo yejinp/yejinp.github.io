@@ -1,0 +1,31 @@
+<html>
+
+	<body>
+		<pre>
+
+mpstat是一个报告处理器相关统计信息的命令行工具；
+mpstat 是什么，不是什么
+mpstat是Multiprocess Statistics的缩写，是CPU实时监控工具。它会显示CPU的一些统计信息，这些信息存放在 /proc/stat文件中。在多CPU系统里，mpstat命令不仅能查看所有CPU的平均状态信息，而且能够查看特定CPU的信息。 mpstat最大的特点是：可以查看多核心cpu中每个计算核心的统计数据；而类似的工具 vmstat只能查看系统整体CPU状态；
+mpstat不是查看系统内存，网络，磁盘等的工具
+
+可以做什么:
+不可以做什么:
+
+
+跟其他工具比较：
+优点：可以查看多核心CPU中所有核心的统计数据；
+缺点：只能实时监控，不能统计历史数据；
+
+怎么用:
+
+结果字段含义：
+%user 在internal时间段里，用户态的CPU时间(%)，不包含nice值为负进程 (usr/total)*100
+%nice 在internal时间段里，nice值为负进程的CPU时间(%) (nice/total)*100
+%sys 在internal时间段里，内核时间(%) (system/total)*100
+%iowait 在internal时间段里，硬盘IO等待时间(%) (iowait/total)*100
+%irq 在internal时间段里，硬中断时间(%) (irq/total)*100
+%soft 在internal时间段里，软中断时间(%) (softirq/total)*100
+%idle 在internal时间段里，CPU除去等待磁盘IO操作外的因为任何原因而空闲的时间闲置时间(%) (idle/total)*100
+		</pre>
+		</body>
+	</html>
