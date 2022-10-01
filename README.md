@@ -1,24 +1,33 @@
-# Friday Theme
+---
+layout: page
+title: About
+permalink: /about/
+---
 
-## A Bootstrap 4 portfolio and blog theme for Jekyll
+## Theme Monos
+> Simple and lightweight theme for Jekyll
 
-* Example 1: This repo builds directly to GitHub pages, which is also the documentation:  https://sfreytag.github.io/friday-theme/
-* Example 2: my own homepage, http://www.freytag.org.uk
+### Features
+- Responsive.
+- Syntax Highlight
+- Most optimized theme for tech blog.
+- Lightweight with minimum stylesheet.
+- Easy to customize.
+- Offers category menu.
 
-## Get Started
+### _config.yml
+> Code block will look like this.
+```yml
+highlighter-theme: monokai //you can change your syntax color scheme.
+date_format: "%Y-%M-%D" //and date format.
+```
 
-Follow the [install notes](https://sfreytag.github.io/friday-theme/projects/install.html).
-
-## Usage
-
-The theme is free to use, but if you do use it, it would be great to hear from you. Email simon@freytag.org.uk - thanks!
-
-## Comaptible with Jekyll 4 and GitHub pages
-
-This theme uses {{site.baseurl}} throughout.
-
-This means it works well gith GitHub pages and Jekyll 3.9, where the site is served out of a folder - eg https://sfreytag.github.io/friday-theme/
-
-It also works with Jekyll 4.* and where the site is served out of the root of the domain - eg https://www.freytag.org.uk
-
-Look at `_config.yml` and the `baseurl` setting.
+### Screenshots
+#### Page
+![alt text](/public/img/screenshot-1.png)
+#### Articles
+![alt text](/public/img/screenshot-2.png)
+#### Page - Mobile
+![alt text](/public/img/screenshot-m1.png)
+#### Page - Articles
+![alt text](/public/img/screenshot-m2.png)
