@@ -2,7 +2,7 @@
 layout: post
 title:  "Welcome to Yejinp!"
 date:   2022-10-01 19:31:29 +0900
-categories: jekyll update
+categories: 测试分类
 ---
 
 欢迎访问此博客！
