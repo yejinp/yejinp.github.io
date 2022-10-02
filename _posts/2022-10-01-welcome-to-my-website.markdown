@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Shellroot!"
+title:  "Welcome to Yejinp!"
 date:   2022-10-01 19:31:29 +0900
 categories: jekyll update
 ---
