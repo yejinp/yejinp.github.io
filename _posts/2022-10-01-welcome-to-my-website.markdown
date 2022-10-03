@@ -3,6 +3,7 @@ layout: post
 title:  "Welcome to Yejinp!"
 date:   2022-10-01 19:31:29 +0900
 category: "test"
+tags: 起始tag
 ---
 
 欢迎访问此博客！
