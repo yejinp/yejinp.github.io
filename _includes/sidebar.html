@@ -15,7 +15,7 @@
 	<ul class="nav">
       <li class="nav-title">Pages</li>
 	  <li>
-	  	<a class="nav-item" href="/">Articles</a>
+	  	<a class="nav-item" href="/">文章</a>
 	  </li>
 	  {% assign pages_list = site.pages %}
 	  {% for node in pages_list %}
@@ -34,7 +34,7 @@
 
 <div class="sidebar-item sidebar-nav">
   	<ul class="nav">
-			<li class="nav-title">Categories</li>
+			<li class="nav-title">分类</li>
 	    {% for category in site.categories %}
 	    <li>
 	    	<a class="nav-item" href="{{ root_url }}/{{ site.category_dir }}#{{ category | first }}">
