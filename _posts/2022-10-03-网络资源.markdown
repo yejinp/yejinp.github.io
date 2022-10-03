@@ -1,10 +1,10 @@
 ---
 layout: post
-title: 收集一些网络资源
+title: 收集的一些网络资源
 date: 2022-10-03 21:20:23 +0900
 category: resource
 ---
-# 收集一些网络资源
+# 收集的一些网络资源
  
 1. coolshell.com
 
