@@ -1,10 +1,10 @@
 ---
 layout: post
-title: test-sample
+title: 测试-样例
 date: 2022-10-02 10:20:23 +0900
-category: test
+category: 测试分类
 ---
-# test-sample
+# test-样例1
 
 This is test.
  
