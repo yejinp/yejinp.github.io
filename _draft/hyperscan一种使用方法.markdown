@@ -1,0 +1,3 @@
+hyperscan的一种使用方法
+hyperscan是Intel开源的正则匹配引擎，具有比较高的性能，常用于网络流量监测，如snort等
+本文介绍hyperscan用于另外一种场景——用于匹配用户自定义策略。
