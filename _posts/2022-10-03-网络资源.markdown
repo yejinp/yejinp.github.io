@@ -1,17 +1,17 @@
 ---
 layout: post
 title: 收集的一些网络资源
-date: 2022-10-03 21:20:23 +0900
+date: 2022-10-07 21:20:23 +0800
 category: resource
 ---
 # 收集的一些网络资源
  
-1. coolshell.com
+1. 左耳朵耗子的个人博客: coolshell.cn
 
-2. ruanyifeng
+2. 阮一峰的网络日志: https://ruanyifeng.com/blog/
  
-3. liaoxiaofeng
+3. 廖雪峰的官方网站: https://www.liaoxuefeng.com/
 
-4. https://plantegg.github.io/
+4. plantegg的基础知识: https://plantegg.github.io/
 
-5. zlibrary
+5. 网络图书馆 zlibrary
