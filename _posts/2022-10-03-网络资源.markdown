@@ -6,12 +6,14 @@ category: resource
 ---
 # 收集的一些网络资源
  
-1. 左耳朵耗子的个人博客(https://coolshell.cn)
+- 左耳朵耗子的个人博客(https://coolshell.cn)
 
-2. 阮一峰的网络日志(https://ruanyifeng.com/blog/)
+- 阮一峰的网络日志(https://ruanyifeng.com/blog/)
  
-3. 廖雪峰的官方网站(https://www.liaoxuefeng.com)
+- 廖雪峰的官方网站(https://www.liaoxuefeng.com)
 
-4. plantegg的基础知识(https://plantegg.github.io)
+- plantegg的基础知识(https://plantegg.github.io)
 
-5. 网络图书馆 zlibrary
+- 网络图书馆 zlibrary
+
+- markdown官方网站(https://markdown.com.cn/)
