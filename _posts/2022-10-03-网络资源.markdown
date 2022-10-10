@@ -17,3 +17,9 @@ category: resource
 - 网络图书馆 zlibrary
 
 - [markdown官方网站](https://markdown.com.cn/)
+
+- [藏经阁](https://docs.kilvn.com)
+
+- [格物](https://shockerli.net/)
+
+- [系统技术非业余研究](https://blog.yufeng.info/)
