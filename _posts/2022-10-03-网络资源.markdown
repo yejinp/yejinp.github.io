@@ -5,7 +5,9 @@ date: 2022-10-07 21:20:23 +0800
 category: resource
 ---
 # 收集的一些网络资源
- 
+
+* 个人技术博客类
+
 - [左耳朵耗子的个人博客](https://coolshell.cn)
 
 - [阮一峰的网络日志](https://ruanyifeng.com/blog/)
@@ -14,6 +16,11 @@ category: resource
 
 - [plantegg的基础知识](https://plantegg.github.io)
 
+
+- [系统技术非业余研究](https://blog.yufeng.info/)
+
+* 网络资源类
+
 - 网络图书馆 zlibrary
 
 - [markdown官方网站](https://markdown.com.cn/)
@@ -21,5 +28,3 @@ category: resource
 - [藏经阁](https://docs.kilvn.com)
 
 - [格物](https://shockerli.net/)
-
-- [系统技术非业余研究](https://blog.yufeng.info/)
