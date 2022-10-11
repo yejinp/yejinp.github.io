@@ -17,6 +17,9 @@ category: resource
 
   - [系统技术非业余研究](https://blog.yufeng.info/)
 
+  - [joelonsoftware](https://www.joelonsoftware.com/)
+
+  - [Vamei](https://www.cnblogs.com/vamei/)
 
 
 * 网络资源类
@@ -28,3 +31,9 @@ category: resource
   - [藏经阁](https://docs.kilvn.com)
 
   - [格物](https://shockerli.net/)
+
+
+* 工具类
+  - [你注册过哪些网站](https://www.reg007.com/)
+
+  - [metasploit](http://www.metasploit.com/)
