@@ -4,7 +4,6 @@ title: 收集的一些网络资源
 date: 2022-10-07 21:20:23 +0800
 category: resource
 ---
-# 收集的一些网络资源
 
 * 个人技术博客类
 
@@ -17,6 +16,8 @@ category: resource
   - [plantegg的基础知识](https://plantegg.github.io)
 
   - [系统技术非业余研究](https://blog.yufeng.info/)
+
+
 
 * 网络资源类
 
