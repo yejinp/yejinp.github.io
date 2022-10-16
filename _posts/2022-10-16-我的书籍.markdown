@@ -10,7 +10,11 @@ category: resource
   - UNIX环境高级编程
 
   - UNIX网络编程
- 
+
+  - C陷阱与缺陷
+
+  - C专家编程
+
   - Linux内核
 
   - Linux驱动开发
@@ -71,8 +75,8 @@ category: resource
 
   - JAVA编程思想
  
-
  * 工具类
+
   - 新华汉语词典-双色缩印版
 
   - 现代汉语词典
@@ -84,7 +88,6 @@ category: resource
   - 兄弟
 
   - 活着
-
 
  * 历史类
 
