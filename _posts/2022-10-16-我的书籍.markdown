@@ -11,11 +11,13 @@ category: resource
 
   - UNIX网络编程
 
+  - UNIX编程艺术
+
   - C陷阱与缺陷
 
   - C专家编程
 
-  - Linux内核
+  - 深入理解Linux
 
   - Linux驱动开发
 

@@ -13,7 +13,9 @@ test=# SHOW block_size;
 (1 row)
 ```
 
-- Linux中查看 page size : getcon PAGESIZE 
+- Linux中查看 page size : getconf PAGESIZE 
+或者 getconf PAGE_SIZE
+
 ```
 [root@test ~]# getconf PAGESIZE
 4096
