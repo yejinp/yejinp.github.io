@@ -1,7 +1,9 @@
 
 - 官方文档：https://www.postgresql.org/docs/15/internals.html
 
-- The Internals of PostgreSQL https://www.interdb.jp/pg/index.html
+- The Internals of PostgreSQL: https://www.interdb.jp/pg/index.html
+
+- postgrespro: https://postgrespro.com/blog/pgsql/3994098
 
 - 源码解读1 ：http://blog.itpub.net/6906/
 
