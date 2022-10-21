@@ -12,7 +12,14 @@
 
  - PostgreSQL技术爱好者 https://foucus.blog.csdn.net/category_9332424.html
 
+ - 干货 | PostgreSQL数据表文件底层结构布局分析 https://blog.csdn.net/MyySophia/article/details/120724075
 
 * 辅助工具
 
  - pg_filedump 分析pg文件的工具
+ 
+ - pg_hexedit
+
+ - hexdump分析堆表文件，可以直接查看文件的内容
+
+ - pageinspect 扩展，编译安装后，CREATE EXTENSION pageinspect； 后即可使用
