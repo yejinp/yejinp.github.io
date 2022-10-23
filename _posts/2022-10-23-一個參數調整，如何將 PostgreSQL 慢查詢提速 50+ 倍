@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 一個參數調整，如何將 PostgreSQL 慢查詢提速 50+ 倍
-date: 2022-10-23 20:20:23 +0800
+date: 2022-10-22 20:20:23 +0800
 category: postgreSQL
 ---
 
