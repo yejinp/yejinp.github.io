@@ -5,6 +5,7 @@ date: 2022-10-23 20:20:23 +0800
 category: PostgreSQL
 ---
 
+
 [原文：How a single PostgreSQL config change improved slow query performance by 50x]
 (https://amplitude.engineering/how-a-single-postgresql-config-change-improved-slow-query-performance-by-50x-85593b8991b0)
 
@@ -15,6 +16,7 @@ PostgreSQL 的 random_page_cost 預設參數值為 4，但這是相對於 HDD �
 對於相應硬體建議的參數調整，在我今年「RDBMS 資料庫案例設計討論營系列活動 - 最佳化設計技巧」[*] 的分享課中有提到。除了 PostgreSQL 外，MySQL 也有針對 SSD 相應的一些設定。
 
 資料佐證來源
+
 [*] https://phptheday.kktix.cc/events/ant-rdbms-02
 
 [*] https://www2014.aspxhtml.com/post-5768
