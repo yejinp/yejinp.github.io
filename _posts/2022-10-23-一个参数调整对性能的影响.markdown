@@ -1,11 +1,9 @@
 ---
 layout: post
-title: 一个参数调整对性能的影响
-date: 2022-10-22 20:20:23 +0800
+title: 一個參數調整，如何將 PostgreSQL 慢查詢提速 50+ 倍
+date: 2022-10-23 20:20:23 +0800
 category: PostgreSQL
 ---
-
-title: 一個參數調整，如何將 PostgreSQL 慢查詢提速 50+ 倍
 
 [原文：How a single PostgreSQL config change improved slow query performance by 50x]
 (https://amplitude.engineering/how-a-single-postgresql-config-change-improved-slow-query-performance-by-50x-85593b8991b0)
