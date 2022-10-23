@@ -36,4 +36,19 @@ category: resource
 * 工具类
   - [你注册过哪些网站](https://www.reg007.com/)
 
-  - [metasploit](http://www.metasploit.com/)
+  - [metasploit](https://www.metasploit.com/)
+
+* 网络安全类
+  - [乌云](https://www.wooyun.org/)
+
+  - [the hackers choise](https://www.thc.org)
+
+  - [The Exploit Database]( http://www.exploit-db.com/)
+
+  - [Freebuf](https://www.freebuf.com/)
+
+  - [关注网络安全](https://www.t00ls.net/)
+
+  - [blackhat](https://www.blackhat.com/)
+  
+  - [看雪论坛](https://www.kanxue.com/)
