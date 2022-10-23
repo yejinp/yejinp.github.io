@@ -17,8 +17,8 @@ PostgreSQL 的 random_page_cost 預設參數值為 4，但這是相對於 HDD �
 
 資料佐證來源
 
-[*] https://phptheday.kktix.cc/events/ant-rdbms-02
+* https://phptheday.kktix.cc/events/ant-rdbms-02
 
-[*] https://www2014.aspxhtml.com/post-5768
+* https://www2014.aspxhtml.com/post-5768
 
-[*] https://www.interdb.jp/pg/pgsql03.html
+* https://www.interdb.jp/pg/pgsql03.html
