@@ -12,7 +12,7 @@ category: PostgreSQL
  
  - [The Internals of PostgreSQL](https://www.interdb.jp/pg/index.html)
 
- - [postgrespro]( https://postgrespro.com/blog/pgsql/3994098)
+ - [postgrespro](https://postgrespro.com/blog/pgsql/3994098)
 
  - [源码解读1](http://blog.itpub.net/6906/)
 
@@ -21,6 +21,7 @@ category: PostgreSQL
  - [PostgreSQL技术爱好者](https://foucus.blog.csdn.net/category_9332424.html)
 
  - [干货 | PostgreSQL数据表文件底层结构布局分析](https://blog.csdn.net/MyySophia/article/details/120724075)
+
 
 * 辅助工具
 
