@@ -20,7 +20,7 @@ category: PostgreSQL
 
   - [PostgreSQL技术爱好者](https://foucus.blog.csdn.net/category_9332424.html)
 
-  - [干货 | PostgreSQL数据表文件底层结构布局分析](https://blog.csdn.net/MyySophia/article/details/120724075)
+  - [干货-PostgreSQL数据表文件底层结构布局分析](https://blog.csdn.net/MyySophia/article/details/120724075)
 
 
 * 辅助工具
