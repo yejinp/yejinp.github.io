@@ -2,7 +2,7 @@
 layout: post
 title: postgresql参考资料
 date: 2022-10-23 20:20:23 +0800
-categories: PostgreSQL,resource
+category: PostgreSQL
 ---
 
 
