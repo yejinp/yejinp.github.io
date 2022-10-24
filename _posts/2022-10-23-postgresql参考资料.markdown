@@ -25,10 +25,10 @@ category: PostgreSQL
 
 * 辅助工具
 
-  - pg_filedump 分析pg文件的工具
+  - pg_filedump: 分析pg文件的工具
  
   - pg_hexedit
 
-  - hexdump分析堆表文件，可以直接查看文件的内容
+  - hexdump: 分析堆表文件，可以直接查看任何文件的内容
 
   - pageinspect 扩展，编译安装后，CREATE EXTENSION pageinspect； 后即可使用
