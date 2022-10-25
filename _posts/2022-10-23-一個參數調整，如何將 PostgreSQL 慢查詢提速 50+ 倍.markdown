@@ -5,7 +5,9 @@ date: 2022-10-23 20:20:23 +0800
 category: PostgreSQL
 ---
 
-- From [How a single PostgreSQL config change improved slow query performance by 50x]
+* From
+
+ - [How a single PostgreSQL config change improved slow query performance by 50x]
 (https://amplitude.engineering/how-a-single-postgresql-config-change-improved-slow-query-performance-by-50x-85593b8991b0)
 
 
