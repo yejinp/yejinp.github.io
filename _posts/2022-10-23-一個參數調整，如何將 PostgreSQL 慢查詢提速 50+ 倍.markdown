@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 一個參數調整，如何將 PostgreSQL 慢查詢提速 50+ 倍
+title: How a single PostgreSQL config change improved slow query performance by 50x
 date: 2022-10-23 20:20:23 +0800
 category: PostgreSQL
 ---
@@ -8,14 +8,51 @@ category: PostgreSQL
 原文：[How a single PostgreSQL config change improved slow query performance by 50x]
 (https://amplitude.engineering/how-a-single-postgresql-config-change-improved-slow-query-performance-by-50x-85593b8991b0)
 
-PostgreSQL 的 random_page_cost 預設參數值為 4，但這是相對於 HDD 硬碟下的建議值。如果是高速硬碟，如 SSD，作者表示將值改為 1 時，某個慢查詢的速度隨即提升了 50 倍。
+At Amplitude, our goal is to provide easy-to-use interactive product analytics, so everyone can find answers to their product questions. In order to provide a great user experience, Amplitude needs to provide these answers quickly. So when one of our customers complained about how long it took to load the event properties dropdown in the Amplitude UI, we started digging into it.
 
-作者進一步分析原因，發現當 random_page_cost 從預設值 4 改為 1 後，該 Query 優化器從原本使用 Hash Join 改為 Nested Loop 而獲得效能提升。
+By tracking latency at different levels we figured one particular PostgreSQL query was taking 20 sec to finish. This was a surprise for us, as both tables have indexes on the joined column.
 
-對於相應硬體建議的參數調整，在我今年「RDBMS 資料庫案例設計討論營系列活動 - 最佳化設計技巧」[*] 的分享課中有提到。除了 PostgreSQL 外，MySQL 也有針對 SSD 相應的一些設定。
+![picture](/2022/postgres/pic/155146_PNOG_2720166.png "Slow Query")
+Slow Query
+
+The PostgreSQL execution plan for this query was unexpected. Even though both tables have Indexes, PostgreSQL decided to do a Hash Join with a sequential scan on the large table. The sequential scan on a large table contributed to most of the query time.
+
+![picture](/2022/postgres/pic/155222_OKw5_2720166.png "Slow Query Execution Plan")
+
+Slow Query Execution Plan
+
+I initially suspected it could be due to fragmentation. But after inspecting the data, I realized this table was append only and there weren’t many deletions happening on this table. Since reclaiming space using vacuum is not going help much here, I started exploring more. Next, I tried the same query on another customer with good response times. To my surprise the query execution plan looked completely different!
 
 
-資料佐證來源
+![picture](/2022/postgres/pic/155302_dgUC_2720166.png "similar Query")
+Execution plan of similar query on another App
+
+Interestingly, app A only accessed 10x more data than app B, but the response time was 3000x longer.
+
+To see the alternative query plans PostgreSQL considered before picking Hash Join, I disabled hash join and reran the query.
+
+
+![picture](/2022/postgres/pic/155333_HNGI_2720166.png "Alternative execution plan")
+Alternative execution plan for Slow Query
+
+
+There you go! The same query finished 50x faster when using a Nested Loop instead of a Hash Join. So why did PostgreSQL choose a worse plan for app A?
+
+Looking more closely at the estimated cost and actual run time for both plans, estimated cost to actual runtime ratios were very different. The main culprit for this discrepancy was the sequential scan cost estimation. PostgreSQL estimated that a sequential scan would be better than 4000+ index scans, but in reality index scans were 50x faster.
+
+That led me to the ‘random_page_cost’ and ‘seq_page_cost’ configuration options. The default PostgreSQL values of 4 and 1 for ‘random_page_cost’, ‘seq_page_cost’ respectively are tuned for HDD, where random access to disk is more expensive than sequential access. However these costs were inaccurate for our deployment using gp2 EBS volume, which are solid state drives. For our deployment random and sequential access is almost the same.
+
+I changed ‘random_page_cost’ to 1 and retried the query. This time, PostgreSQL used a Nested Loop and the query finished 50x faster. After the change we also noticed a significant drop in max response times from PostgreSQL.
+
+![picture](/2022/postgres/pic/155432_GxGa_2720166.png "Slow Query")
+
+Overall Slow Query performance improved significantly
+
+If you are using SSDs and running PostgreSQL with default configuration, I encourage you to try tuning random_page_cost & seq_page_cost. You might be surprised by some huge performance improvements.
+
+Has any other parameter tuning given you huge gains across the board? Let us know about it in the comments.
+
+reference:
 
 * https://phptheday.kktix.cc/events/ant-rdbms-02
 
