@@ -12,19 +12,19 @@ At Amplitude, our goal is to provide easy-to-use interactive product analytics, 
 
 By tracking latency at different levels we figured one particular PostgreSQL query was taking 20 sec to finish. This was a surprise for us, as both tables have indexes on the joined column.
 
-![picture](/2022/postgres/pic/155146_PNOG_2720166.png "Slow Query")
+![picture](/2022/postgresql/pic/155146_PNOG_2720166.png "Slow Query")
 Slow Query
 
 The PostgreSQL execution plan for this query was unexpected. Even though both tables have Indexes, PostgreSQL decided to do a Hash Join with a sequential scan on the large table. The sequential scan on a large table contributed to most of the query time.
 
-![picture](/2022/postgres/pic/155222_OKw5_2720166.png "Slow Query Execution Plan")
+![picture](/2022/postgresql/pic/155222_OKw5_2720166.png "Slow Query Execution Plan")
 
 Slow Query Execution Plan
 
 I initially suspected it could be due to fragmentation. But after inspecting the data, I realized this table was append only and there weren’t many deletions happening on this table. Since reclaiming space using vacuum is not going help much here, I started exploring more. Next, I tried the same query on another customer with good response times. To my surprise the query execution plan looked completely different!
 
 
-![picture](/2022/postgres/pic/155302_dgUC_2720166.png "similar Query")
+![picture](/2022/postgresql/pic/155302_dgUC_2720166.png "similar Query")
 Execution plan of similar query on another App
 
 Interestingly, app A only accessed 10x more data than app B, but the response time was 3000x longer.
@@ -32,7 +32,7 @@ Interestingly, app A only accessed 10x more data than app B, but the response ti
 To see the alternative query plans PostgreSQL considered before picking Hash Join, I disabled hash join and reran the query.
 
 
-![picture](/2022/postgres/pic/155333_HNGI_2720166.png "Alternative execution plan")
+![picture](/2022/postgresql/pic/155333_HNGI_2720166.png "Alternative execution plan")
 Alternative execution plan for Slow Query
 
 
@@ -44,7 +44,7 @@ That led me to the ‘random_page_cost’ and ‘seq_page_cost’ configuration 
 
 I changed ‘random_page_cost’ to 1 and retried the query. This time, PostgreSQL used a Nested Loop and the query finished 50x faster. After the change we also noticed a significant drop in max response times from PostgreSQL.
 
-![picture](/2022/postgres/pic/155432_GxGa_2720166.png "Slow Query")
+![picture](/2022/postgresql/pic/155432_GxGa_2720166.png "Slow Query")
 
 Overall Slow Query performance improved significantly
 
