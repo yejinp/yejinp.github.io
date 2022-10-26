@@ -10,16 +10,16 @@ category: PostgreSQL
 - 命令行操作
  - 创建一个新的数据库  
  
- ```createdb  <database name>
+ ```#createdb  <database name>
 
- - 移除数据库
- ```dropdb <database name>
+ - 删除数据库
+ ```#dropdb <database name>
 
  - 访问数据库
- ``` psql <database name>
+ ``` #psql <database name>
  
  - 启动或者停止PG服务
- ```pg_ctl start|stop -D <DataDIR>
+ ```#pg_ctl start|stop -D <DataDIR>
 
 操作数据
  - 创建数据库表

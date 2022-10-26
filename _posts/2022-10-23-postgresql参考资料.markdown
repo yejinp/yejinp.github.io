@@ -26,13 +26,15 @@ category: PostgreSQL
 
   - [Use The Index Luke](https://use-the-index-luke.com/sql/table-of-contents)
 
+* PostgreSQL自带工具
+
+  - pg_freespacemap
+
+  - pageinspect 扩展，编译安装后，CREATE EXTENSION pageinspect； 后即可使用
 
 * 辅助工具
-
   - pg_filedump: 分析pg文件的工具
  
   - pg_hexedit
 
   - hexdump: 分析堆表文件，可以直接查看任何文件的内容
-
-  - pageinspect 扩展，编译安装后，CREATE EXTENSION pageinspect； 后即可使用
