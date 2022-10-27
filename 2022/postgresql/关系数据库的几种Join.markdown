@@ -16,7 +16,7 @@ merge join
 先将Outer Loop 和 Inner loop 分别排序，然后两边归并忽略不相同的项；由于两个Loop都是排序后的，因此排序后的性能为O（Outer+Inner），排序的性能为 O(Outer) + O(Inner)
 
 hash join
-通过计算hash值比较，忽略hash值不同的，这个地方不需要排序；
+先计算Outer和Inner的， 然后基于这些hash值比较，忽略hash值不同的，这个地方不需要排序；
 
 
 * 参考资料：
