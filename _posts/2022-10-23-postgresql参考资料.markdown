@@ -26,9 +26,14 @@ category: PostgreSQL
 
   - [Use The Index Luke](https://use-the-index-luke.com/sql/table-of-contents)
 
-* 理论研究
+* 理论
 
   - Transaction Processing
+
+  - Abraham Silberschatz, Henry F. Korth, and S. Sudarshan, "Database System Concepts", McGraw-Hill Education, ISBN-13: 978-0073523323
+
+* 标准
+   - [sql1992标准](https://datacadamia.com/_media/data/type/relation/sql/sql1992.txt)
 
 * PostgreSQL自带工具
 

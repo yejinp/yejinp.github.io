@@ -5,8 +5,7 @@ date: 2022-10-23 20:20:23 +0800
 category: PostgreSQL
 ---
 
- From: [How-a-single-PostgreSQL-config-change-improved-slow-query-performance-by-50x]
-(https://amplitude.engineering/how-a-single-postgresql-config-change-improved-slow-query-performance-by-50x-85593b8991b0)
+From: [Source](https://amplitude.engineering/how-a-single-postgresql-config-change-improved-slow-query-performance-by-50x-85593b8991b0)
 
 
 At Amplitude, our goal is to provide easy-to-use interactive product analytics, so everyone can find answers to their product questions. In order to provide a great user experience, Amplitude needs to provide these answers quickly. So when one of our customers complained about how long it took to load the event properties dropdown in the Amplitude UI, we started digging into it.
