@@ -26,11 +26,18 @@ category: PostgreSQL
 
   - [Use The Index Luke](https://use-the-index-luke.com/sql/table-of-contents)
 
+* 理论研究
+
+  - Transaction Processing
+
 * PostgreSQL自带工具
 
   - pg_freespacemap 扩展，用于查看fsm信息
 
   - pageinspect 扩展，编译安装后，CREATE EXTENSION pageinspect； 后即可使用
+
+  - pg_stats 扩展： This is an extension of PostgreSQL, which contains some customized statistics views.
+
 
 * 辅助工具
   - pg_filedump: 分析pg文件的工具
