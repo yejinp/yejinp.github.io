@@ -30,9 +30,12 @@ category: PostgreSQL
   
   - [Serializable Snapshot Isolation in PostgreSQL](https://drkp.net/papers/ssi-vldb12.pdf)
 
-  - Transaction Processing
+  - Transaction Processing (听说很经典的书，豆瓣评分接近满分10.0分)
 
   - Abraham Silberschatz, Henry F. Korth, and S. Sudarshan, "Database System Concepts", McGraw-Hill Education, ISBN-13: 978-0073523323
+
+  - Thomas M. Connolly, and Carolyn E. Begg, "Database Systems", Pearson, ISBN-13: 978-0321523068
+
 
 * 标准
    - [sql1992标准](https://datacadamia.com/_media/data/type/relation/sql/sql1992.txt)
