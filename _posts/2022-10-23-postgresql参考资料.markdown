@@ -22,13 +22,13 @@ category: PostgreSQL
 
   - [干货-PostgreSQL数据表文件底层结构布局分析](https://blog.csdn.net/MyySophia/article/details/120724075)
 
-* SQL与性能
+* 索引与性能
 
   - [Use The Index Luke](https://use-the-index-luke.com/sql/table-of-contents)
 
 * PostgreSQL自带工具
 
-  - pg_freespacemap
+  - pg_freespacemap 扩展，用于查看fsm信息
 
   - pageinspect 扩展，编译安装后，CREATE EXTENSION pageinspect； 后即可使用
 
@@ -37,4 +37,4 @@ category: PostgreSQL
  
   - pg_hexedit
 
-  - hexdump: 分析堆表文件，可以直接查看任何文件的内容
+  - hexdump: 直接文件内容的利器，可以直接查看任何文件的二进制内容
