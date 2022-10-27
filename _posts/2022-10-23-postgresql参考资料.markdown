@@ -27,6 +27,8 @@ category: PostgreSQL
   - [Use The Index Luke](https://use-the-index-luke.com/sql/table-of-contents)
 
 * 理论
+  
+  - [Serializable Snapshot Isolation in PostgreSQL](https://drkp.net/papers/ssi-vldb12.pdf)
 
   - Transaction Processing
 
