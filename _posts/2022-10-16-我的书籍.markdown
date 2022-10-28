@@ -23,7 +23,7 @@ category: resource
 | Linux驱动开发 | | | | | |
 | Python核心编程 | | | | | |
 | 汇编语言 | | | | | |
-| 数据库系统概念 |Abraham Silberschatz\nHenry F. Korth\nS. Sudarshan | 第六版| | | |
+| 数据库系统概念 |Abraham Silberschatz<br>Henry F. Korth<br>S. Sudarshan | 第六版| | | |
 | Windows核心编程 | | | | | |
 | TCP/IP详解（卷1，卷2） | | | | | |
 | 逆序工程核心原理 | | | | | |
