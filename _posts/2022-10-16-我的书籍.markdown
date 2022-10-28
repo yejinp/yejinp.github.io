@@ -9,7 +9,7 @@ category: resource
 
 * IT 技术类
 
-| 书名 | 作者 | 出版社 | 版本 | ISBN |备注 |
+| 书名 | 作者 | 版本 | 出版社 | ISBN |备注 |
 |------|-----|-------|------|------|-----|
 | The.Go.Programming.Language | | | | | |
 | Go专家编程 | | | | | |
@@ -23,7 +23,7 @@ category: resource
 | Linux驱动开发 | | | | | |
 | Python核心编程 | | | | | |
 | 汇编语言 | | | | | |
-| 数据库系统概念 | | | | | |
+| 数据库系统概念 |Abraham Silberschatz, Henry F. Korth, and S. Sudarshan | 第六版| | | |
 | Windows核心编程 | | | | | |
 | TCP/IP详解（卷1，卷2） | | | | | |
 | 逆序工程核心原理 | | | | | |
