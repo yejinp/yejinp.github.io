@@ -1,22 +1,26 @@
 什么是Join操作： 依据一定的条件，查找2个表或者多个表
 
-nested loop join
-嵌套循环，简单的说就是暴力循环
+* nested loop join(嵌套循环)
+
+简单的说就是暴力循环
 
 算法描述如下：
+```
     for each tuple tr in r do begin
         for each tuple ts in s do begin
             test pair (tr, ts) to see if they satisfy the join condition θ
             if they do, add tr ⋅ ts to the result;
         end
     end
+```
 
-merge join
-归并Join
+* merge join(归并Join)
+
 先将Outer Loop 和 Inner loop 分别排序，然后两边归并忽略不相同的项；由于两个Loop都是排序后的，因此排序后的性能为O（Outer+Inner），排序的性能为 O(Outer) + O(Inner)
 
-hash join
-先计算Outer和Inner的， 然后基于这些hash值比较，忽略hash值不同的，这个地方不需要排序；
+* hash join
+
+先计算Outer和Inner的， 然后基于这些hash值比较，忽略hash值不同的，这个方法不需要排序；
 
 
 * 参考资料：
