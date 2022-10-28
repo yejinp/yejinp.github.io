@@ -33,7 +33,7 @@ category: resource
 
   - 汇编语言
 
-  - 数据库系统概论
+  - 数据库系统概念
 
   - Windows核心编程
 
