@@ -9,3 +9,8 @@
 the system.
 
   - D(urability): After a transaction completes successfully, the changes it has made to the database persist, even if there are system failures.
+
+
+* Reference:
+
+  - Abraham Silberschatz, Henry F. Korth, and S. Sudarshan, "[Database System Concepts](https://www.amazon.com/dp/0073523321)", McGraw-Hill Education, ISBN-13: 978-0073523323
