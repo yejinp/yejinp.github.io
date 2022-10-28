@@ -1,3 +1,24 @@
+* **不同级别禁止的现象**
+
+ - **脏读：** 一个事务读到了其他未提交事务写的数据；
+
+ - **不可重复的读：** 一个事务再次读取之前读取过的数据时发现，数据被其他事务修改（在最开始读后提交）了；
+
+ - **幻读：** 一个事务再次执行一个查询，返回满足搜索条件的数据集，发现这些满足条件的数据集被另外一个最近提交的事务修改了；
+
+ - **序列化异常：** 成功提交一组事务的结果，与一次性执行执行事务所有可能执行的顺序的结果不一致；  
+
+
+* **表，事务隔离级别**
+
+| 隔离级别 | 脏读  | 不可重复读 | 幻读 | 序列化异常 |
+|--|---|---|---|--|---|
+| 读到了没提交的数据 | 允许，但PG中不存在 | 可能 | 可能 | 可能 |
+| 读到了已经提交的数据  | 不可能  | 可能   | 可能  | 可能  |
+| 可重复读  |  不可能 |  不可能 | 允许，但PG中不存在  | 可能  |
+| 序列化 | 不可能  | 不可能  | 不可能 | 不可能 |
+
+
 **The phenomena which are prohibited at various levels are:**
 
 **dirty read** A transaction reads data written by a concurrent uncommitted transaction.
@@ -8,7 +29,6 @@
 
 **serialization anomaly** The result of successfully committing a group of transactions is inconsistent with all possible orderings of running those transactions one at a time.
 
-
 **Table. Transaction Isolation Levels**
 
 |Isolation Level	|Dirty Read	|Nonrepeatable Read	|Phantom Read	|Serialization Anomaly|
@@ -17,3 +37,12 @@
 |Read committed	|Not possible	|Possible	|Possible	|Possible|
 |Repeatable read	|Not possible	|Not possible	|Allowed, but not in PG	|Possible|
 |Serializable	|Not possible	|Not possible	|Not possible	|Not possible|
+
+
+* The isolation levels specified by the SQL standard are as follows:
+  - **Serializable** usually ensures serializable execution. However, as we shall explain shortly, some database systems implement this isolation level in a manner that may, in certain cases, allow nonserializable executions.
+  - **Repeatable read** allows only committed data to be read and further requires that, between two reads of a data item by a transaction, no other transaction is allowed to update it. However, the transaction may not be serializable with respect to other transactions. For instance, when it is searching for data satisfying some conditions, a transaction may find some of the data inserted by a committed transaction, but may not find other data inserted by the same transaction.
+  - **Read committed** allows only committed data to be read, but does not require repeatable reads. For instance, between two reads of a data item by the transaction, another transaction may have updated the data item and committed.
+  - **Read uncommitted** allows uncommitted data to be read. It is the lowest isolation level allowed by SQL.
+
+* All the isolation levels above additionally disallow **dirty writes**, that is, they disallow writes to a data item that has already been written by another transaction that has not yet committed or aborted.
