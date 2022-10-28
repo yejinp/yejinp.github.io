@@ -57,3 +57,7 @@
   - **Read uncommitted** allows uncommitted data to be read. It is the lowest isolation level allowed by SQL.
 
 * All the isolation levels above additionally disallow **dirty writes**, that is, they disallow writes to a data item that has already been written by another transaction that has not yet committed or aborted.
+
+* **参考：**
+
+  - Abraham Silberschatz, Henry F. Korth, and S. Sudarshan, "[Database System Concepts](https://www.amazon.com/dp/0073523321)", McGraw-Hill Education, ISBN-13: 978-0073523323
