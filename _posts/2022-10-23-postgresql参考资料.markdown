@@ -28,7 +28,7 @@ category: PostgreSQL
 
 * 理论
   
-  - [Serializable Snapshot Isolation in PostgreSQL](https://drkp.net/papers/ssi-vldb12.pdf)
+  - Dan R. K. Ports, and Kevin Grittner, "[Serializable Snapshot Isolation in PostgreSQL](https://drkp.net/papers/ssi-vldb12.pdf)", VDBL 2012
 
   - Transaction Processing (听说很经典的书，豆瓣评分接近满分10.0分)
 
