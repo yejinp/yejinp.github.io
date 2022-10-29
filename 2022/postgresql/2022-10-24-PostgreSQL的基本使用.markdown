@@ -13,16 +13,20 @@ category: PostgreSQL
  ```#createdb  <database name>```
 
  - 删除数据库
+
  ```#dropdb <database name>```
 
  - 访问数据库
+
  ``` #psql <database name>```
  
  - 启动或者停止PG服务
+ 
  ```#pg_ctl start|stop -D <DataDIR>```
 
 操作数据
  - 创建数据库表
+
 ```CREATE TABLE weather (
     city    varchar(80),
     temp_lo int,    -- low temperature
@@ -41,6 +45,7 @@ CREATE TABLE cities (
 ``` DROP TABLE tablename;```
 
  - 向表中填充行数据
+
  ```INSERT INTO weather VALUES ('San Francisco', 46, 50, 0.25, '1994-11-27');```
 
 ``` INSERT INTO cities VALUES ('San Francisco', '(-194.0, 53.0)');```
