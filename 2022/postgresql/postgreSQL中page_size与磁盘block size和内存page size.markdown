@@ -33,3 +33,8 @@ test=# SHOW block_size;
  - Linux操作系统的page size是内存页的大小
 
  - 磁盘的 block size也叫磁盘块，是磁盘存储文件的基本单位，一个磁盘块中不能存储两个文件；
+
+block size大于虚拟内存的 page size时，读取一个block size到内存中会引起跨page；
+
+block size越大，越容易实现HOT功能， Index-Only功能可能性越低；
+block size越小，越难实现HOT功能， Index-Only功能可能性越高；
