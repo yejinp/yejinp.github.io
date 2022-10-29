@@ -1,4 +1,4 @@
 
-WAL与checkpoint结合起来防止数据丢失，恢复数据的时候通过上次checkpoint后的WAL日志恢复数据，
+WAL与checkpoint结合起来防止数据丢失，恢复数据的时候通过回放上次checkpoint后的WAL日志恢复数据，
  但如果 checkpoint了一半过程中系统crash掉了会怎么样，还能恢复数据吗？这个时候checkpoint本身的状态可能是不对的
  写wal日志的过程也可能会丢数据导致不一致，这种情况如何防止不一致呢？
