@@ -7,7 +7,7 @@ category: PostgreSQL
 # PostgreSQL的基本使用
 
 
-- 命令行操作
+* 命令行操作
  - 创建一个新的数据库  
  
  ```#createdb  <database name>```
@@ -21,10 +21,10 @@ category: PostgreSQL
  ``` #psql <database name>```
  
  - 启动或者停止PG服务
- 
+
  ```#pg_ctl start|stop -D <DataDIR>```
 
-操作数据
+* 操作数据
  - 创建数据库表
 
 ```CREATE TABLE weather (
@@ -40,8 +40,13 @@ CREATE TABLE cities (
 );
 ```
 
- - 删除表
+ - 检查点
+ ```checkpoint ```
 
+ - 回收空间
+``` vacuum ```
+
+ - 删除表
 ``` DROP TABLE tablename;```
 
  - 向表中填充行数据
