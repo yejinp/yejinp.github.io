@@ -27,9 +27,9 @@
 | pg_xact(10.0及之后的版本) | 包含事务提交状态数据，在10.0版本中重命名未pg_clog ||
 | pg_xlog(9.6及之前的版本)|包含WAL段文件，在10.0版本中重命名未pg_wal||
 
-total cost = start-up + run
 
-start-up: the cost expended before the first tuple is fetched.
-run: the cost to fetch all tuples.
+数据存放在base目录中，每个数据库对应其中一个目录(目录名为数据库的oid)，数据库中的每个表对应一组文件，文件名为表名的oid；
+![picture](/interdb/fig-1-02.png "database directory")
+
 
 每个page的大小默认为8kb, 在configure源代码的时候可以通过参数block_size指定；
