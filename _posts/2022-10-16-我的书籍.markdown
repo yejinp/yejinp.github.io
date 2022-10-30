@@ -9,7 +9,7 @@ category: resource
 
 * IT 技术类
 
-| 书名 | 作者 | 版本 | 出版社 | ISBN |备注 |
+| 书名 | 作者/译者 | 版本 | 出版社 | ISBN |备注 |
 |------|-----|-------|------|------|-----|
 | The.Go.Programming.Language | | | | | |
 | Go专家编程 | | | | | |
@@ -23,7 +23,7 @@ category: resource
 | Linux驱动开发 | | | | | |
 | Python核心编程 | | | | | |
 | 汇编语言 | | | | | |
-| 数据库系统概念 |Abraham Silberschatz<br>Henry F. Korth<br>S. Sudarshan | 第六版| | | |
+| 数据库系统概念 |Abraham Silberschatz<br>Henry F. Korth<br>S. Sudarshan<br>杨冬青,李红燕,唐世渭 | 第六版|机械工业出版社 | 978-111-37529-6 | |
 | Windows核心编程 | | | | | |
 | TCP/IP详解（卷1，卷2） | | | | | |
 | 逆序工程核心原理 | | | | | |
@@ -33,19 +33,19 @@ category: resource
 | 编码 | | | | | |
 | 白帽子谈Web安全 | | | | | |
 | 算法| | 第四版| | | |
-| 算法导论| |第三版 | | | |
+| 算法导论|Thomas H.Cormen<br>Clarles E.Leiserson<br>Ronald L.Rivest<br>Clifford Stein |第三版 |机械工业出版社 |978-7-111-40701-0 | |
 | MySQL技术内幕-InnoDB存储引擎| | | | | |
 | 性能之巅--洞悉系统、企业与云计算| | | | | |
 | 人月神话| | | | | |
 | 数据结构与算法分析-C语言描述
 | C++ Primer Plus| | | | |
 | HTTP权威指南| | | | | |
-| C程序设计 | | | | | |
-| 高性能MySQL| |第三版 | | | |
-| 编程珠玑| | | | | |
-| 编程珠玑（续）| | | | | |
-| 程序员修炼之道-从小工到专家| | | | | |
-| PostgreSQL技术内幕-查询优化深度探索| | | | | |
+| C程序设计 | | | | | | 
+| 高性能MySQL| Baron Schwartz<br>Peter Zaitsev<br>Vadim Tkachenko<br>宁海元,周振兴<br>彭立勋,翟卫祥 |第三版 | 电子工业出版社 | 978-7-121-19885| |
+| 编程珠玑| Jon Bentley | 第二版 | 人民邮电出版社 | 978-115-35761-8 | |
+| 编程珠玑（续）| Jon Bentley | 修订版 | 人民邮电出版社 | 978-115-37372-4 | |
+| 程序员修炼之道-从小工到专家| Andrew Hunt<br>David Thomas<br>马维达 | | 电子工业出版社 | |978-7-121-12336-8 | |
+| PostgreSQL技术内幕-查询优化深度探索| 张树杰 | |电子工业出版社 | 979-7-121-34148-9| | 
 | 数据库索引设计与优化| | | | | |
 | 正则表达式必知必会| | | | | |
 | JAVA编程思想| | | | | |
@@ -54,7 +54,7 @@ category: resource
 | 现代操作系统| | | | | |
 | 代码整洁之道| | | | | |
 | 深入理解Nginx| | | | | |
-| 程序员的自我修炼-链接、装载与库| | | | | |
+| 程序员的自我修炼-链接、装载与库| | | | |
 | 软技能-代码之外的生存技能| | | | | |
 
 * 工具类
