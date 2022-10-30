@@ -12,3 +12,6 @@ process	description	reference
 
 进程图示例
 ![picture](/2022/postgresql/interdb/fig-2-01.png "processor")
+
+ * **参考**
+   - https://www.interdb.jp/pg/pgsql02.html
