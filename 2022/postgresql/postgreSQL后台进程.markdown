@@ -1,4 +1,4 @@
-process	description	reference
+* **process	description	reference**
 
 | 进程名 | 描述 | 备注 |
 |--|--|--|
@@ -10,7 +10,8 @@ process	description	reference
 | logging collector (logger) | 这个进程将错误消息写到日志文件中||
 | archiver | 这个进程中执行日志归档工作||
 
-进程图示例
+* **进程图示例**
+
 ![picture](/2022/postgresql/interdb/fig-2-01.png "processor")
 
  * **参考**
