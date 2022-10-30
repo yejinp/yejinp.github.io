@@ -9,3 +9,6 @@ process	description	reference
 | statistics collector | 这个进程中，收集统计信息，这些信息用于pg_stat_activity和pg_stat_database||
 | logging collector (logger) | 这个进程将错误消息写到日志文件中||
 | archiver | 这个进程中执行日志归档工作||
+
+进程图示例
+![picture](/interdb/fig-2-01.png "processor")
