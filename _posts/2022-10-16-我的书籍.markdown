@@ -26,7 +26,7 @@ category: resource
 | 数据库系统概念 |Abraham Silberschatz<br>Henry F. Korth<br>S. Sudarshan<br>杨冬青,李红燕,唐世渭 | 第六版|机械工业出版社 | 978-111-37529-6 | |
 | Windows核心编程 | | | | | |
 | TCP/IP详解（卷1，卷2） | | | | | |
-| 逆序工程核心原理 | | | | | |
+| 逆向工程核心原理 | | | | | |
 | 设计模式 | | | | | |
 | 深入Linux内核架构 | | | | | |
 | 代码大全| |第二版 | | | |
@@ -44,7 +44,7 @@ category: resource
 | 高性能MySQL| Baron Schwartz<br>Peter Zaitsev<br>Vadim Tkachenko<br>宁海元,周振兴<br>彭立勋,翟卫祥 |第三版 | 电子工业出版社 | 978-7-121-19885| |
 | 编程珠玑| Jon Bentley | 第二版 | 人民邮电出版社 | 978-115-35761-8 | |
 | 编程珠玑（续）| Jon Bentley | 修订版 | 人民邮电出版社 | 978-115-37372-4 | |
-| 程序员修炼之道-从小工到专家| Andrew Hunt<br>David Thomas<br>马维达 | | 电子工业出版社 | |978-7-121-12336-8 | |
+| 程序员修炼之道-从小工到专家| Andrew Hunt<br>David Thomas<br>马维达 | | 电子工业出版社 | 978-7-121-12336-8 | |
 | PostgreSQL技术内幕-查询优化深度探索| 张树杰 | |电子工业出版社 | 979-7-121-34148-9| | 
 | 数据库索引设计与优化| | | | | |
 | 正则表达式必知必会| | | | | |
