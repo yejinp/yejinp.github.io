@@ -1,5 +1,21 @@
 * **process	description	reference**
 
+
+* 一组多进程协助管理数据库集群的进程通常称为 PostgreSQL服务器，其包含下面各种类型的进程：
+
+  - 一个postgres服务器进程是数据库集群管理中所有相关进程的父进程；
+
+  - 每个后台进程处理一个客户端发过来的所有查询和提交的声明；
+
+  - 不同类型的后台进程为数据库管理处理不同特征的工作；
+
+  - 在复制相关的进程中，他们执行流复制；
+
+  - 后台工作进程从9.3版本开始支持，它可以执行任何用户实现的处理。 
+
+
+ * **进程名及其作用表**
+
 | 进程名 | 描述 | 备注 |
 |--|--|--|
 | background writer |	这个进程中，定期的基于一些基本的规则，将共享缓存中的脏页写到持久化存储（比如HDD或者SSD）中。<br>在版本9.1及之前，这个进程也负责checkpoint处理 ||
@@ -14,5 +30,28 @@
 
 ![picture](/2022/postgresql/interdb/fig-2-01.png "processor")
 
+
+从上图可知，每个客户发过来的链接都会导致创建一个进程，一次客户端使用连接池可以比较好的解决频繁创建进程的问题，频繁创建进程会影响服务器的性能；
+
+* **服务器端程序和用途**
+
+| 程序名 | 用途 | |
+|-|-|-|
+|initdb | 创建PostgreSQL数据库集群 ||
+|pg_archivecleanup | 清理PostgreSQL的WAL归档文件 ||
+|pg_checksums | 开启、关闭和检查PostgreSQL数据库集群中的数据校验和功能 ||
+|pg_controldata | 展示PostgreSQL数据库集群的控制信息 ||
+|pg_ctl | 初始化、启动、停止或者控制一个PostgreSQL服务器||
+|pg_resetwal | 重置WAL日志和其他PostgreSQL数据库集群的控制信息 ||
+|pg_rewind | 将PostgreSQL数据目录同步到另外一个从这个目录分叉（forked）的数据目录 ||
+|pg_test_fsync | 确定PostgreSQL的最快wal_sync_method ||
+|pg_test_timing | 衡量超时||
+|pg_upgrade | 升级PostgrSQL服务器实例||
+|pg_waldump | 展示PostgreSQL中，人类可读的WAL日志翻译||
+|postgres | PostgreSQL数据库服务器||
+|postmaster | PostgreSQL数据库服务器||
+
  * **参考**
    - https://www.interdb.jp/pg/pgsql02.html
+
+   - https://www.postgresql.org/docs/current/reference-server.html

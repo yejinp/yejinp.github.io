@@ -8,3 +8,5 @@ ACID 是 数据库中事务的4种属性，分别表示原子性、一致性、�
  - **一致性**
 
  - **持久化** 通过WAL（Write Ahead Logging）来实现
+
+ checkpoint过程中系统crash掉了会怎么样？

@@ -2,11 +2,11 @@
 
  - **脏读：** 一个事务读到了其他未提交事务写的数据；
 
- - **不可重复的读：** 一个事务再次读取之前读取过的数据时发现，数据被其他事务修改（在最开始那次读后提交）了；
+ - **不可重复的读：** 一个事务在第二次读取第一次读取过的数据时发现，数据被其他事务修改（在第一次读后提交的）了；
 
  - **幻读：** 一个事务再次执行一个查询，返回满足搜索条件的数据集，发现这些满足条件的数据集被另外一个最近提交的事务修改了，也就是两次执行查询满足条件，返回的结果不同；
 
- - **序列化异常：** 成功提交一组事务的结果，与所有一次性先后执行单个事务可能执行顺序的结果都不同；  
+ - **序列化异常：** 成功提交一组事务的结果，与所有一次性先后执行单个事务可能的执行顺序的结果都不同；
 
 
 * **事务隔离级别表**
@@ -20,7 +20,7 @@
 
 * SQL标准中隔离级别的具体说明如下：
  
- - **序列化** 通常保证序列化这些。然而，如我们解释的，一些数据库系统实现这个隔离级别时用了另外的方法，一定程度例子中，运行不序列化的执行；
+ - **序列化** 通常保证序列化执行。然而，如我们解释的，一些数据库系统实现这个隔离级别时用了另外的方法，一定程度例子中，运行不序列化的执行；
 
 - **可重复读** 运行只读取已经提交的数据，另外，一个事务中在两次读数据之间，不允许其他事务更新这些数据。然而，事务可能跟其他事务不是序列化的。比如，当查找满足某些条件的数据时，一个事务可能查到了某个事务已经提交了的插入数据，但可能没找到另外一些事务提交了的数据；
 
@@ -30,41 +30,13 @@
 
 上面所有的隔离级别都不允许**脏写**，也即，不允许写被另外一个事务写了，却没有提交或者中止了的数据；
 
-* 隔离级别中最严格的是可序列化，标准中定义可序列化的一章这样描述，保证任何一组序列化事务并发执行后产生的结果，就像按某种顺序一次执行一个事务一样；
-
-**The phenomena which are prohibited at various levels are:**
-
-**dirty read** A transaction reads data written by a concurrent uncommitted transaction.
-
-**nonrepeatable read** A transaction re-reads data it has previously read and finds that data has been modified by another transaction (that committed since the initial read).
-
-**phantom read** A transaction re-executes a query returning a set of rows that satisfy a search condition and finds that the set of rows satisfying the condition has changed due to another recently-committed transaction.
-
-**serialization anomaly** The result of successfully committing a group of transactions is inconsistent with all possible orderings of running those transactions one at a time.
-
-**Table. Transaction Isolation Levels**
-
-|Isolation Level	|Dirty Read	|Nonrepeatable Read	|Phantom Read	|Serialization Anomaly|
-|-------------------|-----------|-------------|----------|-----------|
-|Read uncommitted	|Allowed, but not in PG	|Possible	|Possible	|Possible|
-|Read committed	|Not possible	|Possible	|Possible	|Possible|
-|Repeatable read	|Not possible	|Not possible	|Allowed, but not in PG	|Possible|
-|Serializable	|Not possible	|Not possible	|Not possible	|Not possible|
+* 隔离级别中最严格的是可序列化，标准中定义可序列化的一章这样描述，保证任何一组序列化事务并发执行后产生的结果，就像按某种顺序一次执行这些事务中一个事务一样；
 
 
-* The isolation levels specified by the SQL standard are as follows:
-  - **Serializable** usually ensures serializable execution. However, as we shall explain shortly, some database systems implement this isolation level in a manner that may, in certain cases, allow nonserializable executions.
-  - **Repeatable read** allows only committed data to be read and further requires that, between two reads of a data item by a transaction, no other transaction is allowed to update it. However, the transaction may not be serializable with respect to other transactions. For instance, when it is searching for data satisfying some conditions, a transaction may find some of the data inserted by a committed transaction, but may not find other data inserted by the same transaction.
-  - **Read committed** allows only committed data to be read, but does not require repeatable reads. For instance, between two reads of a data item by the transaction, another transaction may have updated the data item and committed.
-  - **Read uncommitted** allows uncommitted data to be read. It is the lowest isolation level allowed by SQL.
-
-* All the isolation levels above additionally disallow **dirty writes**, that is, they disallow writes to a data item that has already been written by another transaction that has not yet committed or aborted.
-
-
-* The most strict is Serializable, which is defined by the standard in a paragraph which says that any concurrent execution of a set of Serializable transactions is guaranteed to produce the same effect as running them one at a time in some order.
-
-* **参考：**
+* **参考资料：**
 
   - Abraham Silberschatz, Henry F. Korth, and S. Sudarshan, "[Database System Concepts](https://www.amazon.com/dp/0073523321)", McGraw-Hill Education, ISBN-13: 978-0073523323
 
   - https://www.postgresql.org/docs/current/transaction-iso.html
+
+  - [sql1992标准](https://datacadamia.com/_media/data/type/relation/sql/sql1992.txt)

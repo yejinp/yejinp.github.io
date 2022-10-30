@@ -4,3 +4,11 @@ total cost = start-up + run
 
 start-up: the cost expended before the first tuple is fetched.
 run: the cost to fetch all tuples.
+
+查询处理过程
+![picture](/2022/postgresql/interdb/fig-3-01.png "query processing")
+
+
+**参考：**
+
+  - https://www.interdb.jp/pg/pgsql03.html
