@@ -11,4 +11,4 @@ process	description	reference
 | archiver | 这个进程中执行日志归档工作||
 
 进程图示例
-![picture](/interdb/fig-2-01.png "processor")
+![picture](/2022/postgresql/interdb/fig-2-01.png "processor")

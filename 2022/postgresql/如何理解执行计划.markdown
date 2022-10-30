@@ -1,4 +1,5 @@
 
+执行计划中的时间是相对概念，
 total cost = start-up + run
 
 start-up: the cost expended before the first tuple is fetched.

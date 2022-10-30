@@ -29,7 +29,11 @@
 
 
 数据存放在base目录中，每个数据库对应其中一个目录(目录名为数据库的oid)，数据库中的每个表对应一组文件，文件名为表名的oid；
-![picture](/interdb/fig-1-02.png "database directory")
+![picture](/2022/postgresql/interdb/fig-1-02.png "database directory")
 
 
 每个page的大小默认为8kb, 在configure源代码的时候可以通过参数block_size指定；
+
+
+* **参考**
+  - https://www.interdb.jp/pg/pgsql01.html
