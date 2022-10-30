@@ -35,7 +35,7 @@
 
 * **服务器端程序和用途**
 
-| 程序名 | 用途 | |
+| 服务端程序名 | 用途 | |
 |-|-|-|
 |initdb | 创建PostgreSQL数据库集群 ||
 |pg_archivecleanup | 清理PostgreSQL的WAL归档文件 ||
@@ -50,6 +50,31 @@
 |pg_waldump | 展示PostgreSQL中，人类可读的WAL日志翻译||
 |postgres | PostgreSQL数据库服务器||
 |postmaster | PostgreSQL数据库服务器||
+
+* **客户端程序和用途**
+
+| 客户程序名 | 用途 | |
+|-|-|-|
+|clusterdb | 建立一个PostgreSQL数据库集群 ||
+|createdb | 创建一个PostgreSQL数据库 ||
+|createuser | 定义一个新的PostgreSQL用户账号||
+|dropdb | 清理一个PostgreSQL数据库 ||
+|dropuser | 清理一个PostgreSQL用户账号 ||
+|ecpg | 嵌入C预处理到SQL中 ||
+|pg_amcheck | 检查一个或者多个数据库中是否由毁坏 ||
+|pg_basebackup | 建立一个PostgreSQL集群备份 ||
+|pgbench | 运行一个PostgrSQL基准测试 ||
+|pg_config | 获取PostgreSQL安装版本的信息 ||
+|pg_dump | 从PostgreSQL 数据库中将内容导出到脚本文件或者其他归档文件 ||
+|pg_dumpall | 从一个PostgreSQL 数据库集群内容到一个脚本文件 ||
+|pg_isready | 检查PostgreSQL服务器的连接状态 ||
+|pg_receivewal | 从PostgreSQL服务器获取WAL日志流 ||
+|pg_recvlogical | 控制PostgreSQL逻辑解码流 ||
+|pg_restore | 从一个由pg_dump创建的归档文件中恢复PostgreSQL数据库 ||
+|pg_verifybackup | 检验PostgreSQL集群基础备份的一致性 ||
+|psql | PostgreSQL 交互终端 ||
+|reindexdb | 重新建立PostgreSQL数据库索引 ||
+|vacuumdb | 垃圾回收和分析PostgreSQL数据库 ||
 
  * **参考**
    - https://www.interdb.jp/pg/pgsql02.html
