@@ -1,0 +1,5 @@
+
+total cost = start-up + run
+
+start-up: the cost expended before the first tuple is fetched.
+run: the cost to fetch all tuples.
