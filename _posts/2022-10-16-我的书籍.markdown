@@ -14,11 +14,11 @@ category: resource
 | The.Go.Programming.Language | Alan A. A. Donovan<br>Brian W. Kernighan |  | | | |
 | Go专家编程 | | | | | |
 | UNIX环境高级编程 | |第三版 | | | |
-| UNIX网络编程 | |第二版 | | | |
+| UNIX网络编程 | W.Richard Stevens<br> Bill Fenner <br>Andrew M.Rudoff |英文版.第三版 | 人民邮电出版社| 978-7-115-21509-3 | |
 | UNIX编程艺术 | | | | | |
-| C陷阱与缺陷 | | | | | |
+| C陷阱与缺陷 | Andrew Koenig<br>高巍 译|  |人民邮电出版社 |978-7-115-17179-5 | |
 | C专家编程 | | | | | |
-| 深入理解Linux内核 | |第三版 | | | |
+| 深入理解Linux内核 | Daniel P.Bovet <br> Marco Cesati<br>陈莉君 张琼声 张宏伟|第三版 |中国电力出版社 |978-7-5083-5394-4 | |
 | 深入理解计算机系统| |第三版 | | | |
 | Linux驱动开发 | | | | | |
 | Python核心编程 | | | | | |
@@ -41,18 +41,19 @@ category: resource
 | C++ Primer Plus| | | | |
 | HTTP权威指南| | | | | |
 | C程序设计 | | | | | | 
+| C程序设计语言 | Brian W.Kernighan<br>Dennis M.Ritchie | 英文版.第二版 |机械工业出版社 |7-111-19626-0 | | 
 | 高性能MySQL| Baron Schwartz<br>Peter Zaitsev<br>Vadim Tkachenko<br>宁海元,周振兴<br>彭立勋,翟卫祥 |第三版 | 电子工业出版社 | 978-7-121-19885| |
 | 编程珠玑| Jon Bentley | 第二版 | 人民邮电出版社 | 978-115-35761-8 | |
 | 编程珠玑（续）| Jon Bentley | 修订版 | 人民邮电出版社 | 978-115-37372-4 | |
 | 程序员修炼之道-从小工到专家| Andrew Hunt<br>David Thomas<br>马维达 | | 电子工业出版社 | 978-7-121-12336-8 | |
 | PostgreSQL技术内幕-查询优化深度探索| 张树杰 | |电子工业出版社 | 979-7-121-34148-9| | 
-| 数据库索引设计与优化|Tapio Lahdenmaki<br>Michael Leach<br>曹怡倩，赵建伟 | 电子工业出版社| |978-7-121-26054-4 | |
+| 数据库索引设计与优化|Tapio Lahdenmaki<br>Michael Leach<br>曹怡倩，赵建伟 译 | 电子工业出版社| |978-7-121-26054-4 | |
 | 正则表达式必知必会|Ben Forta<br>杨涛等 |人民邮电出版社 |修订版 | 978-7-115-37799-9| |
 | JAVA编程思想| | | | | |
 | 编译原理| | | | | |
-| 操作系统导论| | | | | |
-| 现代操作系统| | | | | |
-| 代码整洁之道| | | | | |
+| 操作系统导论| Remizi H.Arpaci-Dusseau<br> Andrea C.Arpaci-Dusseau|<br>王海鹏 译 | 中国工信出版集团 |978-7-115-50823-2 | |
+| 现代操作系统| Andrew S.Tanenbaum<br>Herbert Bos<br> 陈向群 | | | | |
+| 代码整洁之道| Robert C.Martin<br>韩磊 译 | 人民邮电出版社 |  | 978-7-115-21687-8| |
 | 深入理解Nginx| | | | | |
 | 程序员的自我修炼-链接、装载与库| | | | |
 | 软技能-代码之外的生存技能| | | | | |
@@ -129,7 +130,7 @@ category: resource
 | 高效能人士的七个习惯| 史蒂芬.柯维| 中国青年出版社| | | |
 | THINK & GROW RICH| Mapoleon Hill | The Random House Publishing Group| | 978-0-449-21492-3| |
 | 人性的弱点| 戴尔.卡耐基<br>平湖| 天津人民出版社| | 978-7-201-10140-8| |
-|||||||
+|重来|Jason Fried <br>David Heinemeier Hansson<br>李瑜偲 译| 中信出版社 | | 978-7-5086-2361-0 | |
 |||||||
 |||||||
 |||||||
