@@ -31,7 +31,7 @@ Vacuum Processing
 
 从上面可以看出来，这个过程使用的是共享更新排它锁，也即；
 
-<h2>Full VACUUM<h2>
+<h2>Full VACUUM</h2>
 
 * Full VACUUM模式的概要过程：
 
