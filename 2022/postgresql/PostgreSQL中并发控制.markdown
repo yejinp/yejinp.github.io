@@ -11,6 +11,8 @@ PostgreSQL中就是提供上述方法实现各种隔离级别；
 
 **从上面的描述看出了REAPEATABLE READ和READ COMMITED之间的区别，没看出怎么区分或者说实现REAPEATABLE READ和SERIALIZABLE 两个不同隔离级别的？？**
 
+答：通过 Serializable Snapshot Isolation 实现真正的可序列化。
+
 
 Transaction snapshots are provided by the transaction manager. In the READ COMMITTED isolation level, the transaction obtains a snapshot whenever an SQL command is executed; otherwise (REPEATABLE READ or SERIALIZABLE), the transaction only gets a snapshot when the first SQL command is executed.
 

@@ -22,6 +22,10 @@
 
   - **D**(urability): After a transaction completes successfully, the changes it has made to the database persist, even if there are system failures.
 
+* **Important**
+ 一些PostgreSQL数据类型和函数，依据事务行为具有特殊的规则。具体的说，对序列的修改（因此使用serial上面的列作为计数器）对所有事务立即可见，即使这个修改的事务取消修改了。
+ 
+Some PostgreSQL data types and functions have special rules regarding transactional behavior. In particular, changes made to a sequence (and therefore the counter of a column declared using serial) are immediately visible to all other transactions and are not rolled back if the transaction that made the changes aborts. 
 
 * **参考：**
 
