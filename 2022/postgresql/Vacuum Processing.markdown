@@ -33,6 +33,12 @@ Vacuum Processing
 
 <h2>Full VACUUM<h2>
 
+* Full VACUUM模式的概要过程：
+
+![picture](/2022/postgresql/interdb/fig-6-09.png "processor")
+
+
+
 ```
 (1)  FOR each table
 (2)       Acquire AccessExclusiveLock lock for the table
@@ -50,6 +56,8 @@ Vacuum Processing
 (11)  Remove unnecessary clog files and pages if possible
 ```
 
+
+
 从上面可以看出来，这个过程使用的是访问排它锁；
 
  * 对于VACUUM FULL命令，有两点需要注意：
@@ -57,3 +65,7 @@ Vacuum Processing
 
    - 最大可能会使用原表两倍的临时磁盘空间；因此，当处理一个大表时，有必要先检查磁盘容量是否够用；
 
+
+从这个图片可以看出来，处理过程可以回收磁盘空间，因此可以减少磁盘IO，提高效率；
+由于使用了排它锁，因此，在中国过程中其他人不能访问这个表，因此，需要减少这类操作。
+那么，什么时候执行FULL VACUUM就很关键；这恐怕没有简单的答案，一般的建议是，使用pg_freespacemap来查看表的FSM，当表的使用率很低时才执行 VACUUM FULL操作；
