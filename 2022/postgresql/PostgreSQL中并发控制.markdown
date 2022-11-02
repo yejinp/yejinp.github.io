@@ -17,3 +17,7 @@ PostgreSQL中就是提供上述方法实现各种隔离级别；
 Transaction snapshots are provided by the transaction manager. In the READ COMMITTED isolation level, the transaction obtains a snapshot whenever an SQL command is executed; otherwise (REPEATABLE READ or SERIALIZABLE), the transaction only gets a snapshot when the first SQL command is executed.
 
 When using the obtained snapshot for the visibility check, active transactions in the snapshot must be treated as in progress even if they have actually been committed or aborted. This rule is important because it causes the difference in the behaviour between READ COMMITTED and REPEATABLE READ (or SERIALIZABLE). 
+
+
+ * **参考**
+   - https://www.interdb.jp/pg/pgsql05.html

@@ -101,3 +101,7 @@ Each VM is composed of one or more 8 KB pages, and this file is stored with the 
 由于使用了排它锁，因此，在中国过程中其他人不能访问这个表，因此，需要减少这类操作。
 
 那么，什么时候执行FULL VACUUM就很关键；这恐怕没有简单的答案，一般的建议是，使用pg_freespacemap来查看表的FSM，当表的使用率很低时才执行 VACUUM FULL操作；
+
+
+ * **参考**
+   - https://www.interdb.jp/pg/pgsql06.html

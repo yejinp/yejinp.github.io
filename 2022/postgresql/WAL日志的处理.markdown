@@ -12,5 +12,18 @@ WAL日志是数据库实现持久化（即ACID中的D）的关键；其本质是
 ![picture](/2022/postgresql/interdb/fig-9-02.png "有WAL的情况")
 
 
-Before WAL was introduced (version 7.0 or earlier), PostgreSQL did synchronous writes to the disk by issuing a sync system call whenever changing a page in memory in order to ensure durability. Therefore, the modification commands such as INSERT and UPDATE were very poor-performance.
+从WAL恢复数据
+![picture](/2022/postgresql/interdb/fig-9-03.png "从WAL恢复数据")
 
+有些情况下，数据库写到持久化的文件可以存在被毁坏，这种情况下，则需要还原整个Page，因此在WAL中就需要备份整个Page。
+
+写全page
+![picture](/2022/postgresql/interdb/fig-9-04.png "写全page")
+
+
+从写全page恢复数据
+![picture](/2022/postgresql/interdb/fig-9-05.png "从写全page恢复数据")
+
+
+ * **参考**
+   - https://www.interdb.jp/pg/pgsql09.html
