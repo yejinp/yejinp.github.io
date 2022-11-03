@@ -35,7 +35,7 @@ category: PostgreSQL
 
 
 * 标准
-   - [sql1992标准](https://datacadamia.com/_media/data/type/relation/sql/sql1992.txt)
+  - [sql1992标准](https://datacadamia.com/_media/data/type/relation/sql/sql1992.txt)
 
 * PostgreSQL自带工具
   - pg_freespacemap 扩展，用于查看fsm信息
@@ -52,7 +52,7 @@ category: PostgreSQL
  
   - pg_hexedit
 
-  - hexdump: 直接文件内容的利器，可以直接查看任何文件的二进制内容
+  - hexdump: 查看任何文件内容的利器，可以直接查看任何文件的二进制内容
 
 * 其他
   - [预写日志(WAL)介绍](https://www.cnblogs.com/xuwc/p/14037750.html)
