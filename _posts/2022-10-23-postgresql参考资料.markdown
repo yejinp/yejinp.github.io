@@ -48,7 +48,7 @@ category: PostgreSQL
 
   - [pg_stats](https://github.com/s-hironobu/pg_stats) 扩展： This is an extension of PostgreSQL, which contains some customized statistics views.
 
-  - [pg_filedump](https://github.com/df7cb/pg_filedump): 分析pg文件的工具
+  - [pg_filedump](https://github.com/df7cb/pg_filedump): Display formatted contents of a PostgreSQL heap, index, or control file.
  
   - pg_hexedit
 
