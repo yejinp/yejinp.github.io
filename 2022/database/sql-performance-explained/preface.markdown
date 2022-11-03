@@ -1,3 +1,5 @@
+From [https://use-the-index-luke.com/](https://use-the-index-luke.com/)
+
 SQL performance problems are as old as SQL itself—some might even say that SQL is inherently slow. Although this might have been true in the early days of SQL, it is definitely not true anymore. Nevertheless SQL performance problems are still commonplace. How does this happen?
 
 The SQL language is perhaps the most successful fourth-generation programming language (4GL). Its main benefit is the capability to separate “what” and “how”. An SQL statement is a straight description of what is needed without instructions as to how to get it done. Consider the following example:
