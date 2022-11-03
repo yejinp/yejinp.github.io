@@ -42,13 +42,13 @@ category: PostgreSQL
 
   - pageinspect 扩展，编译安装后，CREATE EXTENSION pageinspect； 后即可使用
 
-  - pg_stats 扩展： This is an extension of PostgreSQL, which contains some customized statistics views.
-
   - pg_archivecleanup — clean up PostgreSQL WAL archive files
 
-
 * 辅助工具
-  - pg_filedump: 分析pg文件的工具
+
+  - [pg_stats](https://github.com/s-hironobu/pg_stats) 扩展： This is an extension of PostgreSQL, which contains some customized statistics views.
+
+  - [pg_filedump](https://github.com/df7cb/pg_filedump): 分析pg文件的工具
  
   - pg_hexedit
 
