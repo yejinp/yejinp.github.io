@@ -298,7 +298,7 @@ btree, for table "public.t"
 postgres=# alter index t_lower_idx alter column "lower" set statistics 69;
 ```
 PostgreSQL 11 has introduces a cleaner way to control statistics target for indexes by specifying the column number in ALTER INDEX ... SET STATISTICS command. The patch was developed by my colleague Alexander Korotkov, and Adrien Nayrat.
-Partial indexes
+<h3>Partial indexes</h3>
 Sometimes a need arises to index only part of table rows. This is usually related to a highly nonuniform distribution: it makes sense to search for an infrequent value by an index, but it is easier to find a frequent value by full scan of the table.
 
 We can certainly build a regular index on the "c" column, which will work the way we expect:
