@@ -34,18 +34,19 @@ So, each access method should provide all the necessary information about itself
 
 All the rest is the task of the access method:
 
-Implement an algorithm for building the index and map the data into pages (for the buffer cache manager to uniformly process each index).
-Search information in the index by a predicate in the form "indexed-field operator expression".
-Evaluate the index usage cost.
-Manipulate the locks required for correct parallel processing.
-Generate write-ahead log (WAL) records.
+ - Implement an algorithm for building the index and map the data into pages (for the buffer cache manager to uniformly process each index).
+ - Search information in the index by a predicate in the form "indexed-field operator expression".
+ - Evaluate the index usage cost.
+ - Manipulate the locks required for correct parallel processing.
+ - Generate write-ahead log (WAL) records.
+
 We will first consider capabilities of the general indexing engine and then proceed to considering different access methods.
 
 <h2>Indexing engine</h2>
 Indexing engine enables PostgreSQL to work with various access methods uniformly, but taking into account their features.
 
-Main scanning techniques
-Index scan
+<h3>Main scanning techniques</h3>
+<h3>Index scan</h3>
 We can work differently with TIDs provided by an index. Let's consider an example:
 
 ```
