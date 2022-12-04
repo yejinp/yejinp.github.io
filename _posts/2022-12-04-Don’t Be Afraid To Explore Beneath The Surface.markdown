@@ -5,8 +5,6 @@ date: 2022-12-04 21:20:23 +0800
 category: resource
 ---
 
-* Don’t Be Afraid To Explore Beneath The Surface *
-
 
 * Professor Aronnax risked his life and career to find the elusive Nautilus and to join Captain Nemo on a long series of amazing underwater adventures. We should do the same: Don’t be afraid to dive underwater – inside and underneath the tools, languages and technologies that you use every day. You may know all about how to use Postgres, but do you really know how Postgres itself works internally? Take a look inside; before you know it, you’ll be on an underwater adventure of your own. *
 
