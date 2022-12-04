@@ -34,6 +34,9 @@ category: resource
 
   - [格物](https://shockerli.net/)
 
+  - [电子书-ebook](https://www.ebookphp.com/)
+
+  - [电子书-finelybook](http://finelybook.com/category/ebooks/)
 
 * 工具类
   - [你注册过哪些网站](https://www.reg007.com/)
