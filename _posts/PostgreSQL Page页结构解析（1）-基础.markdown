@@ -10,10 +10,9 @@ category: PostgreSQL
 一、PG数据表存储基础
        一般来说，数据表数据物理存储在非易失性存储设备上面，PG也不例外。如下图所示，数据表中的数据存储在N个数据文件中，每个数据文件有N个Page（大小默认为8K，可在编译安装时指定）组成。Page为PG的最小存取单元。
 
-
 普通数据表存储结构
 
-<h2>数据页（Page）</h2>
+<h3>数据页（Page）</h3>
 
 数据页Page由页头、数据指针数组（ItemIdData）、可使用的空闲空间（Free Space）、实际数据（Items）和特殊空间（Special Space）组成。
 
@@ -34,25 +33,26 @@ category: PostgreSQL
 #make install
 
 简单使用
+```
 #psql -d testdb
 testdb#create extension pageinspect; -- 首次使用需创建Extension
-
+```
 -- 创建测试表
-
+```
 drop table if exists t_new;
 create table t_new (id char(4),c1 varchar(20));
 insert into t_new values('1','#');
-
+```
 -- 查看page header&item
-
+```
 SELECT * FROM page_header(get_raw_page('t_new', 0));
 select * from heap_page_items(get_raw_page('t_new',0));
-
+```
 Page Header&Item
 -- 查看Page中的raw内容
-
+```
 select * from get_raw_page('t_new', 0);
-
+```
 
 Page头部内容
 
@@ -65,7 +65,7 @@ https://www.postgresql.org/docs/11/static/pageinspect.html
 
 附：相关数据结构
 头文件：src/include/storage/bufpage.h
-
+```
 typedef struct PageHeaderData
 
 {
@@ -83,9 +83,9 @@ typedef struct PageHeaderData
 } PageHeaderData;
 
 typedef PageHeaderData *PageHeader;
-
+```
 头文件：src/include/storage/itemid.h
-
+```
 /*
 * An item pointer (also called line pointer) on a buffer page
 * In some cases an item pointer is "in use" but does not have any associated
@@ -113,7 +113,6 @@ typedefItemIdData*ItemId;
 #define LP_REDIRECT    2      /* HOT redirect (should have lp_len=0) */
 #define LP_DEAD        3      /* dead, may or may not have storage */
 
-
 /*
 * Item offsets and lengths are represented by these types when
 * they're not actually stored in an ItemIdData.
@@ -121,6 +120,6 @@ typedefItemIdData*ItemId;
 
 typedefuint16ItemOffset;
 typedefuint16ItemLength;
-
+```
 
 转自：[PostgreSQL Page页结构解析（1）-基础](http://blog.itpub.net/6906/viewspace-2374923/)
