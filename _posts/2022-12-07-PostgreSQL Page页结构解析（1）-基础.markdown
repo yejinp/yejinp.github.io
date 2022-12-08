@@ -8,9 +8,11 @@ category: PostgreSQL
     本文简单介绍了PG数据表的存储基础知识以及可用于解析数据页Page内容的pageinspcet插件。
 
 一、PG数据表存储基础
-       一般来说，数据表数据物理存储在非易失性存储设备上面，PG也不例外。如下图所示，数据表中的数据存储在N个数据文件中，每个数据文件有N个Page（大小默认为8K，可在编译安装时指定）组成。Page为PG的最小存取单元。
+
+    一般来说，数据表数据物理存储在非易失性存储设备上面，PG也不例外。如下图所示，数据表中的数据存储在N个数据文件中，每个数据文件有N个Page（大小默认为8K，可在编译安装时指定）组成。Page为PG的最小存取单元。
 
 普通数据表存储结构
+
 ![picture](/2022/postgresql/yuanmajiedu/afd4d2d798a479eb.jpeg "source code")
 
 <h3>数据页（Page）</h3>
@@ -24,15 +26,16 @@ category: PostgreSQL
     E、特殊空间用于存储索引访问使用的数据，不同的访问方法数据不同
 
 二、pageinspect插件
+
     如何简单快速方便的查看Page中的内容？不同于Oracle各种dump，在PG中可以方便的使用pageinspect插件提供的各种函数查看Page中的内容。
 
 安装
 得益于PG良好的扩展性，安装很简单：
-
+```
 #cd $PGSRC/contrib/pageinspect
 #make
 #make install
-
+```
 简单使用
 ```
 #psql -d testdb
@@ -55,14 +58,18 @@ Page Header&Item
 select * from get_raw_page('t_new', 0);
 ```
 
+![picture](/2022/postgresql/yuanmajiedu/0d317f8f69a17cc3.jpeg "source code")
+
 Page头部内容
+![picture](/2022/postgresql/yuanmajiedu/135573231dcef73a.jpeg "source code")
 
 Page尾部内容
+
 pageinspect的实现，可以查看pageinspect的源代码，更深入的可以通过直接分析Page中的数据内容进行理解，这部分内容在下一节再行介绍。
 
 参考文档：
-https://www.postgresql.org/docs/11/static/storage-page-layout.html
-https://www.postgresql.org/docs/11/static/pageinspect.html
+- https://www.postgresql.org/docs/11/static/storage-page-layout.html
+- https://www.postgresql.org/docs/11/static/pageinspect.html
 
 附：相关数据结构
 头文件：src/include/storage/bufpage.h
