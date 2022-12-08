@@ -27,7 +27,7 @@ category: PostgreSQL
 
 二、pageinspect插件
 
-    如何简单快速方便的查看Page中的内容？不同于Oracle各种dump，在PG中可以方便的使用pageinspect插件提供的各种函数查看Page中的内容。
+如何简单快速方便的查看Page中的内容？不同于Oracle各种dump，在PG中可以方便的使用pageinspect插件提供的各种函数查看Page中的内容。
 
 安装
 
