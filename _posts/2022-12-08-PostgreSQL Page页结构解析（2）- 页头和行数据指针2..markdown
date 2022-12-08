@@ -147,9 +147,9 @@ PageHeaderData之后是ItemId数组，每个元素占用的空间为4Bytes，数
 ```
 typedef struct ItemIdData
 {
-unsigned lp_off:15,/* offset to tuple (from start of page) */
-               lp_flags:2,/* state of item pointer, see below */
-              lp_len:15;/* byte length of tuple */
+    unsigned lp_off:15,/* offset to tuple (from start of page) */
+    lp_flags:2,/* state of item pointer, see below */
+    lp_len:15;/* byte length of tuple */
 } ItemIdData;
 
 typedef ItemIdData* ItemId;
@@ -191,6 +191,7 @@ lp_flags
 
 四、小结
 以上简单介绍了如何阅读Raw Datafile，包括页头和数据行指针信息，有兴趣的同学可在此基础上实现自己的“pageinspect"。下一节将介绍数据行信息。
+
 
 转自：
 [http://blog.itpub.net/6906/viewspace-2374922/](http://blog.itpub.net/6906/viewspace-2374922/)
