@@ -1,7 +1,7 @@
 ---
 layout: post
 title: PostgreSQL Page页结构解析（2）- 页头和行数据指针
-date: 2022-12-07 22:20:23 +0800
+date: 2022-12-08 22:20:23 +0800
 category: PostgreSQL
 ---
 
