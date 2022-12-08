@@ -11,6 +11,7 @@ category: PostgreSQL
        一般来说，数据表数据物理存储在非易失性存储设备上面，PG也不例外。如下图所示，数据表中的数据存储在N个数据文件中，每个数据文件有N个Page（大小默认为8K，可在编译安装时指定）组成。Page为PG的最小存取单元。
 
 普通数据表存储结构
+![picture](/2022/postgresql/yuanmajiedu/afd4d2d798a479eb.jpeg "source code")
 
 <h3>数据页（Page）</h3>
 
