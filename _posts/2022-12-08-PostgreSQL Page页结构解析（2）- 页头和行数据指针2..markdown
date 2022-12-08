@@ -78,7 +78,7 @@ pd_lsn(8bytes)
 A、0000000&0000008是hexdump工具的输出，不是数据内容
 
 B、X86使用小端模式，阅读字节码时注意高低位变换
-
+```
 pd_checksum(2bytes)
 [xdb@localhost utf8db]$ hexdump -C $PGDATA/base/16477/24801 -s 8 -n 2
 00000008  00 00                                            |..|
