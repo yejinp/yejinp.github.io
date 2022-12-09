@@ -7,7 +7,7 @@ category: PostgreSQL
 
 本文简单介绍了PG数据页Page中存储的原始内容以及如何阅读它们，包括页头PageHeader和行数据指针ItemId（Line Pointer）。
 
-一、测试数据
+## 一、测试数据
 
 ```
 -- 创建一张表，插入几行数据
@@ -43,7 +43,7 @@ base/16477/24801
 00002000
 ```
 
-二、PageHeader
+## 二、PageHeader
 
 上一节提到过PageHeaderData，其数据结构如下：
 ```
@@ -141,7 +141,7 @@ pd_prune_xid(4bytes)
 
 prune_xid为\x0000，即0
 
-三、ItemIds
+## 三、ItemIds
 
 PageHeaderData之后是ItemId数组，每个元素占用的空间为4Bytes，数据结构：
 ```
@@ -189,11 +189,12 @@ lp_flags
 
 取第17-16位，01，即1
 
-四、小结
+## 四、小结
 
 以上简单介绍了如何阅读Raw Datafile，包括页头和数据行指针信息，有兴趣的同学可在此基础上实现自己的“pageinspect"。下一节将介绍数据行信息。
 
 
-转自：
+
+#### 转自：
 
 [http://blog.itpub.net/6906/viewspace-2374922/](http://blog.itpub.net/6906/viewspace-2374922/)

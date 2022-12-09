@@ -8,7 +8,8 @@ category: PostgreSQL
 
 本文介绍了PG数据页Page中存储的原始内容以及如何阅读它们，这一节主要介绍行数据（Items）。
 
-一、测试数据
+## 一、测试数据
+
 详见上一节，数据文件中的内容如下：
 ```
 [xdb@localhost utf8db]$ hexdump -C $PGDATA/base/16477/24801
@@ -29,11 +30,13 @@ category: PostgreSQL
 00001ff0  01 00 00 00 13 31 20 20  20 20 20 20 20 05 61 00  |.....1      .a.|
 00002000
 ```
-二、Items（Tuples）
+
+## 二、Items（Tuples）
 
 每个Tuple包括两部分，第一部分是Tuple头部信息，第二部分是实际的数据。
 
-1、HeapTupleHeader
+### 1、HeapTupleHeader
+
 相关数据结构如下：
 ```
 //--------------------- src/include/storage/off.h
@@ -274,8 +277,10 @@ t_hoff
 24
 //用户数据开始偏移为24，即8152+24
 ```
-2、Tuple
+
+### 2、Tuple
 说完了Tuple的头部数据，接下来我们看看实际的数据存储。上一节我们得到Tuple总的长度是39，计算得到数据大小为39-24=15。
+
 ```
 [xdb@localhost ~]$ hexdump -C $PGDATA/base/16477/24801 -s 8176 -n 15
 00001ff0  01 00 00 00 13 31 20 20  20 20 20 20 20 05 61     |.....1       .a|
@@ -292,8 +297,9 @@ id=\x00000001，数字1
 c1=\x133120202020202020，字符串，无需高低位变换，第1个字节\x13为标志位，后面是字符'1'+7个空格
 c2=\x0561，字符串，第1个字节\x05为标志位，后面是字符'a'
 ```
-三、小结
+## 三、小结
 
 以上简单介绍了如何阅读Raw Datafile中的数据行信息，包括Tuple头部信息和用户数据。在空间使用上面，可以看PG到为了进行实际的数据查询和MVCC等机制，数据库添加了很多的额外信息，实际占用的空间大小比实际的数据要大很多，如果使用列式存储应可有效的压缩空间。
 
-转自：[http://blog.itpub.net/6906/viewspace-2374921/](http://blog.itpub.net/6906/viewspace-2374921/)
+#### 转自：
+[http://blog.itpub.net/6906/viewspace-2374921/](http://blog.itpub.net/6906/viewspace-2374921/)
