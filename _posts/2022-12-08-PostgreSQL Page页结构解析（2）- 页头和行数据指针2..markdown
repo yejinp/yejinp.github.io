@@ -190,8 +190,10 @@ lp_flags
 取第17-16位，01，即1
 
 四、小结
+
 以上简单介绍了如何阅读Raw Datafile，包括页头和数据行指针信息，有兴趣的同学可在此基础上实现自己的“pageinspect"。下一节将介绍数据行信息。
 
 
 转自：
+
 [http://blog.itpub.net/6906/viewspace-2374922/](http://blog.itpub.net/6906/viewspace-2374922/)
