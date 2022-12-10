@@ -59,7 +59,7 @@ insert into t_new values('1','#');
 SELECT * FROM page_header(get_raw_page('t_new', 0));
 select * from heap_page_items(get_raw_page('t_new',0));
 ```
-Page Header&Item
+**Page Header&Item**
 
 查看Page中的raw内容
 

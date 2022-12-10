@@ -85,7 +85,7 @@ pd_checksum(2bytes)
 0000000a
 ```
 
-checksum为\x0000
+**checksum为\x0000**
 
 pd_flags(2bytes)
 ```
@@ -94,7 +94,7 @@ pd_flags(2bytes)
 0000000c
 ```
 
-flags为\x0000
+**flags为\x0000**
 
 ```
 pd_lower(2bytes)
@@ -103,7 +103,7 @@ pd_lower(2bytes)
 0000000e
 ```
 
-lower为\x0028，十进制值为40
+**lower为\x0028，十进制值为40**
 
 pd_upper(2bytes)
 ```
@@ -114,32 +114,32 @@ pd_upper(2bytes)
 8032
 ```
 
-upper为\x1f60，十进制为8032
+**upper为\x1f60，十进制为8032**
 ```
 pd_special(2bytes)
 [xdb@localhost utf8db]$ hexdump -C $PGDATA/base/16477/24801 -s 16 -n 2
 00000010  00 20                                            |. |
 00000012
 ```
-Special Space为\x2000，十进制值为8192
+**Special Space为\x2000，十进制值为8192**
 
-pd_pagesize_version(2bytes)
+**pd_pagesize_version(2bytes)**
 ```
 [xdb@localhost utf8db]$ hexdump -C $PGDATA/base/16477/24801 -s 18 -n 2
 00000012  04 20                                            |. |
 00000014
 ```
 
-pagesize_version为\x2004，十进制为8196（即版本4）
+**pagesize_version为\x2004，十进制为8196（即版本4）**
 
-pd_prune_xid(4bytes)
+**pd_prune_xid(4bytes)**
 ```
 [xdb@localhost utf8db]$ hexdump -C $PGDATA/base/16477/24801 -s 20 -n 4
 00000014  00 00 00 00                                      |....|
 00000018
 ```
 
-prune_xid为\x0000，即0
+**prune_xid为\x0000，即0**
 
 ## 三、ItemIds
 
@@ -155,14 +155,14 @@ typedef struct ItemIdData
 typedef ItemIdData* ItemId;
 ```
 
-lp_off
+**lp_off**
 ```
 [xdb@localhost utf8db]$ hexdump -C $PGDATA/base/16477/24801 -s 24 -n 2
 00000018  d8 9f                                            |..|
 0000001a
 ```
 
-取低15位
+**取低15位**
 ```
 [xdb@localhost utf8db]$ echo $((0x9fd8 & ~$((1<<15))))
 8152
@@ -170,7 +170,7 @@ lp_off
 
 表示第1个Item（tuple）从8152开始
 
-lp_len
+**lp_len**
 ```
 [xdb@localhost utf8db]$ hexdump -C $PGDATA/base/16477/24801 -s 26 -n 2
 0000001a  4e 00                                            |N.|
@@ -185,14 +185,13 @@ lp_len
 
 表示第1个Item（tuple）的大小为39
 
-lp_flags
+**lp_flags**
 
 取第17-16位，01，即1
 
 ## 四、小结
 
 以上简单介绍了如何阅读Raw Datafile，包括页头和数据行指针信息，有兴趣的同学可在此基础上实现自己的“pageinspect"。下一节将介绍数据行信息。
-
 
 
 #### 转自：
