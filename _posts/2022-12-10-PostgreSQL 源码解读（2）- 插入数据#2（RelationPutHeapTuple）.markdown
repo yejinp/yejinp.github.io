@@ -193,7 +193,7 @@ Heap（还有一种是Index）类型Tuple的头部数据，在Page结构中已�
       /* MORE DATA FOLLOWS AT END OF STRUCT */
  };
 ```
-### 4。 ItemPointerData
+### 4. ItemPointerData
 数据行指针数据结构，ip_blkid是数据块ID，ip_posid是Tuple在数据块中的偏移（其实是类似数组中的序号）。
 ```
 typedef struct ItemPointerData
@@ -212,7 +212,7 @@ typedef struct ItemPointerData
  
  typedef BlockIdData *BlockId; /* block identifier */
 ```
-### 5、HeapTuple
+### 5. HeapTuple
 存储在Heap中的Tuple（Row）数据结构：
 ```
 typedef struct HeapTupleData
@@ -318,7 +318,7 @@ typedef struct HeapTupleData
  #define PageGetItemId(page, offsetNumber) \
   ((ItemId) (&((PageHeader) (page))->pd_linp[(offsetNumber) - 1]))
 ```
-### 12、PageGetItem
+### 12. PageGetItem
 根据ItemId获取相应的Item（Tuple）
 ```
  /*
