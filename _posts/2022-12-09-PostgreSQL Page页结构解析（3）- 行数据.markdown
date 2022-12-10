@@ -111,11 +111,8 @@ typedef struct HeapTupleFields
 typedef struct DatumTupleFields
 {
     int32       datum_len_;     /* varlena header (do not touch directly!) */
-
     int32       datum_typmod;   /* -1, or identifier of a record type */
-
     Oid         datum_typeid;   /* composite type OID, or RECORDOID */
-
     /*
      * datum_typeid cannot be a domain over composite, only plain composite,
      * even if the datum is meant as a value of a domain-over-composite type.
@@ -139,21 +136,15 @@ struct HeapTupleHeaderData
                                  * speculative insertion token) */
 
     /* Fields below here must match MinimalTupleData! */
-
 #define FIELDNO_HEAPTUPLEHEADERDATA_INFOMASK2 2
     uint16      t_infomask2;    /* number of attributes + various flags */
-
 #define FIELDNO_HEAPTUPLEHEADERDATA_INFOMASK 3
     uint16      t_infomask;     /* various flag bits, see below */
-
 #define FIELDNO_HEAPTUPLEHEADERDATA_HOFF 4
     uint8       t_hoff;         /* sizeof header incl. bitmap, padding */
-
     /* ^ - 23 bytes - ^ */
-
 #define FIELDNO_HEAPTUPLEHEADERDATA_BITS 5
     bits8       t_bits[FLEXIBLE_ARRAY_MEMBER];  /* bitmap of NULLs */
-
     /* MORE DATA FOLLOWS AT END OF STRUCT */
 };
 ```
@@ -171,7 +162,7 @@ t_hoff          uint8           1 byte  22      offset to user data
 //注意：t_cid和t_xvac为联合体，共用存储空间
 ```
 从上一节我们已经得出第1个Tuple的偏移为8152，下面使用hexdump对其中的数据逐个解析：
-t_xmin
+** t_xmin **
 ```
 [xdb@localhost ~]$ hexdump -C $PGDATA/base/16477/24801 -s 8152 -n 4
 00001fd8  e2 1b 18 00                                       |....|
@@ -179,27 +170,28 @@ t_xmin
 [xdb@localhost ~]$ echo $((0x00181be2))
 1580002
 ```
-t_xmax
+**t_xmax**
 ```
 [xdb@localhost ~]$ hexdump -C $PGDATA/base/16477/24801 -s 8156 -n 4
 00001fdc  00 00 00 00                                       |....|
 00001fe0
 ```
-t_cid/t_xvac
+**t_cid/t_xvac**
 ```
 [xdb@localhost ~]$ hexdump -C $PGDATA/base/16477/24801 -s 8160 -n 4
 00001fe0  00 00 00 00                                       |....|
 00001fe4
 ```
-t_ctid
+**t_ctid**
 ```
 [xdb@localhost ~]$ hexdump -C $PGDATA/base/16477/24801 -s 8164 -n 6
 00001fe4  00 00 00 00 01 00                                 |......|
 00001fea
-```
 //ip_blkid=\x0000，即blockid=0
 //ip_posid=\x0001，即posid=1，第1个tuple
-t_infomask2
+
+```
+**t_infomask2**
 ```
 [xdb@localhost ~]$ hexdump -C $PGDATA/base/16477/24801 -s 8170 -n 2
 00001fea  03 00                                             |..|
@@ -226,7 +218,7 @@ t_infomask2
 1111111111111110 #define SpecTokenOffsetNumber       0xfffe
 //前（低）11位为属性的个数，3意味着有3个属性（字段）
 ```
-t_infomask
+**t_infomask**
 ```
 [xdb@localhost ~]$ hexdump -C $PGDATA/base/16477/24801 -s 8172 -n 2
 00001fec  02 08                                             |..|
@@ -268,7 +260,7 @@ t_infomask
 //\x0802，二进制100000000010表示第2位和第12位为1，
 //意味着存在可变长属性（HEAP_HASVARWIDTH），XMAX无效（HEAP_XMAX_INVALID）
 ```
-t_hoff
+**t_hoff**
 ```
 [xdb@localhost ~]$ hexdump -C $PGDATA/base/16477/24801 -s 8174 -n 1
 00001fee  18                                                |.|

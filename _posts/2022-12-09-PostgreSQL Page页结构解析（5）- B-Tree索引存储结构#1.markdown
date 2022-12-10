@@ -163,14 +163,14 @@ testdb=# select * from bt_page_items('pk_t_index',1);
 00004000
 -- 以上为索引数据Page 0的索引数据
 ```
-ItemPointerData
+**ItemPointerData**
 ```
 [xdb@localhost utf8db]$ hexdump -C base/16477/26637 -s 16304 -n 6
 00003fb0  00 00 00 00 04 00                                 |......|
 00003fb6
 -- blockid=\x0000，offset=\x0004
 ```
-t_info
+**t_info**
 ```
 [xdb@localhost utf8db]$ hexdump -C base/16477/26637 -s 16310 -n 2
 00003fb6  10 00                                             |..|
@@ -180,11 +180,11 @@ t_info=\x0010，即16，表示tuple（索引项）大小为16个字节
 ## 三、小结
 小结一下，主要有以下几点：
 
-1、数据存储：索引数据页头和与普通数据表页头一样的结构，占用24个字节，ItemIds占用4个字节；
+1. 数据存储：索引数据页头和与普通数据表页头一样的结构，占用24个字节，ItemIds占用4个字节；
 
-2、索引entries：结构为IndexTupleData+Bitmap+Value；
+2. 索引entries：结构为IndexTupleData+Bitmap+Value；
 
-3、内容查看：可通过pageinspect插件，推荐通过hexdump物理文件查看，有助于理解数据结构和数据的底层存储格式
+3. 内容查看：可通过pageinspect插件，推荐通过hexdump物理文件查看，有助于理解数据结构和数据的底层存储格式
 
 更详细的B-Tree物理/逻辑结构在下一节解析。
 
