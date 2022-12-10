@@ -67,7 +67,7 @@ root/branch index block存储的是指向其他index block的指针。
 这里有个疑惑，正常来说，root index block中的entries应指向index block，但ctid的值（2,53）和（4,105）指向的却是Heap Table Block，PG11 Beta2的Bug？
 
 
-In a B-tree leaf page, ctid points to a heap tuple. In an internal page, the block number part of ctid points to another page in the index itself, while the offset part (the second number) is ignored and is usually 1.
+> In a B-tree leaf page, ctid points to a heap tuple. In an internal page, the block number part of ctid points to another page in the index itself, while the offset part (the second number) is ignored and is usually 1.
 
 ```
 testdb=# select * from heap_page_items(get_raw_page('t_index',2)) where t_ctid = '(2,53)';
@@ -109,16 +109,11 @@ testdb=# select * from bt_page_items('pk_t_index',1) limit 10;
 
 值得注意到，index entries的第1个条目，是最大值\x017b，第2个条目才是最小值，接下来的条目是按顺序存储的其他值。源码的README（src/backend/access/nbtree/README）里面有解释：
 
-On a page that is not rightmost in its tree level, the "high key" is
-kept in the page's first item, and real data items start at item 2.
-The link portion of the "high key" item goes unused. A page that is
-rightmost has no "high key", so data items start with the first item.
-Putting the high key at the left, rather than the right, may seem odd,
-but it avoids moving the high key as we add data items.
+>On a page that is not rightmost in its tree level, the "high key" is kept in the page's first item, and real data items start at item 2. The link portion of the "high key" item goes unused. A page that is rightmost has no "high key", so data items start with the first item. Putting the high key at the left, rather than the right, may seem odd,but it avoids moving the high key as we add data items.
 
 官方文档也有相关解释：
 
-Note that the first item on any non-rightmost page (any page with a non-zero value in the btpo_next field) is the page's “high key”, meaning its data serves as an upper bound on all items appearing on the page, while its ctid field is meaningless. Also, on non-leaf pages, the first real data item (the first item that is not a high key) is a “minus infinity” item, with no actual value in its data field. Such an item does have a valid downlink in its ctid field, however.
+> Note that the first item on any non-rightmost page (any page with a non-zero value in the btpo_next field) is the page's “high key”, meaning its data serves as an upper bound on all items appearing on the page, while its ctid field is meaningless. Also, on non-leaf pages, the first real data item (the first item that is not a high key) is a “minus infinity” item, with no actual value in its data field. Such an item does have a valid downlink in its ctid field, however.
 
 下面我们再来看看index block 2&4：
 ```
