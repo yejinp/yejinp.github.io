@@ -13,11 +13,11 @@ category: resource
 |------|-----|-------|------|------|-----|
 | The.Go.Programming.Language | Alan A. A. Donovan<br>Brian W. Kernighan |  | | | |
 | Go专家编程 | | | | | |
-| UNIX环境高级编程 | |第三版 | | | |
+| UNIX环境高级编程 |W.Richard Stevens<br>Stephen A.Rago |第2版 | 人民邮电出版社| 978-7-115-14484-3| |
 | UNIX网络编程 | W.Richard Stevens<br> Bill Fenner <br>Andrew M.Rudoff |英文版<br>第三版 | 人民邮电出版社| 978-7-115-21509-3 | |
 | UNIX编程艺术 | | | | | |
 | C陷阱与缺陷 | Andrew Koenig<br>高巍 译|  |人民邮电出版社 |978-7-115-17179-5 | |
-| C专家编程 | | | | | |
+| C专家编程 | Peter Van Der Linden<br>徐 波 译| | 人民邮电出版社 |978-7-115-17180-1 | |
 | 深入理解Linux内核 | Daniel P.Bovet <br> Marco Cesati<br>陈莉君 张琼声 张宏伟|第三版 |中国电力出版社 |978-7-5083-5394-4 | |
 | 深入理解计算机系统| |第三版 | | | |
 | Linux驱动开发 | | | | | |
@@ -50,13 +50,13 @@ category: resource
 | 数据库索引设计与优化|Tapio Lahdenmaki<br>Michael Leach<br>曹怡倩，赵建伟 译 | |电子工业出版社|978-7-121-26054-4 | |
 | 正则表达式必知必会|Ben Forta<br>杨涛等|修订版 |人民邮电出版社 | 978-7-115-37799-9| |
 | JAVA编程思想| | | | | |
-| 编译原理| | | | | |
+| 编译原理|Alfred V.Aho Ravi Sethi Jeffrey D.Ullman<br>李建中 姜守旭 译 | | 机械工业出版社 | 7-111-12349-2| |
 | 操作系统导论| Remizi H.Arpaci-Dusseau<br> Andrea C.Arpaci-Dusseau<br>王海鹏 译| | 中国工信出版集团 |978-7-115-50823-2 | |
-| 现代操作系统| Andrew S.Tanenbaum<br>Herbert Bos<br> 陈向群 | | | | |
+| 现代操作系统| Andrew S.Tanenbaum<br>Herbert Bos<br> 陈向群 马洪兵 | 原书第4版| 机械工业出版社 |978-7-111-57369-2 | |
 | 代码整洁之道| Robert C.Martin<br>韩磊 译 | |人民邮电出版社 | 978-7-115-21687-8| |
-| 深入理解Nginx| | | | | |
+| 深入理解Nginx| 陶辉|第2版 |机械工业出版社 |978-7-111-52625-4 | |
 | 程序员的自我修炼-链接、装载与库| | | | |
-| 软技能-代码之外的生存技能| | | | | |
+| 软技能-代码之外的生存技能| John Z.Sonmez <br>王小刚 译| |人民邮电出版社 |978-7-115-42947-6 | |
 
 * 工具类
 
