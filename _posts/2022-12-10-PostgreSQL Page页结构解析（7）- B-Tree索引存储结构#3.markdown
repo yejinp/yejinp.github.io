@@ -56,12 +56,19 @@ testdb=# select * from bt_page_items('pk_t_index',3);
           3 | (4,105) |      16 | f     | f    | e9 02 00 00 00 00 00 00
 (3 rows)
 ```
-root/branch index block存储的是指向其他index block的指针。第1行，index entries指向第1个index block，由于该block没有left block，因此，itemlen只有8个字节，数据范围为1-\x0000017b（十进制值为379）；第2行，index entries指向第2个index block，数据范围为380-\x000002e9（745）；第3行，index entries指向第4个index block，数据范围为大于745的值。
+root/branch index block存储的是指向其他index block的指针。
+
+第1行，index entries指向第1个index block，由于该block没有left block，因此，itemlen只有8个字节，数据范围为1-\x0000017b（十进制值为379）；
+
+第2行，index entries指向第2个index block，数据范围为380-\x000002e9（745）；
+
+第3行，index entries指向第4个index block，数据范围为大于745的值。
 
 这里有个疑惑，正常来说，root index block中的entries应指向index block，但ctid的值（2,53）和（4,105）指向的却是Heap Table Block，PG11 Beta2的Bug？
 
 
 In a B-tree leaf page, ctid points to a heap tuple. In an internal page, the block number part of ctid points to another page in the index itself, while the offset part (the second number) is ignored and is usually 1.
+
 ```
 testdb=# select * from heap_page_items(get_raw_page('t_index',2)) where t_ctid = '(2,53)';
  lp | lp_off | lp_flags | lp_len | t_xmin  | t_xmax | t_field3 | t_ctid | t_infomask2 | t_infomask | t_hoff | t_bits | t_oid |                  t_data                  
