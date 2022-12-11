@@ -80,8 +80,8 @@ typedef struct BulkInsertStateData *BulkInsertState;
 ```
  typedef uint64 XLogRecPtr;
 ```
-## 依赖的函数
-### 1. heap_prepare_insert
+### 依赖的函数
+#### 1. heap_prepare_insert
 ```
 /*
  * Subroutine for heap_insert(). Prepares a tuple for insertion. This sets the
@@ -164,7 +164,7 @@ heap_prepare_insert(Relation relation, HeapTuple tup, TransactionId xid,
         return tup;
 }
 ```
-### 2. RelationGetBufferForTuple
+#### 2. RelationGetBufferForTuple
 稍长，请耐心阅读，如能读懂，必有收获
 ```
 /*
@@ -662,7 +662,7 @@ ReadBufferBI(Relation relation, BlockNumber targetBlock,
      return buf;
  }
 ```
-### 3. CheckForSerializableConflictIn
+#### 3. CheckForSerializableConflictIn
 检查序列化操作是否会出现冲突。比如并发执行delete & update操作的时候。
 ```
 /*
@@ -733,26 +733,26 @@ ReadBufferBI(Relation relation, BlockNumber targetBlock,
      CheckTargetForConflictsIn(&targettag);
  }
  ```
-### 4. START_CRIT_SECTION
+#### 4. START_CRIT_SECTION
 ```
 extern PGDLLIMPORT volatile uint32 CritSectionCount; 
 #define START_CRIT_SECTION()  (CritSectionCount++)
 ```
-### 5. PageIsAllVisible
+#### 5. PageIsAllVisible
 
 通过位操作判断Page是否All Visible
 ```
 #define PageIsAllVisible(page) \
      (((PageHeader) (page))->pd_flags & PD_ALL_VISIBLE)
 ```
-### 6. PageClearAllVisible
+#### 6. PageClearAllVisible
 
 通过位操作清除All Visible标记
 ```
  #define PageClearAllVisible(page) \
   (((PageHeader) (page))->pd_flags &= ~PD_ALL_VISIBLE)
 ```
-### 7. visibilitymap_clear
+#### 7. visibilitymap_clear
 ```
 //TODO 缓冲区管理相关的设置，待进一步理解
  /*
@@ -793,7 +793,7 @@ extern PGDLLIMPORT volatile uint32 CritSectionCount;
       return cleared;
  }
  ```
-### 8. MarkBufferDirty
+#### 8. MarkBufferDirty
 ```
 //设置缓冲块为Dirty（待Flush到数据文件）
 //TODO 缓冲区相关管理
@@ -856,7 +856,7 @@ extern PGDLLIMPORT volatile uint32 CritSectionCount;
      }
  }
 ```
-### 9. RelationNeedsWAL
+#### 9. RelationNeedsWAL
 
 非临时表，需持久化的数据表
 ```
@@ -867,7 +867,7 @@ extern PGDLLIMPORT volatile uint32 CritSectionCount;
  #define RelationNeedsWAL(relation) \
      ((relation)->rd_rel->relpersistence == RELPERSISTENCE_PERMANENT)
 ```
-### 10. RelationIsAccessibleInLogicalDecoding
+#### 10. RelationIsAccessibleInLogicalDecoding
 ```
  /*
   * RelationIsAccessibleInLogicalDecoding
@@ -880,7 +880,7 @@ extern PGDLLIMPORT volatile uint32 CritSectionCount;
       (IsCatalogRelation(relation) || RelationIsUsedAsCatalogTable(relation)))//Catalog类型表
 ```      
 
-### 11. log_heap_new_cid
+#### 11. log_heap_new_cid
 ```
  /*
   * Perform XLogInsert of an XLOG_HEAP2_NEW_CID record
@@ -957,7 +957,7 @@ extern PGDLLIMPORT volatile uint32 CritSectionCount;
      return recptr;
  }
 ```
-### 12. RelationIsLogicallyLogged
+#### 12. RelationIsLogicallyLogged
 判断数据表是否正在可用于逻辑复制，如需要，则需要记录足够信息用于后续的日志解析
 ```
  /*
@@ -977,7 +977,7 @@ extern PGDLLIMPORT volatile uint32 CritSectionCount;
       !IsCatalogRelation(relation))
  
 ```
-### 13. XLog*
+#### 13. XLog*
 ```
 XLogBeginInsert
 XLogRegisterData
@@ -986,13 +986,13 @@ XLogRegisterBufData
 XLogSetRecordFlags
 XLogInsert
 ```
-### 14. PageSetLSN
+#### 14. PageSetLSN
 设置PageHeader的LSN（先前已解析）
 ```
  #define PageSetLSN(page, lsn) \
   PageXLogRecPtrSet(((PageHeader) (page))->pd_lsn, lsn)
 ```
-### 15. END_CRIT_SECTION
+#### 15. END_CRIT_SECTION
 ```
  #define END_CRIT_SECTION() \
  do { \
@@ -1000,7 +1000,7 @@ XLogInsert
      CritSectionCount--; \
  } while(0)
 ```
-### 16. UnlockReleaseBuffer
+#### 16. UnlockReleaseBuffer
 释放Buffer锁
 ```
  /*
@@ -1015,7 +1015,7 @@ XLogInsert
      ReleaseBuffer(buffer);
  }
 ```
-### 17. ReleaseBuffer
+#### 17. ReleaseBuffer
 Unpin Buffer，意味着Buffer可Flush用于其他地方
 ```
  /*
@@ -1037,7 +1037,7 @@ Unpin Buffer，意味着Buffer可Flush用于其他地方
       UnpinBuffer(GetBufferDescriptor(buffer - 1), true);
  }
 ```
-### 18. CacheInvalidateHeapTuple
+#### 18. CacheInvalidateHeapTuple
 缓存那些已“无用”的Tuple，比如Update操作的原记录，Delete操作的原记录等。
 ```
  /*
@@ -1155,7 +1155,7 @@ Unpin Buffer，意味着Buffer可Flush用于其他地方
      RegisterRelcacheInvalidation(databaseId, relationId);
  }
 ```
-### 19. heap_freetuple
+#### 19. heap_freetuple
 释放内存
 ```
  /*
