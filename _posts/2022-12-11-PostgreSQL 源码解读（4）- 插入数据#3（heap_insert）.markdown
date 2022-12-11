@@ -1,7 +1,7 @@
 ---
 layout: post
 title: PostgreSQL 源码解读（4）- 插入数据#3（heap_insert）
-date: 2022-12-11 12:20:23 +0800
+date: 2022-12-11 12:02:23 +0800
 category: PostgreSQL
 ---
 
