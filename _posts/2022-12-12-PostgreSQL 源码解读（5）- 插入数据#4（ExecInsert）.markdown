@@ -1,7 +1,7 @@
 ---
 layout: post
 title: PostgreSQL 源码解读（5）- 插入数据#4（ExecInsert）
-date: 2022-12-12 09:20:23 +0800
+date: 2022-12-12 08:20:23 +0800
 category: PostgreSQL
 ---
 
