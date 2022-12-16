@@ -204,7 +204,7 @@ typedef struct SnapshotData *Snapshot;
      TimestampTz whenTaken;      /* timestamp when snapshot was taken */
      XLogRecPtr  lsn;            /* position in the WAL stream when taken */
  } SnapshotData;
-
+```
 
 ## 依赖的函数
 
@@ -742,7 +742,7 @@ testdb=# insert into t_insert values(20,'PortalRun','PortalRun','PortalRun');
 ```
 启动gdb，跟踪调试：
 
-1. PortalRun
+### 1. PortalRun
 ```
 [root@localhost ~]# gdb -p 2551
 GNU gdb (GDB) Red Hat Enterprise Linux 7.6.1-100.el7
@@ -931,6 +931,7 @@ PortalRun (portal=0x2c6f490, count=9223372036854775807, isTopLevel=true, run_onc
 803                 MarkPortalDone(portal);
 #DONE!
 ```
+
 ## 四、小结
 1. Portal：门户，类似设计模式中的Facade，对外的统一接口。该数据结构如何构造，有待接下来的上层函数解读。
 
