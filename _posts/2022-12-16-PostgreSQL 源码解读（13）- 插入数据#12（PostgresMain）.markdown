@@ -2312,5 +2312,7 @@ $9 = {data = 0xeff010 "insert into t_insert values(24,'I am PostgresMain','I am 
 ## 四、小结
 1. 数据结构：MessageContext ：Top消息内存上下文；
 2. 处理/数据流程：进程初始化的相关逻辑。
+
+
 ### 转自：
 [http://blog.itpub.net/6906/viewspace-2374903/](http://blog.itpub.net/6906/viewspace-2374903/)
