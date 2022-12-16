@@ -7,11 +7,12 @@ category: PostgreSQL
 
 本文简单介绍了PG插入数据部分的源码，主要内容包括PortalRunMulti函数和PortalRun函数的实现逻辑，PortalRunMulti函数和PortalRun均位于pquery.c文件中。
 
-一、基础信息
+## 一、基础信息
 PortalRunMulti函数使用的数据结构、宏定义以及依赖的函数等。
-数据结构/宏定义
-1、Portal
+## 数据结构/宏定义
 
+### 1. Portal
+```
  typedef struct PortalData *Portal;
  
  typedef struct PortalData
@@ -96,9 +97,9 @@ PortalRunMulti函数使用的数据结构、宏定义以及依赖的函数等。
      TimestampTz creation_time;  /* time at which this portal was defined */
      bool        visible;        /* include this portal in pg_cursors? */
  }           PortalData;
- 
-2、List
-
+``` 
+### 2. List
+```
  typedef struct ListCell ListCell;
  
  typedef struct List
@@ -119,9 +120,9 @@ PortalRunMulti函数使用的数据结构、宏定义以及依赖的函数等。
      }           data;
      ListCell   *next;
  };
-
-3、Snapshot
-
+```
+### 3. Snapshot
+```
 typedef struct SnapshotData *Snapshot;
  /*
   * Struct representing all kind of possible snapshots.
@@ -204,7 +205,8 @@ typedef struct SnapshotData *Snapshot;
      XLogRecPtr  lsn;            /* position in the WAL stream when taken */
  } SnapshotData;
 
-依赖的函数
+
+## 依赖的函数
 
 ### 1. lfirst_*
 ```
