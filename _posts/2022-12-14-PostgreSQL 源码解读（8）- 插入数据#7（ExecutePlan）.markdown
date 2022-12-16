@@ -82,6 +82,7 @@ ExecutePlan函数使用的数据结构、宏定义以及依赖的函数等。
      DestTransientRel,           /* results sent to transient relation */
      DestTupleQueue              /* results sent to tuple queue */
  } CommandDest;
+``` 
 ### 3. ResetPerTupleExprContext
 ```
 //重置per-output-tuple exprcontext
