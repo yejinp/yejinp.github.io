@@ -483,7 +483,7 @@ standard_ExecutorRun(QueryDesc *queryDesc,
 
     MemoryContextSwitchTo(oldcontext);//执行完毕，切换回原内存上下文
 }
-
+```
 ## 三、跟踪分析
 
 插入测试数据：
@@ -608,3 +608,6 @@ ExecutorRun (queryDesc=0x2c2d4e0, direction=ForwardScanDirection, count=0, execu
 ## 四、小结
 1. PG的扩展性：PG提供了钩子函数，可以对ExecutorRun进行Hack；
 2. 重要的数据结构：MemoryContext，内存上下文，需深入理解。
+
+### 转自：
+[http://blog.itpub.net/6906/viewspace-2374907/](http://blog.itpub.net/6906/viewspace-2374907/)
