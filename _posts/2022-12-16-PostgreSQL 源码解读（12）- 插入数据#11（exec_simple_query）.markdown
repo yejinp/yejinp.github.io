@@ -350,7 +350,7 @@ exec_simple_query(const char *query_string)
 ## 二、基础信息
 exec_simple_query函数使用的数据结构、宏定义以及依赖的函数等。
 ## 数据结构/宏定义
-1. whereToSendOutput
+### 1. whereToSendOutput
 ```
  /* Note: whereToSendOutput is initialized for the bootstrap/standalone case */
  CommandDest whereToSendOutput = DestDebug;
