@@ -909,7 +909,7 @@ exec_simple_query函数使用的数据结构、宏定义以及依赖的函数等
  } TargetEntry;
 ``` 
  
-7. 全局变量定义
+### 7. 全局变量定义
 ```
  bool        log_parser_stats = false;
  bool        log_planner_stats = false;
@@ -1038,7 +1038,7 @@ exec_simple_query函数使用的数据结构、宏定义以及依赖的函数等
   */
  static CachedPlanSource *unnamed_stmt_psrc = NULL;
 ```
-3. pg_parse_query
+### 3. pg_parse_query
 ```
 //执行语句解析，返回RawStmt  nodes（List）
  /*
@@ -2953,7 +2953,7 @@ exec_simple_query函数使用的数据结构、宏定义以及依赖的函数等
      return portal;
  }
 ```
-###11. PortalDefineQuery
+### 11. PortalDefineQuery
 ```
  /*
   * PortalDefineQuery
