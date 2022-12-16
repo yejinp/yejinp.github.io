@@ -603,7 +603,7 @@ ProcessQuery函数使用的数据结构、宏定义以及依赖的函数等。
  }           AllocBlockData;
  
  typedef struct AllocBlockData *AllocBlock; /* forward reference */
-
+```
 ### 5. AllocChunk
 ```
  /*
