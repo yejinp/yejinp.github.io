@@ -488,7 +488,7 @@ category: PostgreSQL
      struct AfterTriggersTableData *tcs_private;
  } TransitionCaptureState;
 ``` 
-### **7、ModifyTable **
+### 7、ModifyTable
 ```
  /* ----------------
   *   ModifyTable node -
@@ -952,7 +952,7 @@ category: PostgreSQL
      }
  }
 ```
-8. ExecConstraints
+### 8. ExecConstraints
 ```
  /*
   * ExecConstraints - check constraints of the tuple in 'slot'
@@ -1084,7 +1084,7 @@ category: PostgreSQL
      }
  }
 ```
-9. ExecPartitionCheck
+### 9. ExecPartitionCheck
 ```
  /*
   * ExecPartitionCheck --- check that tuple meets the partition constraint.
@@ -1555,8 +1555,9 @@ category: PostgreSQL
  )
 ```
 ### 16. heap_insert
-
+```
 //上一节已介绍
+```
 ### 17. ExecInsertIndexTuples
 ```
  /* ----------------------------------------------------------------
