@@ -18,22 +18,31 @@ CREATE TABLE
 
 ## 二、源码分析
 插入数据主要的实现在bufpage.c中，主要的函数是PageAddItemExtended。该函数的英文注释已经说得非常清楚，不过为了更好理解，这里添加了中文注释。
-变量、宏定义和结构体等说明
-```
-1. Page
+
+## 变量、宏定义和结构体等说明
+### 1. Page
 指向char的指针：
+```
 typedef char *Pointer;
 typedef Pointer Page;
-2. Item
+```
+### 2. Item
 指向char的指针：
+```
 typedef Pointer Item;
-3. Size
+```
+### 3. Size
+```
 typedef size_t  Size;
-4. OffsetNumber
+```
+### 4. OffsetNumber
+```
 unsigned short（16bits）：
 typedef uint16 OffsetNumber;
-5. PageHeader
+```
+### 5. PageHeader
 PageHeaderData结构体指针
+```
 typedef struct PageHeaderData
  {
      /* XXX LSN is member of *any* block, not only page-organized ones */
@@ -56,28 +65,39 @@ typedef struct PageHeaderData
 #define PD_ALL_VISIBLE      0x0004  /* all tuples on page are visible to
                                      * everyone */
 #define PD_VALID_FLAG_BITS  0x0007  /* OR of all valid pd_flags bits */
-
-6. SizeOfPageHeaderData
+```
+### 6. SizeOfPageHeaderData
 长整型，定义页头大小：
+```
 #define offsetof(type, field)   ((long) &((type *)0)->field)
  #define SizeOfPageHeaderData (offsetof(PageHeaderData, pd_linp))
-7. BLCKSZ
+```
+### 7. BLCKSZ
+```
 #define BLCKSZ 8192
-8. PageGetMaxOffsetNumber
+```
+### 8. PageGetMaxOffsetNumber
 如果空闲空间的lower小于等于页头大小，值为0，否则值为lower减去页头大小（24Bytes）后除以ItemId大小（4Bytes）
+```
  #define PageGetMaxOffsetNumber(page) \
      (((PageHeader) (page))->pd_lower <= SizeOfPageHeaderData ? 0 : \
       ((((PageHeader) (page))->pd_lower - SizeOfPageHeaderData) \
        / sizeof(ItemIdData)))
-9. InvalidOffsetNumber
+```
+### 9. InvalidOffsetNumber
 是否无效的偏移值
+```
  #define InvalidOffsetNumber     ((OffsetNumber) 0)
-10. OffsetNumberNext
+```
+### 10. OffsetNumberNext
 输入值+1
+```
  #define OffsetNumberNext(offsetNumber) \
      ((OffsetNumber) (1 + (offsetNumber)))
-11. ItemId
+```
+### 11. ItemId
 结构体ItemIdData指针
+```
  typedef struct ItemIdData
  {
      unsigned    lp_off:15,      /* offset to tuple (from start of page) */
@@ -91,38 +111,52 @@ typedef struct PageHeaderData
  #define LP_NORMAL 1 /* used (should always have lp_len>0) */
  #define LP_REDIRECT 2 /* HOT redirect (should have lp_len=0) */
  #define LP_DEAD 3 /* dead, may or may not have storage */
-
-12. PageGetItemId
+```
+### 12. PageGetItemId
 获取相应的ItemIdData的指针
+```
 #define PageGetItemId(page, offsetNumber) \
     ((ItemId) (&((PageHeader) (page))->pd_linp[(offsetNumber) - 1]))
-13. PAI_OVERWRITE
+```
+### 13. PAI_OVERWRITE
 位标记，实际值为1
+```
 #define PAI_OVERWRITE           (1 << 0)
-14. PAI_IS_HEAP
+```
+### 14. PAI_IS_HEAP
 位标记，实际值为2
+```
 #define PAI_IS_HEAP             (1 << 1)
-15. ItemIdIsUsed
+```
+### 15. ItemIdIsUsed
 ItemId是否已被占用
+```
  #define ItemIdIsUsed(itemId) \
      ((itemId)->lp_flags != LP_UNUSED)
-16. ItemIdHasStorage
+```
+### 16. ItemIdHasStorage
+```
  #define ItemIdHasStorage(itemId) \
      ((itemId)->lp_len != 0
-17. PageHasFreeLinePointers/PageClearHasFreeLinePointers
+```
+### 17. PageHasFreeLinePointers/PageClearHasFreeLinePointers
 判断Page从Header到Lower之间是否有空位
+```
 #define PageHasFreeLinePointers(page) \
     (((PageHeader) (page))->pd_flags & PD_HAS_FREE_LINES)
+```
 清除空位标记（标记错误时清除）
+```
 #define PageClearHasFreeLinePointers(page) \
     (((PageHeader) (page))->pd_flags &= ~PD_HAS_FREE_LINES)
-18。 MaxHeapTuplesPerPage
+```
+### 18. MaxHeapTuplesPerPage
 每个Page可以容纳的最大Tuple数，计算公式是：
 （Block大小 - 页头大小） / (对齐后行头部大小 + 行指针大小）
+```
 #define MaxHeapTuplesPerPage    \
      ((int) ((BLCKSZ - SizeOfPageHeaderData) / \
-             (MAXALIGN(SizeofHeapTupleHeader) + sizeof(ItemIdData))))
-             
+             (MAXALIGN(SizeofHeapTupleHeader) + sizeof(ItemIdData))))          
 ```
 PageAddItemExtended函数解读
 ```
@@ -304,6 +338,7 @@ PageAddItemExtended(Page page,
     return offsetNumber;
 }
 ```
+
 ## 三、跟踪分析
 下面使用gdb对PageAddItemExtended函数跟踪分析。
 
