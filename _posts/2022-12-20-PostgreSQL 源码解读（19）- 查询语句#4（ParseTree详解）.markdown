@@ -443,7 +443,7 @@ $79 = {type = T_A_Const, val = {type = T_Integer, val = {ival = 4, str = 0x4 <Ad
 
 ```
 
-##三、小结
+## 三、小结
 1. 解析树：通过跟踪分析源码，分析解析树Parsetree的结构；
 2. 其他数据结构：SelectSmt、RangeSubselect、JoinExpr等数据结构。
 
