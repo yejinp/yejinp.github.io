@@ -211,6 +211,7 @@ PG执行SQL的过程有以下几个步骤：
  #define strVal(v)       (((Value *)(v))->val.str)
  ```
 实现过程本节暂时搁置，先看过程执行的结果，函数pg_parse_query返回的结果是链表List，其中的元素是RawStmt，具体的结构需根据NodeTag确定（这样的做法类似于Java/C++的多态）。
+
 测试数据
 ```
 testdb=# -- 单位信息
