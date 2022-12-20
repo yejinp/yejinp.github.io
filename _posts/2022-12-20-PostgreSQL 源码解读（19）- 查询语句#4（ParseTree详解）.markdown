@@ -205,7 +205,7 @@ $79 = {type = T_A_Const, val = {type = T_Integer, val = {ival = 4, str = 0x4 <Ad
 ```
 最终的解析树如下图所示:
 
-
+![picture](/2022/postgresql/yuanmajiedu/3c740762021ea07e.jpeg "Slow Query")
 
 解析树
 
