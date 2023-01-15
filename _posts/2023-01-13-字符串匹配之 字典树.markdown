@@ -102,13 +102,13 @@ std::cout << "suffix() key_suffix:" << key_suffix << std::endl;
 ```
 count = trie.commonPrefixPredict("ab", &result, 1);
 for(size_t i = 1; i < count ; i++){
-//从result.id这个节点开始，查找下一个叶子节点
-//上面count保存的是以ab为前缀的这棵子树一共有多少个叶子结点,result2保存的是其中的个叶子结点的信息
-//所以调用count - 1次next()正好可以找出剩余叶子结点的信息
-//result.length为result这个叶子结点的深度
-auto value = trie.next(result.id, result.length);
-//成功执行完一次next后，result会更新为查找到的下一个叶子结点的信息
-//返回值为下一个叶子结点的value值；如果没有下一个节点，返回的是CEDAR_NO_PATH
+    //从result.id这个节点开始，查找下一个叶子节点
+    //上面count保存的是以ab为前缀的这棵子树一共有多少个叶子结点,result2保存的是其中的个叶子结点的信息
+    //所以调用count - 1次next()正好可以找出剩余叶子结点的信息
+    //result.length为result这个叶子结点的深度
+    auto value = trie.next(result.id, result.length);
+    //成功执行完一次next后，result会更新为查找到的下一个叶子结点的信息
+    //返回值为下一个叶子结点的value值；如果没有下一个节点，返回的是CEDAR_NO_PATH
 }
 
 ```
@@ -124,3 +124,9 @@ std::cout << count << std::endl; //输出3
 
 #### 参考：
 - [https://blog.csdn.net/tang05505622334/article/details/78638937](https://blog.csdn.net/tang05505622334/article/details/78638937)
+ - [https://segmentfault.com/a/1190000004374433](https://segmentfault.com/a/1190000004374433)
+ - [Pycedar](https://github.com/akivajp/pycedar)
+ 
+### 后记：
+ - value的值只能为整数，如果需要保存字符串或者其他非整数，则需要自己维护一个对应关系表；
+ - 当前的value整数为32位，不支持64位整数；
