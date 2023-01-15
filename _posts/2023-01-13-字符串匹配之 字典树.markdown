@@ -1,0 +1,186 @@
+---
+layout: post
+title: 字符串匹配之 字典树（Trie）
+date: 2023-01-13 22:20:23 +0800
+category: 字符串
+---
+
+查找字符串是一种比较常用的功能，很多场景都可用用到，比如，查找一个HTTP请求中是否包含某种特定字符串；
+
+字典树也叫一种比较好的字符串查找方法，具有比较好的时间性能和空间性能；
+
+官网：http://www.tkl.iis.u-tokyo.ac.jp/~ynaga/cedar/
+
+ 安装：
+
+```
+> wget http://www.tkl.iis.u-tokyo.ac.jp/~ynaga/cedar/cedar-latest.tar.gz
+> tar zxvf cedar-latest.tar.gz
+> cd cedar-YYYY-MM-DD
+> configure
+> make install
+```
+
+使用方法比较简单：直接包含头文件即可；
+```
+#include <cedar.h>
+cedar::da<int> trie;
+```
+
+
+### 示例数据：
+```
+std::vector<std::tuple<const char*, int>> data = {
+
+std::make_tuple("a", 1),
+
+std::make_tuple("ab", 2),
+
+std::make_tuple("abc", 21),
+
+std::make_tuple("abe", 22),
+
+std::make_tuple("abzd", 23),
+
+std::make_tuple("ac", 3),
+
+std::make_tuple("ac1", 31),
+
+std::make_tuple("aczfdas", 32),
+
+std::make_tuple("b", 100),
+
+std::make_tuple("bab", 101),
+
+std::make_tuple("babafdasf", 102),
+
+std::make_tuple("bzzz", 103),
+
+};
+
+```
+ ### 1）插入元素
+```
+//如果这个key已经存在，则会把它原有的value再加上value；而不是重新赋值
+
+trie.update(key, strlen(key), value);
+```
+
+
+
+### （2）前缀查询
+
+①获取所有匹配叶子节点的信息（id、length、value）
+```
+//第二个参数存放查询结果，类型为cedar::da<int>::result_triple_type*，可以传入一个数组名，在该数组中存放多个结果
+
+//第三个参数表示将匹配到的前多少个结果存放在result指向的空间里
+
+//第四个参数表示取个参数的前4个字符作为前缀来匹配，默认为0，就是取个参数整个字符串匹配
+
+cedar::da<int>::result_triple_type result;
+
+auto count = trie.commonPrefixPredict("aczf", &result, 1, 4);
+
+std::cout << count << std::endl;
+
+std::cout << result.value << std::endl; //匹配到的个叶子节点的value值
+
+std::cout << result.length << std::endl; //匹配到的个叶子节点代表的字符串，在"aczf"后面的剩余长度
+```
+
+
+
+②获取所有匹配叶子结点的value
+```
+//前缀匹配2【commonPrefixPredict()】
+
+int result2[4] = { 0 };
+
+count = trie.commonPrefixPredict("ab", result2, 4);
+
+std::cout << result2[0] << std::endl;
+
+std::cout << result2[1] << std::endl;
+
+std::cout << result2[2] << std::endl;
+
+std::cout << result2[3] << std::endl;
+```
+
+
+
+### （3）匹配
+```
+//匹配exactMatchSearch()
+
+//这个函数是模板函数，并且无法通过参数推算模版，所以必须显式的指定类
+
+std::cout << "exactMatchSearch()" << std::endl;
+
+auto value = trie.exactMatchSearch<int>("ab");
+
+std::cout << value << std::endl;
+
+```
+
+
+### （4）suffix查询
+```
+//寻找result.id这个节点（"aczfdas"），长度为result.length（3）的后缀（“das”）
+
+//要保证key_suffix有足够的空间保存这个suffix
+
+cedar::da<int>::result_triple_type result;
+
+auto count = trie.commonPrefixPredict("aczf", &result, 1);
+
+char* key_suffix = new char[result.length + 1]; //存放后缀“das”
+
+trie.suffix(key_suffix, result.length, result.id);
+
+std::cout << "suffix() key_suffix:" << key_suffix << std::endl;
+```
+
+
+
+### （5）查找下一个叶子结点
+```
+count = trie.commonPrefixPredict("ab", &result, 1);
+
+for(size_t i = 1; i < count ; i++){
+
+//从result.id这个节点开始，查找下一个叶子节点
+
+//上面count保存的是以ab为前缀的这棵子树一共有多少个叶子结点,result2保存的是其中的个叶子结点的信息
+
+//所以调用count - 1次next()正好可以找出剩余叶子结点的信息
+
+//result.length为result这个叶子结点的深度
+
+auto value = trie.next(result.id, result.length);
+
+//成功执行完一次next后，result会更新为查找到的下一个叶子结点的信息
+
+//返回值为下一个叶子结点的value值；如果没有下一个节点，返回的是CEDAR_NO_PATH
+
+}
+
+```
+
+
+### （6）查找是str前缀的key
+```
+//返回是str前缀的key的集合
+
+//"abcd" -> ["a", "abc", "abcd"]
+
+std::cout << "commonPrefixSearch" << std::endl;
+
+count = trie.commonPrefixSearch("abcd", result2, 4);
+
+std::cout << count << std::endl; //输出3
+```
+
+#### 参考：
+- [https://z.itpub.net/article/detail/83E0E583C24D4D2311143FA10E2C6863](https://z.itpub.net/article/detail/83E0E583C24D4D2311143FA10E2C6863)
