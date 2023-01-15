@@ -47,7 +47,7 @@ std::vector<std::tuple<const char*, int>> data = {
 
 ```
 
- ### 1）插入元素
+ ### （1）插入元素
 ```
 //如果这个key已经存在，则会把它原有的value再加上value；而不是重新赋值
 trie.update(key, strlen(key), value);
