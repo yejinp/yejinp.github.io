@@ -46,12 +46,12 @@ std::vector<std::tuple<const char*, int>> data = {
 };
 
 ```
+
  ### 1）插入元素
 ```
 //如果这个key已经存在，则会把它原有的value再加上value；而不是重新赋值
 trie.update(key, strlen(key), value);
 ```
-
 
 ### （2）前缀查询
 
@@ -78,7 +78,6 @@ std::cout << result2[2] << std::endl;
 std::cout << result2[3] << std::endl;
 ```
 
-
 ### （3）匹配
 ```
 //匹配exactMatchSearch()
@@ -87,7 +86,6 @@ std::cout << "exactMatchSearch()" << std::endl;
 auto value = trie.exactMatchSearch<int>("ab");
 std::cout << value << std::endl;
 ```
-
 
 ### （4）suffix查询
 ```
@@ -99,7 +97,6 @@ char* key_suffix = new char[result.length + 1]; //存放后缀“das”
 trie.suffix(key_suffix, result.length, result.id);
 std::cout << "suffix() key_suffix:" << key_suffix << std::endl;
 ```
-
 
 ### （5）查找下一个叶子结点
 ```
@@ -116,7 +113,6 @@ auto value = trie.next(result.id, result.length);
 
 ```
 
-
 ### （6）查找是str前缀的key
 ```
 //返回是str前缀的key的集合
@@ -125,7 +121,6 @@ std::cout << "commonPrefixSearch" << std::endl;
 count = trie.commonPrefixSearch("abcd", result2, 4);
 std::cout << count << std::endl; //输出3
 ```
-
 
 #### 参考：
 - [https://blog.csdn.net/tang05505622334/article/details/78638937](https://blog.csdn.net/tang05505622334/article/details/78638937)
