@@ -2,7 +2,7 @@
 layout: post
 title: 字符串匹配之 字典树（Trie）
 date: 2023-01-13 22:20:23 +0800
-category: 字符串
+category: string matcher
 ---
 
 查找字符串是一种比较常用的功能，很多场景都可用用到，比如，查找一个HTTP请求中是否包含某种特定字符串；
@@ -126,7 +126,7 @@ std::cout << count << std::endl; //输出3
 - [https://blog.csdn.net/tang05505622334/article/details/78638937](https://blog.csdn.net/tang05505622334/article/details/78638937)
  - [https://segmentfault.com/a/1190000004374433](https://segmentfault.com/a/1190000004374433)
  - [Pycedar](https://github.com/akivajp/pycedar)
- 
+
 ### 后记：
- - value的值只能为整数，如果需要保存字符串或者其他非整数，则需要自己维护一个对应关系表；
+ - value的值只能为32位的整数，如果需要保存字符串或者其他非整数，则需要自己维护一个对应关系表；或者可用使用其他库替代，比如 Kyoto Cabinet。
  - 当前的value整数为32位，不支持64位整数；
