@@ -11,7 +11,7 @@ category: PostgreSQL
  
   - [The Internals of PostgreSQL](https://www.interdb.jp/pg/index.html)
 
-  - [](https://edu.postgrespro.com/)
+  - [postgresql_internals-14](https://edu.postgrespro.com/)
 
   - [postgrespro](https://postgrespro.com/blog/pgsql/3994098)
 
