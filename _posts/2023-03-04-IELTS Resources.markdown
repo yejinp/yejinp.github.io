@@ -12,4 +12,4 @@ Resouces for IELTS
  - [https://llwslc.github.io/grammar-club/](https://llwslc.github.io/grammar-club/)
  - [https://github.com/codeyu/EnglishGrammarBook](https://github.com/codeyu/EnglishGrammarBook)
  - [旋元佑文法]
- - [旋元佑英文单词]
+ - [旋元佑英文字彙]
