@@ -170,4 +170,40 @@ reminder            n. 提示，提醒人的事物
 calm                n. 平静，宁静
 meditation          n. 冥想，沉思
 prayer              n. 祷告，祈祷
-carve       
+carve               n. 雕刻
+coin                n. 硬币
+physical            adj. 实物的，有形的，身体的
+circular            adj. 圆形的，环形的
+survive             v. 存活，继续存在
+emotional           adj. 情感的，情绪的
+breathing           n. 呼吸
+patient             n. 病人
+finger              n. 手指
+relief              n. (痛苦等的)减轻，缓解
+anxiety             n. 忧虑，焦虑
+navigate            v. 导航，确定路线
+be derived from     起源于
+mental              adj. 精神的，思想的
+sufferer            n. 患病者，受苦者
+
+拓展词汇
+labyrinth           n. （螺旋形）迷宫，迷津园
+diverse             adj. 多种多样的，不同的
+synonym             n. 同义词
+intricate           adj. 错综复杂的
+hedge               n. 树篱
+metaphor            n. 隐喻，暗喻；象征
+spiritual           adj. 精神的，心灵的
+Bronze Age          青铜时代
+depict              v. 描绘，描述
+cosmology           n. 宇宙学
+mosaic              n. 马赛克，镶嵌图案
+villa               n. 别墅，庄园
+fertility rite      祈求丰收的仪式
+revival             n. 复兴，再次流行
+healing             n. 康复，治疗
+perspective         n. 判断力，洞察力
+pamphlet            n. 小册子，手册
+sketchy             adj. 粗略的，不充分的
+small-scale         adj. 小规模的，小范围的
+Alzheimer           n. 阿尔茨海默病
