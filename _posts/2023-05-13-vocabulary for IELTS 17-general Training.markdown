@@ -11,7 +11,8 @@ vocabularies for IELTS 17-1-1
 Listening
 
 # part 1 #
-必考词汇
+必背词汇
+```
 litter          n. 垃圾，废弃物
 island          n. 岛，岛屿
 ban             v.禁止（做某事或去某处）
@@ -36,8 +37,9 @@ damage          v. 损坏，破坏
 appropriate     adj. 合适的，适当的
 car park        停车场
 suitable        adj. 合适的，适宜的
-
+```
 扩展词汇
+```
 conservation     n. （对自然环境的）保护
 presume          v. 推测，认为
 secretary        n. 秘书
@@ -50,8 +52,10 @@ biodiversity     n. 生物多样性
 definitely       adj. 确定地，肯定，当然
 woodshed         n. 柴房，柴棚
 session          n. 一场（活动）
-
+```
 # part 2 #
+必背词汇
+```
 on board        在船上
 shy             adj. 怕人的，胆小的，害羞的
 either          det. (两者中的)任何一个
@@ -78,9 +82,9 @@ ordinary        adj.普通的，平常的
 entrance        n. 入口
 creature        n. 生物，动物
 block           v. 堵塞，阻塞
-
+```
 扩展词汇
-
+```
 fantastic       adj. 极好的
 chop            v. 砍，劈
 jet black       乌黑的
@@ -99,9 +103,10 @@ polish          v. 擦亮，擦拭
 incredible      adj. 难以置信的，惊人的
 brass           n. 黄铜
 rock formation  岩层
-
+```
 # part 3 #
-
+必背词汇
+```
 work experience     (学生)实习
 placement           n. 实习工作，实习课
 website             n. 网站
@@ -132,8 +137,9 @@ incorrectly         adv. 错误地，不正确地
 accidentally        adv. 偶然地
 cope with           应对，处理
 fundamental         adj. 根本性的，重大的
-
+```
 扩展词汇
+```
 stagger             v. 蹒跚，摇晃地走
 straightaway        adv. 立即，马上
 lowland             adj. 低地的
@@ -152,9 +158,10 @@ domesticated        adj. 家养的，驯养的
 water buffalo       水牛
 alpaca              n. 羊驼
 oil spill           石油泄漏
-
+```
 # part 4 #
-
+必背词汇
+```
 symbol              n. 符号，记号
 winding             adj. 弯曲的，曲折的
 spiral              adj. 螺旋形的
@@ -185,8 +192,9 @@ navigate            v. 导航，确定路线
 be derived from     起源于
 mental              adj. 精神的，思想的
 sufferer            n. 患病者，受苦者
-
+```
 拓展词汇
+```
 labyrinth           n. （螺旋形）迷宫，迷津园
 diverse             adj. 多种多样的，不同的
 synonym             n. 同义词
@@ -207,3 +215,4 @@ pamphlet            n. 小册子，手册
 sketchy             adj. 粗略的，不充分的
 small-scale         adj. 小规模的，小范围的
 Alzheimer           n. 阿尔茨海默病
+````
