@@ -213,7 +213,7 @@ pamphlet            n. 小册子，手册
 sketchy             adj. 粗略的，不充分的
 small-scale         adj. 小规模的，小范围的
 Alzheimer           n. 阿尔茨海默病
-````
+```
 
 ## Reading
 
@@ -251,3 +251,11 @@ refer to            参考
 concession          n. 特许权
 porter              n. 行李搬运工人
 ```
+
+必背词汇
+```
+
+```
+
+# Section 2 #
+必背词汇
