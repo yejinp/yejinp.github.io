@@ -307,8 +307,100 @@ facilitate          v. 使便捷；促进
 terminal            n. 终端；航站楼
 inspire             v. 激发（想法）          
 ```
+认知词汇
+```
+pillar              n. 柱子
+lace                n. 网眼织物；雷斯
+pedlar              n. 小贩
+bustling            adj. 嘻嘻囔囔的，忙碌的
+en route            在途中
+tile                n. 瓦片，瓷砖
+cemetery            n. 墓地
+home-grown          adj. 本国产的，土生土长的
+foyer               n. 大厅
+perennial           adj. 长久的
+array of            大量的
+hi-fi equipment     高保真度的音响设备
+a set of            一些
+life-sized          adj. 与实际等大的
+sculpture           n. 雕塑
+depiction           n. 描述
+```
 # Section 2 #
 必背词汇
 ```
+CV                  简历（Curriculum Vitae）
+unique              adj. 独特的，独一无二的
+make-up             n. 性格；构造
+likewise            adj. 同样地，类似地
+standard            adj. 标准的
+give away           透露
+suit                n. 套装
+stand out           突出
+dull                adj. 枯燥的，无聊的
+pass over           忽略
+in short            总之，简言之
+involve             v. 涉及
+viewpoint           n. 观点
+strength            n. 优势，长处
+classic             adj. 典型的, 经典的
+recuirtment         n. 招聘
+cliche              n. 陈词滥调
+recruiter           n. 招聘人员
+grab                v. 抓住
+applicant           n. 申请人
+reveal              v. 透露
+distinctive         adj. 独特的，独一无二的
+input               n. 意见；输入
+dependable          adj. 可靠的
+work out            找到
+```
+认知词汇
+```
+template            n. 模板
+shine through       表现出来
+corporate           adj. 共同的，全体的
+subconsciously      adv. 潜意识地
+swiftly             adv. 很快地
+```
 
+必背词汇
+```
+organised           adj. 有条理的，有组织的
+target              n. 目标
+tip                 n. 建议；小费
+underestimate       v. 低估
+inefficient         adj. 效率低下的
+restore             v. 恢复
+stationery          n. 文具
+bare                adj. 最基本的
+essential           n. 必需品
+retrieval           n. 找回，取回
+logically           adj. 合乎情理地
+tend to             倾向做某事
+item                n. 物品
+spare               adj. 备用的；闲暇的
+frustration         n. 沮丧，郁闷
+proposal            n. 提议，提案
+random              adj. 胡乱的
+eliminate           v. 消灭
+chaos               n. 混乱
+fancy               v. 喜欢
+label               n. 标签
+relevant            adj. 相关的
+category            n. 种类
+access              v. 接近；获取
+retain              v. 保留，保持
+implement           v. 采用，应用
+sharpen             v. 改善，提高
+thereby             adv. 因此，从而
+on track            步入正轨
+routine             n. 常规，惯例
+prioritise          v. 给予……优先处理
+appointment         n. 约定
+scale               n. 规模
+restict             v. 限制
+sensible            adj. 合理的
+container           n. 容器
+identify            v. 识别
 ```
