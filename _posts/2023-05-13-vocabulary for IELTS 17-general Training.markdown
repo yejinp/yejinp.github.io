@@ -218,3 +218,38 @@ Alzheimer           n. 阿尔茨海默病
 ````
 
 ## Reading
+
+# Section 1 #
+必背词汇
+```
+baggage claim       行李认领
+allocation          n. 分配
+belt                n. 传送带
+trolley             n. 手推车
+available           adj. 可用的
+at one's service    随时提供服务
+on request          应要求
+assistance          n. 帮助
+proceed             v. 前往
+customs             n. 海关；关税
+prohibited          adj. 被禁止的
+item                n. 物品
+declare             v. 申报
+exceed              v. 超过
+in doubt            不确定的，怀疑的
+counter             n. 柜台
+reservation         n. 预定
+deposit             n. 押金
+deductible          adj. 可扣除的，可减免的
+bill                n. 账单
+handle              v. 处理，解决
+transit             n. 转机
+suitcase            n. 行李箱
+split               v. 分开；破裂
+```
+认知词汇
+```
+refer to            参考
+concession          n. 特许权
+porter              n. 行李搬运工人
+```
