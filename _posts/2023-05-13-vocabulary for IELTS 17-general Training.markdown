@@ -1,12 +1,10 @@
 ---
 layout: post
-title: vocabularies for IELTS 17-general Training
+title: Vocabularies for IELTS 17-1 general Training
 date: 2023-05-13 08:20:23 +0800
 category: IELTS
 ---
 
-
-# vocabularies for IELTS 17-1-1
 
 ## Listening
 
