@@ -254,8 +254,61 @@ porter              n. 行李搬运工人
 
 必背词汇
 ```
-
+relief              n. 减免
+permanent           adj. 永久的，长期的
+resident            n. 居民
+apply for           申请
+refund              n. 退款
+purchase            v. 购买
+provided            conj. 假如，只要
+additional          adj. 额外的
+fee                 n. 费用
+deduct              v. 减去，扣除
+obliged             adj. 必需的
+charge              v. 收费
+administration      n. 管理
 ```
 
+认知词汇
+```
+levy                v. 征收
+grant               v. 给予
+cheque              n. 支票
+voucher             n. 代金卷
+```
+
+必背词汇
+```
+district            n. 地区
+route               n. 路线
+opposite            adj. 对面的；相对的
+eye-catching        adj. 引人注目的
+landmark            n. 地标
+distinctive         adj. 独特的；第一无二的
+former              adj. 以前的
+foresee             v. 预见，预知
+commercial          adj. 商业的
+isolated            adj. 偏僻的，与世隔绝的
+foresight           n. 先见之明
+pay off             获得回报，获得成功
+prominent           adj. 著名的，重要的
+showcase            v. 展示，体现
+household           adj. 家用的，家庭的
+tear down           拆除
+give way to         给…让路；被…所替代
+retain              v. 保留，保持
+staggering          adj. 令人震惊的
+cosmetic            n. 化妆品
+leather             n. 皮革，皮
+fixed               adj. 固定的
+apart from          除……之外
+a range of          一些
+facilitate          v. 使便捷；促进
+terminal            n. 终端；航站楼
+inspire             v. 激发（想法）          
+```
 # Section 2 #
 必背词汇
+```
+
+```
