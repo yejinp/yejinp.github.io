@@ -404,3 +404,102 @@ sensible            adj. 合理的
 container           n. 容器
 identify            v. 识别
 ```
+
+认知词汇
+```
+in tune with        与……一致
+ruthless            adj. 坚决的，果断的
+ensue               v. 接着发生
+tray                n. 托盘
+miscellaneous       n. 其他
+untold              adj. 数不清的
+execution           n. 实施，执行
+wrap up             圆满完成
+loose end           未完成的事项
+ring-fence          v. 限制（用途）
+take a back seat    处于次要地位
+due                 adj. 应得的，应有的
+```
+
+# Section 2 #
+
+必背词汇
+```
+constoversy         n. 争论
+version             n. 版本
+awareness           n. 意识
+attempt             n. 尝试，试图
+flame               n. 火焰
+recognition         n. 承认，认可
+expose              v. 暴露
+undertake           v. 从事
+shallow             adj. 浅的
+artificial          adj. 人工的，人造的
+domestically        adv. 家庭式地
+encounter           v. 遇到，碰到
+consist of          由……组成
+contact             n. 接触
+naked               adj. 裸露的，无遮盖的
+ventilation         n. 通风
+divide              v. 分开
+illiterate          adj. 文盲的
+livelihood          n. 生计
+medical             adj. 医学的，医疗的
+take notice         注意
+set up              建立
+assistance          n. 帮助
+remedy              n. 解决方法
+approach            v. 接洽
+enclose             v. 包围
+trial               v. 测试，实验
+prior to            在……之前
+utilise             v. 使用，利用
+emit                v. 散发，发出
+toxic               adj. 有毒的
+desirable           adj. 理想的
+property            n. 特质，特点；财产
+alternative         n. 替代物
+device              n. 设备
+handle              n. 把手，拉手
+spark               n. 火花
+drawback            n. 缺点
+manpower            n. 人力
+maintenance         n. 维护，保养
+replacement         n. 更换
+acute               adj. 严重的
+inevitable          adj. 不可避免的
+regrettable         adj. 令人遗憾的
+remarkable          adj. 值得注意的
+demonstrate         v. 展示
+eventually          adv. 最终地
+credit              n. 声望；信用
+deficiency          n. 缺陷
+acknowledge         v. 承认
+debt                n. 亏欠
+additional          adj. 额外的
+disregard           v. 忽视
+proper              adj. 适当的
+insist              v. 坚持
+```
+认知词汇
+```
+thereafter          adv. 此后
+charcoal            n. 木炭
+methane             n. 甲烷
+firedamp            n. 沼气
+shaft               n. 竖井
+downcast            n. 进风竖井
+upcast              n. 回风竖井
+foul                adj. 难闻的，污浊的
+decaying            adj. 腐烂的
+phosphorus          n. 磷
+phosphorescence     n. 磷光（现象）
+flammable           adj. 易燃的，可燃的
+flint               n. 燧石，打火石
+reluctantly         adv. 勉强地
+clerical            adj. 文职工作的
+effectual           adj. 有效果的
+of the day          当时的
+mesh                n. 网，网状网
+cumbersome          adj. 笨重的，繁琐的
+```
