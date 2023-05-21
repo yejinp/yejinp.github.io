@@ -50,10 +50,50 @@ graphic designer            平面设计师
 # part 2 #
 必背词汇
 ```
+date back to                追溯到……
+demolish                    v. 拆毁，拆除
+wealthy                     adj. 富有的
+intention                   n. 意图，目的
+escape                      v. 逃脱，逃避
+politician                  n. 政治家，政客
+sculpture                   n. 雕塑，雕刻品
+literary                    adj. 爱好文学的，从事文学写作的
+poet                        n. 诗人
+dozens of                   许多，很多
+servant                     n. 仆人，佣人
+audio                       adj. 声音的；录音的
+latest                      adj. 最近的，最新的
+addition                    n. 增加物，添加物
+tractor                     n. 拖拉机
+agricultural                adj. 农业的
+barn                        n. 谷仓，畜棚
+groom                       v. 给（动物）擦洗，梳毛
+blanket                     n. 毯子，毛毯
+tour                        n. 旅行，旅游
+cattle                      n. 牛
+preserve                    v. 保护，保留
+milk                        v. 挤奶
+look after                  打理，照料
 ```
 扩展词汇
 
 ```
+estate                      n. 庄园
+parkland                    n. 绿地，有树丛的草地
+ballroom                    n. 舞厅
+conservatory                n. 暖房，温室
+flower bed                  花坛
+ally                        n (从政者的)盟友
+recipe                      n. 方法，秘诀
+adventure playground        儿童游乐场
+slice                       n. (切下的食物)薄片，片
+dominate                    v. 占据重要位置，高耸于
+plough                      v. 犁（田），耕(地)
+sow                         v. 播种
+stable                      n. 马厩
+pickle                      n. 泡菜，腌菜
+horse-drawn                 adj. （车）马拉的
+carriage                    n. (旧时的)马车
 ```
 
 # part 3 #
