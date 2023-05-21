@@ -116,18 +116,127 @@ dense                   adj. 浓重的，稠密的
 # Section 2 #
 必背词汇
 ```
-
+furniture               n. 家具
+arrange                 v. 布置
+flexible                adj. 灵活的
+stable                  adj. 稳固的
+alter                   v. 改变
+position                n. 位置
+assess                  v. 评估
+distract                v. 使分心
+alternative             n. 可替代的事物
+curtain                 n. 窗帘
+adjust                  v. 调整
+workload                n. 工作量
+say                     n. 话语权
+carry out               实施，开展
+vary                    v. 变化
+a variety of            各种各样的
+fair                    adj. 合理的
+input                   n. 意见
+portable                adj. 便携的，可移动的
+oversee                 v. 监督，监管
+visual                  adj. 视觉的
+inspection              n. 检查
+up-to-date              adj. 最新的，最近的
+conduct                 v. 开展，实施
+in accordance with      依照
+loose                   adj. 未固定牢的，松动的
+solid                   adj. 结实的，牢固的
+safeguard               v. 保护
+hazard                  n. 风险
+underneath              prep. 在……下面
+tie                     v. 将……系在
 ```
 扩展词汇
 
 ```
+document holder         文件夹
+soundproofing           n. 隔音材料
+partition               n. 隔板，隔墙
+blind                   n. 卷帘
+reflected               adj. 反射的
+glare                   n. 刺眼的强光
+temperature-wise        adv. 在温度方面
+ventilation             n. 通风
+humidity                n. 湿度
+overworked              adj. 劳累过度的，工作过度的
+underworked             adj. 工作量不足的
+pre-use                 adj. 使用之前的
+cracked                 adj. 破裂的，有裂纹的
+joint                   n. 结合处；关节
+grip                    v. 握紧；紧贴
+sink                    v. 下沉
+strike                  v. 碰撞，撞击
+cone                    n. 锥筒
+railing                 n. 栏杆；扶手
+block                   n. 大石头快
+wedge                   v. 把……楔住
 ```
 
 # Section 3 #
 必背词汇
 ```
+accomplish              v. 完成
+fabulous                adj. 极好的，惊人的
+feat                    n. 壮举；技艺
+originate               v. 产生，开创
+joke with               和某人开玩笑
+initially               adv. 最初地
+accidentally            adv. 意外地，偶然地
+reveal                  v. 透露
+unfold                  v. 发展；呈现
+countless               adj. 数不清的
+trials and errors       反复试验，试错
+frustration             n. 郁闷，沮丧
+approach                n. 方法
+eventually              adv. 最终
+eliminate               v. 淘汰
+striking                adj. 惊人的
+coincidence             n. 巧合
+recall                  v. 回忆
+negotiate               v. 解决；协商
+border                  n.边界
+install                 v. 安装
+term                    n. 术语
+overnight               adv. 一夜之间，突然
+refer to as             把……称之为
+context                 n. 背景；语境，上下文
+reference               n. 提及
+honoured                adj. 荣幸的，光荣的
+influential             adj. 有影响力的
+conflicting             adj. 冲突的，矛盾的
+insist                  v. 坚持
+inspire                 v. 赋予灵感，激发
+determined              adj. 坚定的，下定决心的
 ```
 扩展词汇
 
 ```
+crossbar                n. 横杆
+unorthodox              adj. 非传统的
+manoeuvre               n. 动作
+trip                    v. 绊倒
+take-off                n. 起跳；起飞
+belly roll              俯卧式跳高
+lousy                   adj. 不擅长的
+hip                     n. 臀部
+curved                  adj. 弯曲的，有弧度的
+biomechanics            n. 生物力学
+gangling                adj. 瘦长的
+physque                 n. 体格，体形
+reflexive               adj. 本能反应的
+all over the place      到处
+retain                  v. 保留
+awkwardness             n. 笨拙；尴尬
+pit                     n. 坑，洼
+chip                    n. 碎屑
+sawdust                 n. 锯屑
+flat                    adj. 平坦的；平躺的
+knock the wind out of   元气大伤，使某人泄气
+foam                    n. 泡沫；海绵
+rubber                  n. 橡胶
+thereby                 adv. 因此，从而
+back layout             背跃式跳高
+caption                 n. (图片的)文字说明
 ```
