@@ -11,11 +11,40 @@ category: IELTS
 # part 1 #
 必背词汇
 ```
-
+retire                      v. 退休
+volunteer                   n. 志愿者 v. 自愿做，义务做
+donate                      v. 捐赠，捐献
+flexible                    adj. 灵活的
+record                      n. 记录，记载
+up to date                  最新的，最近的
+elderly                     adj. 上了年纪的
+transport                   n. 运输；交通工具
+focus on                    专注于
+resident                    n. 居民
+appointment                 n. 约会，约定
+decorate                    v. 装修，装饰
+quiz                        n. 小测试
+unusual                     adj. 不寻常的，独特的
+book                        v. 预订，预约
+band                        n. 乐队
+ticket                      n. 票，入场卷
+in advance                  提前，预先
+poster                      n. 海报
+draft                       n. 草稿
 ```
 扩展词汇
 
 ```
+computerised                adj. 计算机化的
+neighbouring                adj. 邻近的，解囊的
+one-off                     n. 一次性的事情
+struggle                    v. 努力，艰难地进行
+weed                        v. 除草
+social event                社交活动
+refreshment                 n. 茶点，饮料
+specialise                  v. 专攻，专门从事
+bottleneck                  n. 交通拥挤处，瓶颈路段
+graphic designer            平面设计师
 ```
 
 # part 2 #
