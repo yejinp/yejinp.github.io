@@ -99,10 +99,46 @@ carriage                    n. (旧时的)马车
 # part 3 #
 必背词汇
 ```
+review                      n. (书籍、戏剧等的)评论
+well-known                  adj. 著名的，出名的
+relevant                    adj. 切题的，相关的；有意义的
+director                    n. 导演
+balcony                     n. 阳台
+memorable                   adj. 难忘的
+amazing                     adj. 令人称奇的，惊人的
+scene                       n. (戏剧)场面，片段
+mood                        n. 气氛，氛围
+costume                     n. 戏装，服装
+conventional                adj. 传统的
+deliver                     v. 说（台词）
+tension                     n. 矛盾，对立
+translation                 n. 翻译，译本
+challenging                 adj. 有挑战性的，艰巨的
+powerful                    adj. 极具感染力的，有震撼力的
+appeal                      n. 吸引力，魅力
+character                   n. 角色，人物
+angle                       n. 角度，立场
+summary                     n. 总结，概况
+plot                        n. 故事情节
+reaction                    n. 反应
+traditional                 adj. 传统的
+original                    adj. 原创的，独创的
+atmosphere                  n. 氛围，气氛
+strength                    n. 优势，优点
+conflict                    n. 冲突，争执
+frustrating                 adj. 令人沮丧的
+demanding                   adj. 费力的，要求高的
+interpret                   v. 解读，领会
 ```
 扩展词汇
 
 ```
+poetry                      n. 诗歌，诗作
+imagery                     n. 意象，形象化描述
+bit                         n. (事物的)小部分，片段
+set                         n. (戏剧)布景
+visually                    adv. 在视觉上地
+stunning                    adj. 绝妙的，极好的
 ```
 
 ## Reading
