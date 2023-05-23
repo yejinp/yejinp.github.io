@@ -141,6 +141,58 @@ visually                    adv. 在视觉上地
 stunning                    adj. 绝妙的，极好的
 ```
 
+
+# part 4 #
+必背词汇
+```
+decline                     n. 衰落，衰退
+digital                     adj. 数码的，数字的
+vocabulary                  n. (某一语言的)词汇量
+concept                     n. 概念
+wander                      v. 漫游，游荡
+term                        n. 词语，术语
+browse                      v. （在互联网上）浏览信息
+podcast                     n. 播客
+smartphone                  n. 智能手机
+bilingual                   adj. 双语的
+virtual                     adj. 虚拟的，模拟的
+official                    adj. 官方的，正式的
+sound                       adj. 可靠的
+identity                    n. 特征，特性
+concerning                  adj. 令人担忧的
+conversation                n. 对话
+entirely                    adv. 完全地，彻底地
+consequence                 n. 结果，后果
+mother tongue               母语，本国语
+option                      n. 选项，选择
+expense                     n. 花费，开支
+drawback                    n. 缺点，不利条件
+grammar                     n. 语法，文法
+complex                     adj. 复杂的，难懂的
+fund                        n. 基金，专款
+fluent                      adj. (外语)流利的
+content                     n. 内容
+secure                      adj. 稳固的，可靠的
+```
+扩展词汇
+
+```
+Icelandic                   adj. 冰岛语的；冰岛的
+                            n. 冰岛语
+illustrate                  v. 说明，阐明
+continually                 adv. 持续地
+pronounce                   v. 发（音），读（音）
+predominantly               adv. 主要地，占主要地位地
+comparatively               adv. 比较上，相对地
+staggering                  adj. 令人震惊的
+justify                     v. 证明……正确
+tech giant                  科技巨头
+tackle                      v. 处理，解决
+allocate                    v. 分配，拨款
+uphill                      adj. 漫长而艰难的，费力的
+inevitable                  adj. 不可避免的
+approximately               adv. 大约，近似
+```
 ## Reading
 
 
