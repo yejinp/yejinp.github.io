@@ -8,6 +8,49 @@ category: IELTS
 
 必背词汇
 ```
+
+chore                   家务；琐事
+shrink                  收缩；退缩；精神科医生
+tornado                 龙卷风；飓风
+questionnaire           问卷调查
+pan                     平底锅；盘子
+nod                     点头；同意
+ordinance               法令；条例
+badge                   徽章；象征；标记
+custody                 监护；拘留
+footage                 连续镜头
+eternal                 永久的；永恒的
+impairment              损伤
+statutory               法定的；法令的
+spaghetti               意大利面
+moisten                 弄湿；使湿润
+sundae                  圣代冰激凌
+helm                    舵；掌舵
+mist                    雾；使模糊
+dew                     露水
+stain                   污点；瑕疵；着色；弄脏
+exert                   施加；运用
+hose                    水管；橡皮软管
+lettuce                 生菜
+pinpoint                精确的；微小的；瞄准
+provision               规定；条款；供应
+spill                   泄露；溢出
+precaution              预防；预防措施
+germination             发芽；萌芽
+pantry                  餐具室；食品储藏室
+cub                     幼兽；年轻人
+broom                   扫帚；清扫
+revere                  尊敬；崇拜
+curb                    抑制；克制；路边
+scenery                 风景；布景；背景
+hygiene                 卫生；卫生学
+violate                 侵犯；违反
+shed                    小屋；车棚；除掉
+mortgage                抵押贷款；按揭
+harmony                 和谐；协调
+collar                  衣领；项圈；抓住
+parcel                  包裹；分配
+folk                    民间音乐；人们，民间的
 reptile                 爬行动物
 porridge                粥；麦片粥
 chess                   国际象棋
