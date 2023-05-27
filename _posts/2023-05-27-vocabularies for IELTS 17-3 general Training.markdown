@@ -172,8 +172,81 @@ numeracy                    n. 计算能力
 # Section 3 #
 必背词汇
 ```
+consumer                    n. 顾客，消费者
+selection                   n. 挑选，选择
+long-standing               adj. 长期存在的，悠久的
+generation                  n. 一代人
+stem                        n. (花草的)茎
+insist                      v. 坚持，坚决要求
+crown                       n. 花冠
+polularity                  n. 受欢迎，流行
+peak                        n. 顶峰，高峰
+coal                        n. 煤
+mine                        n. 矿井，矿
+fuel                        n. 燃料
+import                      n. 进口商品
+chef                        n. 厨师，主厨
+remarkable                  adj. 非凡的，显著的
+renaissance                 n. 复兴
+edge                        n. 优势
+bud                         n. 花蕾，苞
+relief                      n. 宽慰，轻松
+pale                        adj. 暗淡的，微弱的
+flickering                  adj. 闪烁的，闪现的
+expertly                    adv. 熟练地，巧妙地
+extraordinary               adj. 卓越的，非凡的
+enrich                      v. 使充实，使丰富
+ideal                       adj. 理想的
+startlingly                 adv. 惊人地
+upper class                 上等阶层，上流社会
+convert                     v. 转换，转化
+harshly                     adv. 粗糙地
+flavoured                   adj. 有……味道的
+texture                     n. 质感，口感
+coarse                      adj. 粗糙的
+bitter                      adj. 苦的
+rare                        adj. 罕见的
+eye-watering                adj. 高得难以想象的
+earthy                      adj. 粗俗的，庸俗的
+puzzle                      v. 困惑，使迷惑
+suitability                 n. 合适
+smootheness                 n. 柔滑，平坦
+superiority                 n. 优越，优势
+variety                     n. 品种，种类
+remove                      v. 移除
+inspect                     v. 检查，查看
+handle                      v. 处理
 ```
 扩展词汇
 
 ```
+edible                      adj. 可食用的
+stalk                       n. (植物的)茎，秆
+woolly                      adj. 羊毛的，毛制的
+loam                        n. 肥土，壤土
+clay                        n. 粘土，陶土
+shed                        n. 棚
+deprive                     v. 剥夺，使丧失
+effluence                   n. 流出物
+soot                        n. 煤烟，油烟
+cream                       n. 精华，精英
+traumatise                  v. 使……受精神损伤
+slender                     adj. 细的，窄的
+magenta                     adj. 洋红色的
+spear                       n. 嫩芽，幼芽
+splash                      n. 色块，光斑
+drab                        adj. 单调乏味的；无光彩的
+dormancy                    n. 休眠，冬眠
+gibberellic acid            赤霉酸
+hormone                     n. 激素，荷尔蒙
+earthen                     adj. 土制的
+block out                   遮住
+pitch black                 漆黑一片
+sturdy                      adj. 结实的，坚固的
+stretch                     v. 延申
+pluck                       v. 摘，拔
+satiny                      adj. 光滑的
+arcane                      adj. 神秘的
+stable                      n. 马厩
+manure                      n. 粪肥
 ```
