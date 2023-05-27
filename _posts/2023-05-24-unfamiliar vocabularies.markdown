@@ -8,7 +8,25 @@ category: IELTS
 
 必背词汇
 ```
-
+faculty                 大学体系；全体教员
+vaccine                 疫苗
+shave                   刮；剃须
+lens                    镜头；透镜；给……拍照
+consensus               共识；一致同意
+trait                   特征；特点
+strand                  使陷于困境；搁浅
+bushfire                林区大火
+indicator               指示器；指示剂
+bribery                 受贿；贿赂行为
+naughty                 淘气的；顽皮的
+negotiation             谈判；协商
+vinegar                 醋
+masterpiece             杰作
+cheek                   面颊；脸蛋
+vague                   不明确的；模糊的
+gear                    齿轮；拍档；装备
+collapse                倒塌；崩溃；暴跌
+orbit                   眼眶；轨迹；势力范围；进入轨道
 chore                   家务；琐事
 shrink                  收缩；退缩；精神科医生
 tornado                 龙卷风；飓风
