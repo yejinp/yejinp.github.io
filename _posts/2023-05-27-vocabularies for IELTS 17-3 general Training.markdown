@@ -11,19 +11,104 @@ category: IELTS
 # part 1 #
 必背词汇
 ```
+surfing                 n. 冲浪
+expert                  n. 专家
+ability                 n. 能力
+recommend               v. 推荐
+quality                 n. 质量，品质
+chiff                   n. 悬崖
+camp                    n. 度假营
+beach                   n. 海滩
+average                 adj. 平均的
+temperature             n. 温度
+equipment               n. 设施，设备
+wetsuit                 n. 潜水服
+surfboard               n. 冲浪板
+warmth                  n. 温暖
+fit                     adj. 健壮的
+hotel                   n. 旅馆
+bay                     n. 海湾
+boot                    n. 靴子
 ```
 扩展词汇
 
 ```
+seaside                 n. 海滨
+thoroughly              adv. 完全地，十分地
+physically demanding    对体力要求很高的
+realise                 v. 意识到
+location                n. 地点
+challenging             adj. 有挑战性的
+lively                  adj. 热闹的
+campsite                n. 营地
+kayak                   n. 皮划艇
+excellent               adj. 卓越的
+tire out                筋疲力尽
+rent                    v. 租借
+appeal                  n. 吸引力
+degree                  n. 度数（温度单位）
+hire                    n. 租金 v.租借
+euro                    n. 欧元
 ```
 
 # part 2 #
 必背词汇
 ```
+extended hour           延时
+childcare service       托管服务
+recently                adv. 最近地
+insure                  v. 确保
+attend                  v. 参与
+average                 n. 平均值
+session                 n. 上课时间
+maximum                 adj. 最大的
+complete                adj. 完整的
+manager                 n. 经理
+allergy                 n. 过敏
+snack                   n. 零食
+proper meal             正餐
+arrangement             n. 安排
+activity                n. 活动
+Spanish                 n. 西班牙语
+yoga                    n. 瑜伽
+limited                 adj. 有限的
+availability            n. 可利用性，可得性
+require                 v. 需要，要求
+involve                 v. 涉及
+request                 v. 请求，要求
+detail                  n. 细节
+invaluable              adj. 无价的，非常宝贵的
+expect                  v. 预计
+register                v. 登记，注册
+cost                    n. 花费
+inform                  v. 通知
+alternative             n. 替代物
+varied                  adj. 各式各样的
+equipment               n. 设施，设备
+introduction            n. 介绍
+charge                  n. 费用
+delighted               adj. 高兴的
 ```
 扩展词汇
 
 ```
+staff                   n. 员工
+pupil                   n. 学生
+safe in the knowledge that 因知道……而放心
+extremely               adv. 极度地，非常地
+good value for money    物有所值
+substantial             adj. 丰富的，充实的
+pasta                   n. 意大利面，通心粉
+casserole               n. 炖菜
+entertained             adj. 愉快的
+insurance               n. 保险
+playground              n. 操场，娱乐场地
+folk band               民谣乐队
+extra                   adj. 额外的
+mess                    n. 脏乱
+hopefully               adv. 抱着希望地
+restrict                v. 限制
+clean up                清洁
 ```
 
 # part 3 #
