@@ -88,11 +88,15 @@ equipment               n. 设施，设备
 introduction            n. 介绍
 charge                  n. 费用
 delighted               adj. 高兴的
+extra                   adj. 额外的
+mess                    n. 脏乱
+hopefully               adv. 抱着希望地
+restrict                v. 限制
+staff                   n. 员工
 ```
 扩展词汇
 
 ```
-staff                   n. 员工
 pupil                   n. 学生
 safe in the knowledge that 因知道……而放心
 extremely               adv. 极度地，非常地
@@ -104,20 +108,151 @@ entertained             adj. 愉快的
 insurance               n. 保险
 playground              n. 操场，娱乐场地
 folk band               民谣乐队
-extra                   adj. 额外的
-mess                    n. 脏乱
-hopefully               adv. 抱着希望地
-restrict                v. 限制
 clean up                清洁
 ```
 
 # part 3 #
 必背词汇
 ```
+work placement          实习工作
+tutorial                n. 辅导课，辅导时间
+stadium                 n. 体育馆，体育场
+involve                 v. 涉及
+outdoors                n. 户外活动
+ensure                  v. 确保
+check                   v. 检查
+obstacle                n. 障碍
+boundary                n. 边界
+spectator               n. 观众
+volunteer               n. 志愿者
+priority                n. 最重要的事
+snap                    n. 快照，拍照
+scheduling              n. 日程安排
+injury                  n. 受伤
+delay                   n. 延迟，延误
+sponsor                 n. 赞助者，赞助商
+dress up                盛装打扮
+matter                  v. 要紧，有影响
+on-the-spot             adj. 现场的
+deadline                n. 截止时间
+approach                v. 靠近，接近
+indoors                 adv. 在室内
+attract                 v. 吸引
+appeal                  n. 吸引力
+aspect                  n. 方面
+emphasise               v. 强调
+panic                   n. 恐慌，不安
+fill in                 填补，填满
+gap                     n. 空缺，空位
+apply                   v. 申请
+communication           n. 沟通
+creativity              n. 创造力
+leadership              n. 领导力
+networking              n. 社交能力
+flexible                adj. 灵活的
+appearance              n. 外观，外貌
+hide                    v. 隐藏
+emotion                 n. 情绪，情感
+rely on                 依赖，依靠
+expert                  n. 专家
+trust                   v. 信任，相信
+view                    n. 观点，想法
 ```
 扩展词汇
 
 ```
+set up                  创建，创立
+competition             n. 竞赛，比赛
+tough                   adj. 艰难的，困难的
+fresh air               新鲜空气
+damage                  v. 损害
+kit                     n. 套件，装备
+field                   n. 场地，体育场
+inspect                 v. 检查，视察
+changing room           更衣室
+trip over               绊倒
+film                    v. 拍摄
+volunteer               v. 义务做
+interfere               v. 干预，妨碍
+alter                   v. 改变
+timetable               n. 时间表
+aim                     n. 目的
+anticipate              v. 预料
+suit                    v. 适合
+under pressure          处于压力之下
+ultimate                adj. 最终的，最后的
+refreshment             n. 小吃，茶点
+ahead                   adv. 提前
+keep in mind            记住
+```
+
+# part 4 #
+必背词汇
+```
+migration               n. 迁徙
+migrate                 v. 迁徙；移民
+theory                  n. 理论，学说
+seasonally              adv. 季节性地
+hibernate               v. 冬眠，蛰伏
+underwater              adv. 在水下
+bury                    v. 埋
+hidden                  adj. 隐藏的
+mud                     n. 泥土
+appearance              n. 出现
+disappearance           n. 消失
+disprove                v. 反驳，驳斥
+experiment              n. 实验
+caged                   adj. 关在笼中的
+feather                 n. 羽毛
+species                 n. 物种
+observe                 v. 观察
+experience              v. 经历，遭遇
+loss                    n. 损失
+robin                   n. 知更鸟
+shape                   n. 形状
+assumption              n. 假设，假想
+similar                 adj. 相似的
+popularise              v. 普及，推广
+shot                    v. 枪击
+neck                    n. 脖子
+spear                   n. 矛，枪
+previously              adv 之前
+evidence                n. 证据
+extablish               v. 建立，设立，创立
+available               adj. 可以到的，可利用的
+actual                  adj. 实际的，真实的
+destination             n. 目的地
+incapable               adj. 无能的，不能的
+print                   v. 印刷，打印
+atlas                   n. 地图册，地图集
+gather                  v. 采集，收集
+logical                 adj. 合乎逻辑的
+explanation             n. 解释
+paper                   n. 论文
+turn out                结果是，证明是
+classic                 adj. 经典的，典型的
+lack                    v. 缺乏，缺少
+recognize               v. 意识到
+distance                n. 距离
+northern pole           北极
+southern pole           南极
+century                 n. 世纪
+```
+扩展词汇
+
+```
+habitat                 n. 栖息地
+observation             观测
+mystery                 n. 神秘的事物
+error-filled            adj. 包含错误的
+amusing                 adj. 有趣的
+persist                 v. 持续
+interpretation          n. 解读，阐述
+bizarre                 adj. 诡异的，怪异的
+put forward             提出
+harassment              n. 扰乱，烦扰
+discovery               n. 发现
+practice                n. 规则，惯例
 ```
 
 ## Reading
