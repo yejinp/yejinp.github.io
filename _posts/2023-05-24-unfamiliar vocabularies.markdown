@@ -8,6 +8,45 @@ category: IELTS
 
 必背词汇
 ```
+outskirts               郊区，郊外；市郊
+geography               地理；地理学
+mathematics/maths       数学
+physics                 物理学
+chemistry               化学
+elementary              初级的，基本的
+intermediate            中间的，中级的
+vegetarian              素食者
+fruitarian              果食者
+vegan                   纯素食者
+cockroach               蟋蟀
+mosquito net            蚊帐
+balcony                 阳台
+reptile park            爬行动物公园
+art gallery             艺术展览馆
+cathedral               主教堂
+canoe                   独木舟
+orientation             新生入学；培训；迎新会
+refectory               餐厅
+canteen                 食堂
+football pitch          足球场
+tennis court            网球场
+kick-boxing             搏击
+judo                    柔道
+buffet                  自助餐
+crisps/chips/fries      炸片
+lentil curry            扁豆咖喱
+tart                    甜果馅饼
+desserts                甜食，甜品
+sundae                  圣代
+lobster                 大虾
+
+fine system             罚款系统
+encyclopedia            百科大全
+bibliography            参考文献
+
+
+----to be continue-----
+
 faculty                 大学体系；全体教员
 vaccine                 疫苗
 shave                   刮；剃须
