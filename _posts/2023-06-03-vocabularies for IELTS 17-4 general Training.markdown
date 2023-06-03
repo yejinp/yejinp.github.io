@@ -192,6 +192,7 @@ reinforcing steel           钢筋
 troubleshoot                v. 解决重大问题，排除……的故障
 symptom                     n. 症状
 blockage                    n. 堵塞，阻塞
+tradespeople                n. 商人，手艺人
 ```
 
 # Section 3 #
