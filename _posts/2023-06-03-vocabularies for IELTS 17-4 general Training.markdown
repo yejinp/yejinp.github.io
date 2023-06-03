@@ -250,4 +250,10 @@ coppicing                   n. 矮林平茬
 slice up                    把……切成片
 bison                       n. 野牛
 moose                       n. 麋鹿
+lynx                        n. 猞猁，山猫
+beaver                      n. 河狸，海狸
+hail                        v. 赞扬
+unlicensed                  adj. 无执照的，无许可的
+fearsome                    adj. 很可怕的
+boar                        n. 野猪
 ```
