@@ -16,7 +16,7 @@ expert                  n. 专家
 ability                 n. 能力
 recommend               v. 推荐
 quality                 n. 质量，品质
-chiff                   n. 悬崖
+cliff                   n. 悬崖
 camp                    n. 度假营
 beach                   n. 海滩
 average                 adj. 平均的
