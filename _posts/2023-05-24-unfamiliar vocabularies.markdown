@@ -6,7 +6,210 @@ category: IELTS
 ---
 
 
-必背词汇
+# 一. 租房场景
+```
+a. 具体地址：
+address/area/location
+road/street/avenue/lane/drive
+
+b. 方向
+east west south north
+northwest  southeast
+
+c. 城郊
+city center/town center/downtown
+suburb/outskirts
+urban/suburban/rural
+
+2. water/electricity(power)/gas/telephone(phone)bill/~ rental/rent
+deposit on-month rent
+
+3. facility 设备  garage /garden/swimming pool/car park/laundry room/cafe/restaurant
+furniture: microwave oven/toaster/heater/stereo/fridge
+
+4. time 12 + 7
+ month: January/Feburary/March/April/May/June/July/August/September/October/November/December
+ week: Monday/Tuesday/Wednesday/Thursday/Friday/Saturday/Sunday
+ Season: spring/summer/autumn(fall)/winter
+
+5. people
+ landlord/landlady/tenant
+ host family/guest -- home stay
+ house agency / student, employer,employee
+
+ 6. document
+ reference/ contract / notice / confirmation/ ID(identity):student card,passport , credit card, driving license, bank statement
+
+ 7. personal information
+ a. occupation/subject
+ engineer designer 
+ professor
+ dentist
+ accountant
+
+ 语言类学科首字母常见大写，如French
+ geography
+ biology
+ physical education
+ Chinese
+ mathematics  maths
+ politics
+ economics
+ statistics
+ history
+ physics
+ chemistry
+
+ b. level
+ starter, beginner/basic,primary,elementary
+ secondary, intermediate
+ advanced
+ master
+
+ c. diet
+ vegeterian  fruitarian
+ vegan
+ no seafood/nut(peanut)/milk
+
+ d. type of accommodation
+ flat / apartment / studio / house
+
+ 8. problems
+ broken
+ torn -- tear
+ leak(pipe)
+ flicker / flash
+ cockroach
+ mosquito net
+ firefly
+
+ 9. root types
+ bathroom   restroom
+ balcony
+ kitchen
+ dining room
+ study
+ sitting room
+ bedsit
+
+```
+
+# 二. 旅游出行
+```
+1. transportation (by): book the ticket/minibus/coach/ferry/cab
+2. number
+3. time
+4. name
+
+(1) 英国（大不列颠）
+U.K./the United Kindom/Great Britain
+London
+England
+Liverpool
+Manchester
+Sheffield
+Birmingham
+Coventry
+Leeds
+Scotland
+Edinburgh
+Glasgow
+Wales
+Cardiff
+Northern Ireland
+Belfast
+(2) Ireland
+Dublin
+(3) Australia
+Canberra
+Queensland
+Brisbane
+New South Wales
+Sydney
+Southern Australia
+Adelaide
+Victoria
+Melbourne
+Western Australia
+Perth
+
+(4) New Zealand
+Wellington
+(5) Canada
+Ottawa
+British Columbia
+Victoria
+Vancouver
+Alberta
+Edmonton
+Ontario
+Toronto
+Quebec
+Montreal
+
+(6) United States of America
+Washington D.C
+New York
+Boston
+Atlanta
+Seattle
+Los Angeles/L.A.
+Chicago
+
+5. destination
+church/ reptile park/ village/ art gallery/ cathedral/ castle/ a canoe trip/ cave/ meseum/cattages/cafe
+
+6. price
+pay/ charge/ cost/ check/ cash/ card/ deposit/ fare/ change purse
+
+7. service
+discount/ reservation/ website
+```
+
+# 三、新生入学 orientation
+```
+1. time
+2. facility
+library(librarian)/ teaching building/ gym/ stadium/ storeroom
+student common room/ self access room/ laboratory/ refectory/ cafeteria/ canteen/ dining room/ hall of residence dormitory
+3. position
+professor/ teaching assistant/ lecturer/ associate professor/ dean/ principal/ student advisor(counselor/consultant)/ director of studies
+4. service
+time management
+stress(pressure) management
+diet
+financial: grant/load/insurance
+social skills
+domestic:childcare, nursery
+academic
+```
+
+# 四、手续办理（银行、健身房、购物中心）
+```
+personal information
+1. name
+2. address
+3. date of birth
+4. occupation
+5. fee: annual fee
+6. membership
+7. service
+8. facility
+
+dance studio
+tennis court
+squash court
+football pitch
+fitness room
+kick-boxing
+yoga
+judo
+golf
+stretch
+```
+
+
+# 必背词汇
 ```
 outskirts               郊区，郊外；市郊
 geography               地理；地理学
