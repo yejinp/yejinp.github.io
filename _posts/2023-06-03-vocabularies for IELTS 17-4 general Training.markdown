@@ -59,6 +59,10 @@ plumber                     n. 水管工
 # part 2 #
 必背词汇
 ```
+hotel industry              酒店行业
+rely on                     依赖，依靠
+cause                       n. 起因
+unaware                     adj. 未意识到的
 ```
 扩展词汇
 
@@ -76,10 +80,67 @@ plumber                     n. 水管工
 # part 4 #
 必背词汇
 ```
+sap                         n. 液，汁
+thick                       adj. 浓稠的
+Canadian                    adj. 加拿大的
+moist                       adj. 湿润的
+soil                        n. 土壤
+fertiliser                  n. 肥料
+condition                   n. 条件
+alternative                 n. 替代品
+healthy                     adj. 健康的
+hole                        n. 洞
+tree trunk                  树干
+tree bark                   树皮
+container                   n. 容器
+collection                  n. 收集物
+heat                        v. 加热
+sweeten                     v. 使……变甜
+suit                        v. 适合
+climate                     n. 气候
+place                       v. 放置
+golden                      adj. 金黄色的
+species                     n. 种类
+temperature                 n. 温度
+drill                       v. 钻孔
+bucket                      n. 水桶
+tube                        n. 管子
+diameter                    n. 直径
+centimetre                  n. 厘米
+evaporator                  n. 蒸发器
+evaporation                 n. 蒸发
+pan                         n. 平底锅，盘子
+steam                       n. 蒸汽
+boil                        v. 煮沸
+remove                      v. 移开，拿开
+cloudy                      adj. 浑浊的
+appearance                  n. 外观，外貌
+quantity                    n. 数量
+litre/liter                 n. 升
+length                      n. 长度
+storage                     n. 储存
+facility                    n. 设施，设备
+look after                  照看，照料
+mention                     v. 提及
+fluid                       n. 液体
+natural                     adj. 自然的，天然的
+symbol                      n. 象征，标志
 ```
 扩展词汇
 
 ```
+maple syrup                 枫糖浆
+refined sugar               精制糖
+jar                         n. 罐子
+baking                      n. 烘培
+pastry                      n. 面团，糕点
+preservative                n. 防腐剂
+added                       adj. 添加的
+ingredient                  n. 成分
+sun exposure                日晒
+feature                     v. 以……为特征
+filter                      v. 过滤
+package                     v. 打包
 
 ```
 
