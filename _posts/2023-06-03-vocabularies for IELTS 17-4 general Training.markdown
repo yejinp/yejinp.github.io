@@ -11,10 +11,49 @@ category: IELTS
 # part 1 #
 必背词汇
 ```
+service                     n. 服务
+package                     n. (服务)包，（服务）套餐
+apartment                   n. 公寓
+shower                      n. 淋浴室
+sink                        n. 水池，水槽
+iron                        v. 熨烫
+organise                    v. 组织，安排
+allergic                    adj. 对……过敏的
+hire                        v. 录用
+require                     v. 要求
+customer                    n. 顾客
+fridge                      n. 冰箱
+balcony                     n. 阳台
+electrician                 n. 电工
+dust                        n. 灰尘
+training                    n. 培训
+review                      n. 评论
+select                      v. 选择
+undergo                     v. 经历
+domestic                    adj. 家庭的
+curtain                     n. 窗帘
+regularly                   adv. 规律地
+performance                 n. 表现
 ```
 扩展词汇
 
 ```
+one-bedroom flat            一居室
+thorough                    adj. 彻底的
+polish                      v. 打磨，抛光
+carpet                      n. 地毯
+additional                  adj. 额外的
+microwave                   n. 微波炉
+wipe out                    擦拭
+offer service               提供服务
+specialist                  n. 专家
+or so                       大约
+pressure washer             高压清洗机
+vacuum cleaning system      真空吸尘系统
+air quality                 空气质量
+bear in mind                记住，考虑到
+security check              安全检查
+plumber                     n. 水管工
 ```
 
 # part 2 #
@@ -49,7 +88,6 @@ category: IELTS
 
 # Section 1 #
 
-必背词汇
 必背词汇
 ```
 fitness                     n. 健康，健壮
