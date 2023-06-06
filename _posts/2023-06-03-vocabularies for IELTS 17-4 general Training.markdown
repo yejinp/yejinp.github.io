@@ -138,10 +138,62 @@ value                       v. 尊重，重视
 # part 3 #
 必背词汇
 ```
+athlete                     n. 运动员
+assume                      v. 假设，假想
+brilliant                   adj. 杰出的
+push                        v. 逼迫，敦促
+fortunate                   adj. 幸运的
+rubber                      n. 橡胶
+covering                    n. 覆盖物，罩，壳
+boo                         v. 发出嘘声，喝倒彩
+jeer                        v. 嘲笑
+end up                      最终
+skin                        n. 皮肤
+breathe                     v. 呼吸，透气
+entirely                    adj. 完全地，彻底地
+damage                      n. 损害，伤害
+head                        v. 用头顶（球）
+positive                    adj. 积极的
+challenging                 adj. 有挑战的
+disappointed                adj. 令人失望的
+follow student              同学
+admire                      v. 赞美，钦佩
+disbelief                   n. 不信，怀疑
+relief                      n. (痛苦等的)减轻
+gratitude                   n. 感谢，感激
+homesickness                n. 思乡
+equipment                   n. 实施，设备
+bat                         n. 球拍
+helmet                      n. 头盔
+stick                       n. 棍子
+excessive                   adj. 过多的，过度的
+sweating                    n. 出汗，发汗
+mass                        adj. 大量的
+purpose                     n. 目的，用途
+replace                     v. 替换
+spectator                   n. 观众
+injury                      n. 受伤
 ```
 扩展词汇
 
 ```
+achieve                     v. 完成
+loads of                    大量，许多
+complete                    v. 竞赛，竞争
+shock                       n. 震惊
+realise                     v. 意识到
+innovative                  adj. 创新的
+ugly                        adj. 丑陋的
+professional                adj. 专业的，职业的
+air vent                    通风口
+powerful                    adj. 有力量的
+manufacture                 v. 生产
+table tennis                乒乓球
+cricket                     n. 板球
+cycle                       n. 自行车
+golf                        n. 高尔夫
+hockey                      n. 曲棍球
+football                    n. 足球
 ```
 # part 4 #
 必背词汇
