@@ -63,10 +63,76 @@ hotel industry              酒店行业
 rely on                     依赖，依靠
 cause                       n. 起因
 unaware                     adj. 未意识到的
+staff                       n. 员工
+lack                        n./v. 缺乏，缺少
+training                    n. 培训，训练
+factor                      n. 影响因素
+recruit                     v. 雇用
+duty                        n 责任，职责
+turnover                    n. 人员流动率
+workload                    n. 工作量
+morale                      n. 士气
+error                       n. 错误
+treatment                   n. 待遇，对待
+mistake                     n. 错误
+avoid                       v. 避免
+reorganise                  v. 整顿，重组
+warning                     n. 警告，警示
+neglect                     v. 忽略，忽视
+significant                 adj. 显著的
+amount                      n. 数量
+stay                        n. 停留，暂住
+unexpected                  adj. 出人意料的
+notice                      v. 注意到
+staff retention             员工留存率
+complaint                   n. 抱怨，投诉
+loyalty                     n. 忠诚度
+customer                    n. 客户，顾客
+contribute                  v. 贡献
+introduce                   v. 引入
+scheme                      n. 方案，计划
+talent                      n. 人才
+individual                  n. 个人，个体
+reward                      n. 奖励，回报
+in order to                 为了（做某事）
+rewarding                   adj. 有价值的，有利益的
+issue                       v. 发行
+voucher                     n. 优惠劵
+relationship                n. 关系
+teamwork                    n. 团队工作
+incentive                   n. 激励，刺激
+financial benefit           经济利益
+career opportunity          职业机会
+run                         v. 运营
+smoothly                    adv. 顺畅地
+immediate                   adj. 直接的，立即的
+severely                    adj. 严重地
+affect                      v. 影响
+colleague                   n. 同事
+remaining                   adj. 留下的，剩余的
+fairly                      adv. 公平地
+invest                      v. 投资，投入
+condition                   n. 状态；环境
+regularly                   adv. 定期地
+potential                   n. 潜力，潜能
 ```
 扩展词汇
 
 ```
+time-consuming              adj. 耗费时间的
+resentful                   adj. 愤慨的，怨恨的
+shift                       n. 轮班，轮值
+tangible                    adj. 切实 ，可触摸的
+chain                       n. 连锁店
+all-expenses-paid           adj. 全额报销的
+element                     n. 因素，要素
+serve                       v. 提供
+additional                  adj. 额外的
+caring                      addj. 关心他人的
+childcare                   n. 儿童看护
+effort                      n. 努力，成就
+achieve                     v. 完成，到达
+value                       v. 尊重，重视
 ```
 
 # part 3 #
