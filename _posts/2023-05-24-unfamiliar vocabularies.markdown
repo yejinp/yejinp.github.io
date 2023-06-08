@@ -208,9 +208,140 @@ golf
 stretch
 ```
 
+# 五、聚会活动
+```
+1. venue: name/facility
+2. food
+ chilled juice
+ buffet
+ snack
+ crisps  chips  fries
+ cholocate
+ biscuit
+ cookie
+ refreshment
+ lentil curry
+ tart
+ desserts
+ sundae
+ lobster
+ 3. time
+ 4. number
+ 5. activity: party, dress code
+
+```
+# 六、 图书馆
+```
+join(in), registration(register), member, membership
+证件：ID(identification/identity) card, passport (~ photos), driving license, bank statement, credit card
+费用： deposit, fee, cash, check, annual fee
+使用： item, loan, return, overdue, fine(system), book(reserve) in advance(up to)
+资源： resource, newspaper, magazine, journal, CD, DVD, videos, periodical, data base(access), references, (current issue/back issue), encyclopedia, bibliography
+CD-ROM  multimedia
+设备： photocopier, printer, laptop
+服务：telephone, website, renew, interlibrary service, touch-screen service, locker
+```
+
+# 七、 医疗健康
+```
+1. 场所名字
+ hospital
+ health centre/center
+ clinic
+ practice
+ infirmary
+ chemists's shop
+ pharmacy
+2. 医务工作者
+ 
+```
+
+# 必考词汇
+```
+p20
+certificate             证明，执照
+barrier                 障碍，栅栏
+insurance               保险
+refreshment             恢复，点心（复数）
+supervision             监督
+segment                 部分，段，分割
+quiz                    测验
+theatrical              剧场的，戏剧的
+cab                     出租车
+eyedrop                 眼药水
+innovation              创新
+velvet                  天鹅绒
+diving                  潜水
+violin                  小提琴
+embassy                 大使馆
+texture                 纹理，质地
+rural                   农村的，乡村的
+dairy                   牛奶场，乳制品
+operation               操作，手术，经营，运转
+auditorium              礼堂，观众席
+fertilizer              肥料
+subtitle                副标题，对白，说明，加字幕
+waste                   废物，浪费，滥用，荒地
+concrete                具体的，混凝土
+platform                月台，平台，讲台
+decoration              装饰品
+confidential            秘密的，机密的
+whistle                 口哨，汽笛
+leather                 皮革
+documentary             纪录片
+morale                  士气
+democratic              民主的
+sales                   销售额
+tide                    趋势，潮水，渡过
+tin                     锡，罐头
+mineral                 矿物，无机物，矿泉水
+loyalty                 忠诚
+draft                   草稿，牵引，汇票
+jaw                     颚，下巴，说教
+supplement              增刊，附录
+rational                合理的，理性的
+bound                   跳跃，界限，装订的，范围，有义务的
+carbon                  碳，复写纸
+cafeteria               自助餐厅
+recruit                 招聘
+slide                   滑动，幻灯片，下滑
+log                     原木，圆木
+warehouse               仓库
+maintain                维持，保养
+contamination           污染
+chef                    厨师
+scent                   气味，香味，线索，发觉
+religion                宗教
+laser                   激光，镭射
+font                    字体
+catalogue               目录，编制目录
+reflective              反射的，沉思的，反映的
+skeleton                骨架，纲要
+canteen                 食堂，水壶
+grain                   谷物，颗粒
+desert                  沙漠，遗弃
+exhibition              展览
+sailing                 航行
+triangle                三角形
+strain                  紧张，拉紧，劳累
+domestic                国内的，家庭的，驯养的，仆人
+waterfall               瀑布
+promotion               提升，促进
+gallery                 美术馆，画廊
+pottery                 陶器
+helicopter              直升飞机
+mayor                   市长
+fossil                  化石，食古不化的人
+competition             比赛
+pianist                 钢琴家
+geology                 地质学
+harvest                 收获
+```
 
 # 必背词汇
 ```
+
+
 outskirts               郊区，郊外；市郊
 geography               地理；地理学
 mathematics/maths       数学
