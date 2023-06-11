@@ -35,7 +35,7 @@ one-day pass                (公共交通)一天的通票
 opening hours               开放时间
 package tour                跟团旅游
 round-trip                  往返
-sheeling bag                睡袋
+sleeping bag                睡袋
 travel agency               旅行社
 tourist attraction          游览胜地
 ```
@@ -230,6 +230,16 @@ close                       adj. 封闭的；包围的
 quarter                     n. 地区；区域
 captivity                   n. 囚禁；监禁
 right whale                 露脊鲸，特征为头部硕大、嘴边长有鲸须而无背鳍
+humpback whale              座头鲸：一种由圆被和长而多节的鳍状肢的须鲸。座头鲸复杂而与众不同的歌声可以使它们互相认识，且在求偶过程中起到重要作用
+film                        v. 拍成电影
+track                       v. 跟踪；追踪
+moderately                  adv. 一般地；有限地
+restrict                    v. 限制；约束
+stereoscopic                adj. 有立体感的；体视镜的
+stereoscopic visioin        立体视觉；体视
+freshwater                  adj. 淡水的；内河的
+upside down                 肚皮朝上；颠倒
+comparison                  n. 比较；对比
 ```
 扩展词汇
 
