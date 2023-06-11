@@ -190,6 +190,46 @@ carbon dioxide              二氧化碳
 # Section 2 #
 必背词汇
 ```
+cetacean                    n. 鲸类动物，鲸
+mammal                      n. 哺乳动物
+porpoise                    n. 海豚，小鲸
+comprise                    v. 包含，由……组成
+sense                       n. 官能；感觉
+terrestrial                 adj. 陆生的；在陆上生长或繁殖的；非水生的
+reduced                     adj. 减弱的；减轻的；消弱的
+absent                      adj. 缺乏的；不存在的
+toothed                     adj. 有牙齿的
+beleen                      n. 鲸须
+functional                  adj. 有功能的；起作用的
+speculate                   v. 推测；猜测
+blowhole                    n. (鲸等的)呼吸孔，喷水孔
+migrate                     v. 移动；移往
+neural                      adj. 神经系统的；神经中枢的
+pathway                     n. 路径；神经纤维链
+sacrifice                   v. 牺牲，献出
+taste bud                   味蕾
+degenerate                  v. 退化；衰退
+rudimentary                 adj. 未完全发育的；未成熟的
+captive                     adj. 被俘虏的；被束缚的；此处引申未人工饲养的
+doplhin                     n. 海豚
+remark on                   评论；评价
+responsiveness              n. 敏感度；敏感性
+rub                         v. 摩擦；擦
+free-ranging                adj. 自由放养的
+calf                        n. 幼崽
+subgroup                    n. 亚群；副群
+contact                     n. 接触；触碰
+maintain                    v. 维持；维护
+order                       n. 秩序
+stroke                      v. 抚摸
+courtship                   n. 求爱；求偶
+ritual                      n. 仪式；典礼；礼节
+sensitive                   adj. 敏感的；灵敏的
+object to                   反感；不喜欢
+close                       adj. 封闭的；包围的
+quarter                     n. 地区；区域
+captivity                   n. 囚禁；监禁
+right whale                 露脊鲸，特征为头部硕大、嘴边长有鲸须而无背鳍
 ```
 扩展词汇
 
