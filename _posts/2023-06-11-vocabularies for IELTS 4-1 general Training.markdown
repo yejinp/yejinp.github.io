@@ -131,10 +131,48 @@ draft                       n. 草稿
 # part 4 #
 必背词汇
 ```
+urban                       adj. 城市的
+landscape                   n. 地形
+vegetation                  n. 植被
+significant impact          重大影响
+as a whole                  总体上
+humid                       adj. 潮湿的
+inland city                 内陆城市
+on the local scale          在局部范围内
+shady                       adj. 多荫的
+internal                    adj. 内在的
+mechanism                   n. 机制
+temperature                 n. 温度
+regulate                    v. 控制
+evaporate                   v. 蒸发
+humidify                    v. 使潮湿
+property                    n. 特性
+exploit                     v. 开发，利用
+filter                      v. 过滤
+considerably                adv. 向当地
+gust                        n. 阵风
+built-up areas              建筑物密集的区域
+intensify                   v. 加强
+a belt of trees             林带
+vehicle                     n. 车辆
+surrounding                 n. 周围环境
+frequency                   n. 频率
+canyon                      n. 峡谷
+high-rise                   adj./n. 高楼（的）
+enclose                     v. 装入
 ```
 扩展词汇
-
 ```
+environmental problems      环境问题
+population explosion        人口爆炸
+water resources             水资源
+underground water           地下水
+in short supply             短缺
+solar energy                太阳能
+deforestation               森林采伐
+acid rain                   酸雨
+air pollution               空气污染
+carbon dioxide              二氧化碳
 ```
 
 ## Reading
