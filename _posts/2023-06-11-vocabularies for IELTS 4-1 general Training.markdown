@@ -10,6 +10,7 @@ category: IELTS
 
 # part 1 #
 必背词汇
+```
 cancel                      v. 取消
 coach                       n. 长途汽车
 confirm                     v. 确认
@@ -23,7 +24,6 @@ in advance                  提前
 notice board                公告栏
 places of historical interest   历史古迹
 sixteen-seater minibus          16座小巴
-```
 ```
 扩展词汇
 
