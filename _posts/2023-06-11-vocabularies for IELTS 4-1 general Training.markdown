@@ -182,6 +182,100 @@ carbon dioxide              二氧化碳
 
 必背词汇
 ```
+confront                    v.（与with连用）使面对；使面临
+loss                        n. 损失；丧失；毁灭
+tropical                    adj. 热带的
+graphic                     adj. 图解的；图形的，生动的
+illustration                n. 例子；图表；插图
+readily                     adv. 无困难地；容易地
+relate                      v. (与to连用)认同；欣赏；领略
+estimate                    n. 估计；推测
+equivalent                  adj.(常与to连用)相同的；同等的
+duration                    n. 持续时间；期间
+vivid                       adj. 鲜明的；生动的
+coverage                    n. 新闻报道（范围）；报道
+endanger                    v. 危及；危害
+independent of              不依赖；独立于
+tuition                     n. 指导；教导
+mistaken                    adj. 错误的；误解的
+harbour                     v. 持有或抱有（某种特殊的思想或感情）
+                            n. 海港；藏身之所；避难所
+misconception               n. 误解；错误想法
+pure                        adj. 理论的；免除经验要素的
+curriculum                  n. 课程
+isolated                    adj. 隔离的；孤立的
+multifaceted                adj. 多方面的
+conceptual                  adj. 概念的；理念上的
+organized                   adj. 有条理的；有组织的
+incorporated                adj. 合成一体的；一体化的
+framework                   n. 框架；基本结构
+component                   adj. 合成的；作为一个组成部分的
+erroneous                   adj. 错误的；由错误得出的
+robust                      adj. 强壮的；健壮的
+accessible                  adj. (与to搭配)易受影响的
+modification                n. 更正；修改；修正
+develop                     v. 逐渐形成；逐渐拥有；获得
+absorb                      v. 吸收；吸纳
+re-express                  v. 重申
+refine                      v. 使完善；使高雅；提炼
+peer                        n. 同辈；同等的人；同学
+extensive                   adj. 广泛的；大量的
+destruction                 n. 破坏；毁灭；消灭
+available                   adj. 可用的；可获得的
+strategy                    n. 策略；对策
+displace                    v. 替换；取代
+surgey                      v. 调查；勘察
+questionnaire               n. 调查表；问题单
+open-form                   adj. 开放式的
+description                 n. 描述
+self-evident                adj. 不言而喻的；不言自明的
+damp                        adj. 潮湿的
+geographical                adj. 地理的；地理学的
+location                    n. 地点；地方
+equator                     n. 赤道
+dominant                    adj. 主要的；占优势的
+raise                       v. 提出
+habitat                     n. 栖息地
+indigenous                  adj. 本土的；当地的
+observation                 n. 言论；评论；观点
+consistent                  adj. 与……一致的；和谐的
+conservation                n. 保护；保存
+sympathetic                 adj. 同情的；怜悯的
+intrinsic                   adj. 本质的；内在的
+non-human                   adj. 非人类的；不属于人类的
+encouragingly               adv. 令人鼓舞地
+identify                    v. 确定；认为
+personalize                 v. 使个人化
+refer to                    v. 谈到；提到；打听；查阅
+specifically                adv. 明确地；清晰地
+logging                     n. 伐木业
+acid rain                   酸雨
+proportion                  n. 比例
+embrace                     v. 包含；包括
+atmospheric                 adj. 大气的
+oxygen                      n. 氧气
+incompatible                adj. 不和谐的；无法共存的
+survive                     v. 生存；活着
+contribute to               导致；引起
+considering                 conj. 鉴于；考虑到；顾及
+predominate                 v. 占优势；占绝大多数
+ecosystem                   n. 生态系统；生态环境
+climatic                    adj. 气候上的；与气候有关的
+volunteer                   v. 自动说出
+appreciate                  v. 鉴别；察觉；领会
+appreciation                n. 鉴别；估价；评价
+complexity                  n. 复杂性；复杂度
+indication                  n. 表示；迹象
+range                       n. 范围；广泛
+encouragement               n. 鼓励；起鼓励作用
+acquire                     v. 获得；得到
+value                       v. 尊重；重视
+evaluate                    v. 对……评价；对……鉴定
+conflicting                 adj. 不一致的；矛盾的；冲突的
+arena                       n. 活动场所；舞台
+essential                   adj. 必不可少的；绝对必要的
+desision-maker              n. 决策人
+plight                      n. 困境；苦难；苦境
 ```
 扩展词汇
 
