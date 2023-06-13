@@ -334,6 +334,54 @@ stereoscopic visioin        立体视觉；体视
 freshwater                  adj. 淡水的；内河的
 upside down                 肚皮朝上；颠倒
 comparison                  n. 比较；对比
+bottlenose dolphin          宽吻海豚
+keen                        adj. 敏感的；敏锐的
+airborne                    adj. 飞行中的；在飞行的
+flying fish                 飞鱼
+fairly                      adv. 相当
+interface                   n. 分界面；界面
+preliminary                 adj. 开头的；初步的
+experimental                adj. 实验性的；实验的
+accuracy                    n. 精确度；精确性
+leap                        v. 跳跃；跳起
+anecdotal                   adj. 轶事的；趣闻的
+to the contrary             相反地
+variation                   n. 变异；变化；变更
+with reference to           关于；就……而论
+habitat                     n. 栖息地
+inhabit                     v. 居住；栖息
+turbid                      adj. 浑浊的；脏的
+plain                       n. 平原
+boutu                       亚马孙海豚
+beiji                       白鳍豚
+Indian susu                 印度河中的一种小海豚
+slit                        n. 裂缝；狭缝
+intensity                   n. 强度；强烈
+deteriorate                 v (使)恶化
+compensated                 v. 抵消；弥补
+well-developed              adj. 发达的
+acoustic                    adj. 声学的；有关声音的
+vocal                       adj. 声音的；歌唱的
+forage                      n. 觅食
+echolocation                n. 回声定位法
+primarily                   adv. 主要地；根本上
+frequency                   n. 频率
+repertoire                  n. 全部本领；全部功能
+notable                     adj. 显著的；值得注意的
+chorus                      n. 合唱
+bowhead whale               北极露脊鲸，弓头鲸；生活在北极洋的一种有须的鲸，具有大的头部和拱形的上颚
+haunting                    adj. 萦绕心头的；难以忘怀的
+utterance                   n. 说话方式；发声；吐露；表达
+employ                      v. 采用；使用
+spectrum                    n. 光谱；频谱
+sperm whale                 抹香鲸；生活在热带及温带海洋中，巨大的脑袋中有一个含鲸油及鲸蜡的空腔，而长长的肠子则经常含有龙香，也做cachalot
+monotonous                  adj. 单调的；无变化的
+high-energy                 adj. 精力充沛的；活跃的
+click                       n. 喀哒声
+complicated                 adj. 复杂的；难懂的
+communicative               adj. 易于沟通的；爱说话的
+speculation                 n. 沉思；遐想；猜测；推断
+solid                       adj. 充分的；正确的；有根据的
 ```
 扩展词汇
 
