@@ -391,6 +391,92 @@ solid                       adj. 充分的；正确的；有根据的
 # Section 3 #
 必背词汇
 ```
+appreciate                  v. 评价，欣赏；充分意识到
+outline                     v. 提纲；略图
+perspective                 n. 设想；透视图
+describe                    v. 描绘，描写；形容，把……说成
+arrangement                 n. 排列，整理；安排，准备
+surface                     n. 平面；表面
+literal                     adj. 文字（上）的；字面的
+representation              n. 陈述；表现
+initiative                  n. 主动的行动；倡议；首创精神；进取心
+spin                        v. 旋转
+motion                      n.(物体)运动；动作
+trace                       v. 勾画……的轮廓；描绘
+curve                       n. 曲线，弯曲
+                            v. 弄弯，弯曲
+circle                      n. 园；圈子；周期
+                            v. 环绕，围绕……画圈
+take aback                  惊吓，迷惑
+illustration                n. 说明；例证，插图；举例说明
+note                        v. 指出；特别提到；表明
+trend-setting               adj. 引导潮流的
+cartoonist                  n. 漫画家
+virtually                   adv. 事实上，实质上
+figure                      n. 外形；人物；形象
+subject                     n.对象
+rendition                   n. 处理；表演；译文
+appear                      v. 显现、出现
+repeatedly                  adv. 再三，一再；多次
+spoke                       n. (车轮上)幅条
+curved                      adj. 弯曲的
+metaphorical                adj. 隐喻的；比喻的
+suggest                     v. 建议，提议；表明，暗示
+majority rule               多数决定原则
+device                      n. 设计，手段；装置；图案
+somehow                     adv. 以某种方式；从某种角度
+indicate                    v. 表明；暗示
+indicator                   n. 指示物；指示者
+broken                      adj. 破的，断断续续的
+wavy                        adj. 波浪形的；起伏的
+apt                         adj. 恰当的；聪明的
+idiosyncratic               adj. 特质的；异质的，特殊的
+sighted                     adj. 眼睛看得见的；有视力的
+interpret                   v. 说明；理解；诠释
+search out                  寻找到
+raised                      adj. 凸起的；升高的；提高的
+depict                      v. 描绘，描写，描述
+bent                        adj. 弯曲的
+dashed                      n. 虚线
+extend                      v. 延伸，延长；伸出，伸展
+perimeter                   n.周(边)，周长
+assign                      v. 派给，分配；选定，指定（时间，地点）
+wobble                      n. 摆动，动摇，不稳定
+steadily                    adv. 稳定地
+jerk                        vi. 颠簸；震摇
+brake                       n. 闸，刹车，制动器
+                            v. 刹(车)
+control group               实验时的参照组
+distinctive                 adj. 特别的；独具一格的
+sign                        n. 符号；象征；征兆
+assume                      v. 设想，假定
+signify                     v. 表示，意味着
+favored                     adj. 有利的，受惠的，幸运的
+instance                    n. 例子，事例，实例
+consensus                   n. (意见等的)一致，共识
+unfamiliar                  adj. 不熟悉的
+evidently                   adv. 明显地，显而易见
+figure out                  搞清楚；领会到
+come up with                提出；想出
+frequently                  adv. 时常，频繁地
+visual                      adj. 视觉的；可见的
+metaphor                    n. 隐喻；象征
+as well                     倒不如，还是……的好
+symbol                      n. 象征，符号，标志
+explore                     v. 勘探，探险；调查
+symbolism                   n. 象征主义，符号论
+term                        n. 术语；词汇
+telate to                   和……有关
+square                      n. 广场；正方形
+go with                     伴随，与……相配
+deem                        v. 认为，相信
+ascribe to                  归于
+reveal                      v. 显示，显露；泄露，揭发
+respectively                adv. 分别地
+resemble                    v. 与……相似
+score                       v. 得胜；得分；获得好评
+pair                        v. 使成双；使配对
+abstract                    adj. 抽象的，不具体的
 ```
 扩展词汇
 
