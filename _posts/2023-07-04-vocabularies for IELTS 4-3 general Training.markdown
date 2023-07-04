@@ -115,10 +115,66 @@ rope walking                走钢丝
 # part 3 #
 必背词汇
 ```
+refer to                    查阅；提到
+enquire about               询问
+refresher course            复习课程，进修课程
+build up                    树立，增进
+undergraduate               n.(尚未取得学位的)大学生
+                            adj. 大学生的 
+postgraduate                n. 研究生
+                            adj. 毕业后的
+art                         n. 艺术，文科
+science                     n. 科学，自然科学，理科
+intensive                   adj. 精深的，透彻的
+aim at                      瞄准；针对
+wide range of approaches    多种方法
+strategy                    n. 策略，战略
+tip                         n. 技巧；小费
+get the most from           最大限度地利用
+presentation                n. 介绍，陈述
+motivational                adj. 动机的，有关动机的
+take up                     拿起；开始从事；占据
+manage to                   达成；设法
+procrastination             n. 延迟，拖延
+leisure                     n. 空闲，闲暇
+enrollment fee              报名费
+morning tea                 早茶
+ahead of                    在……前面
+convenor                    n. 会议召集人
+upgrade                     n. 升级
+                            vt. 使升级，提升
+cope with                   处理，应对
+stress management           压力管理
+be better off               境况好
+in line with                符合
+registration form           登记表
 ```
 扩展词汇
 
 ```
+mandatory                   adj. 命令的，强制的，托管的
+required                    adj. 必需的
+obligatory                  adj. 义不容辞的，必须的
+optional                    adj. 可选择的，随意的
+selective                   adj. 选择的，选择性的
+elective                    adj. 随意选择的
+                            n. 选修课程
+course                      n. 课程
+major                       n. <美>主修课
+                            adj. 主修的
+                            vi. 主修
+specialty                   n. 专业
+MS                          理学硕士
+MA                          文学硕士
+LLM                         法学硕士
+Mandarin                    n. 官话，普通话
+Cantonese                   n. 广东人，广东话
+Spanish                     n. 西班牙语
+Portuguese                  n. 葡萄牙语
+Russian                     n. 俄语
+Arabic                      n. 阿拉伯语
+Japanese                    n. 日语
+Korean                      n. 韩语
 ```
 # part 4 #
 必背词汇
