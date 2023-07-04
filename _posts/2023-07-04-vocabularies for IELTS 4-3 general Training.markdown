@@ -65,10 +65,51 @@ entrance hall               n. 门廊（进门的门厅）
 # part 2 #
 必背词汇
 ```
+fill sb. in on sth.         在某方面给某人提供信息
+in store                    贮藏着，保存着，准备着
+timing                      n. 适时，时间选择
+a couple of                 两个，几个
+allow                       vt. 允许；承认
+recover from                恢复，恢复知觉
+sensational                 adj. 非常好的；耸人听闻的
+art exhibition              艺术展览
+in particular               特别，尤其
+circus                      n. 马戏团
+plenty of                   许多
+distinct                    adj. 明显的；截然不同的；独特的
+marquee                     n. 大帐篷，华盖
+canvas                      n. 帆布
+                            v. 彻底讨论探究
+portable                    adj. 便携式的
+green space                 有草坪的空地
+car park                    停车场
+stadium                     n. 露天大型运动场
+in spite of                 不管
+clown                       n. 小丑；粗鲁愚蠢的人
+acrobatic                   adj. 杂技的，特技的
+purist                      n. 纯化论者，纯粹主义者
+showcase                    n. （商店或博物馆的玻璃）陈列柜
+aerial display              航空展
+feature                     n. 特征
+well worth doing            很值得做
+puppet                      n. 木偶
+routine                     n. 例行公事，常规
+formation dancing           编队舞蹈
+be taken with(by)           被征服
+
 ```
 扩展词汇
 
 ```
+convertioin                 n. 大会；协定；习俗，惯例
+art and music festival      艺术音乐节
+trapeze act                 空中飞人
+grand finale                终场演奏
+sealed aquarium             密封的水箱
+magic show                  魔术表演
+hoola hoops                 呼啦圈
+animal training             驯兽表演
+rope walking                走钢丝
 ```
 
 # part 3 #
