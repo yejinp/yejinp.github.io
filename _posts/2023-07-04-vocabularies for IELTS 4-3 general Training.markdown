@@ -179,10 +179,63 @@ Korean                      n. 韩语
 # part 4 #
 必背词汇
 ```
+grateful                    adj. 感激的，感谢的
+Student Union               学生会
+feasible                    adj. 可行的，切实可行的
+ultimate beneficiary        最终受益者
+facility                    n. 设施，工具
+arrive at                   到达，达到
+option                      n. 选项，选择权
+submit                      v. 提交，递交
+questionnaire               n. 调查表，问卷
+approximately               adv. 近似地，大约
+collate                     v. 比较；校对
+draw up                     草拟
+key point                   关键点
+in broad terms              宽泛地说
+consensus                   n. 一致同意，共识
+crucial                     adj. 至关重要的
+outskirts                   n. 边界，（尤指）市郊
+hall of residence           学校公寓
+cite                        vt. 引用，引证，提名表扬
+lecture room                报告厅
+access                      n. 通路，访问
+                            vt. 存取，接近
+living quarter              住宅，住舱
+premise                     n. 前提
+table game                  桌上游戏（桥牌、台球等）
+gym                         n. (gymnasium)体育馆；体操
+travel agency               旅行社
+insurance centre            保险中心
+Student Counselling Centre  学生咨询中心
+refectory                   n. (修道院、学院等处的)食堂，餐厅
+largish                     adj. 相当大的
+elitist                     n. 优秀人才，杰出者
+                            adj. 优秀人才的，杰出者的
+surveillance                n. 监视，监督
+security personnel          安全（部门）人员
 ```
 扩展词汇
-
 ```
+charity                     n. 慈善，施舍，慈善团体
+newsagent                   n. 报纸或定期刊物之经销商
+supermarket                 n. 超级市场
+mall                        n. 购物商场，商业街；林阴路
+cheap tickets               折价车票
+catering services           饮食服务
+diner                       n. 用餐者；餐厅
+dinning hall                餐厅
+canteen                     n. 小卖部；食具箱；饭盒；（军用）水壶
+cafeteria                   n. 自助餐厅
+immigration                 n. 外来的移民；移居入境
+grants                      vt. 同意，准予；承认（某事为真）
+medical & legal problems    医疗和法律问题
+badminton                   n 羽毛球
+basketball                  n. 篮球，篮球运动
+squash                      n. 壁球
+volleyball                  n. 排球
+cricket                     n. 蟋蟀；板球
+rugby                       n. 英式橄榄球
 ```
 
 ## Reading
