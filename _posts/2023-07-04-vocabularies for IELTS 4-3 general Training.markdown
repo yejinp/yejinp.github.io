@@ -240,11 +240,114 @@ rugby                       n. 英式橄榄球
 
 ## Reading
 
-
 # Section 1 #
 
 必背词汇
 ```
+micro-enterprise            n. 微型企业；小企业
+credit                      n. 贷款
+street                      n. 贫困的环境；贫困的区域
+youth                       n. 青年；少年
+do without                  没有……也行；没有……而设法对付过去
+bun                         n. 小圆面包
+decent                      adj. 得体的；大方的；体面的
+second-hand                 adj. 二手的；旧的
+confident                   adj. 自信的；有信心的
+expand                      v. 扩大；扩展
+cash management             现金管理
+reinvestment                n. 再投资
+small-scale                 adj. 小规模的；小型的
+business training           商业训练
+relatively                  相对地；比较地
+direct                      v. 指引；引导
+circumstance                n. 环境；条件
+partner                     n. 合伙人；股东
+lesson                      n. 教训；经验
+typically                   adv. 典型地；具有代表性地
+end up                      结束；告终
+due to                      由于；因为
+combination                 n. 联合；合并；综合
+dearth                      n. 缺乏；不足
+adequately                  adj. 充分地；充足地
+fund                        v. 资助；为……提供资金
+breakdown                   n. 破裂；分离
+violence                    n. 暴力；暴虐
+attractive                  adj. 有吸引力的；有魅力的
+adventurous                 adj. 充满危险的；有危险的
+play                        n. 赌博；游戏；比赛
+exposed                     adj. 暴露的；无遮掩的
+exploitative                adj. 剥削的；榨取的
+urban                       adj. 城市的；市内的
+crime                       n. 犯罪；犯罪行为
+abuse                       n. 滥用；虐待
+unskilled                   adj. 简单劳动的；无需技能的
+labour-intensive            adj. 劳动力密集的
+shine                       v. 擦亮
+informal                    adj. 非正式的；不正规的
+trading                     n. 交易；贸易
+take pride in               以……为傲
+entrepreneurship            n. 企业家身份
+independence                n. 独立；自主
+paid                        adj. 受雇用的；领薪水的
+flexible                    adj. 灵活的；可变通的
+participate                 v. 参与；参加
+domestic                    adj. 家庭的
+work with                   与……合作
+innovative                  adj. 创新的；革新的
+courier                     n. 信使；信差
+Sudan                       n. 苏丹: 非洲东北部的一个国家,位于埃及南部
+participant                 n. 参加者；参与人
+supply                      v. 提供；供给
+deliver                     v. 递送
+parcel                      n. 包裹；小包
+gradually                   adv. 逐渐地；渐渐地
+take up                     开始从事；资助；赞助
+Bangalore                   班加罗尔: 印度中南部马德拉斯以西的一个城市
+collective                  n. 合作社；集体企业
+Dominican Republic          多米尼加共和国:西印度群岛上位于伊斯帕尼奥拉岛东部的一个国家
+purchase                    v. 购买；收购
+equipment                   n. 装备；器材
+facility                    n. 工具；设备
+initiative                  n. 主动行动；倡议
+Zambia                      赞比亚: 非洲中南部的一个国家
+joint                       adj. 联合的；合办的
+access                      n. 享用权；享用机会
+emerge                      vi. 出现；显出
+entrepreneur                n. 企业家
+ideally                     adv. 理想地；完美地
+relationship                n. 关系；关联
+build                       v. 营造；修建；构筑
+establish                   v. 建立；建造
+involvement                 n. 卷入；牵连；参与
+essential                   adj. 相关的；有关的
+abide by                    坚持；遵守
+enforce                     v. 执行；加强
+critical                    adj. 重要的；关键的
+loan                        n. 贷款
+tremendous                  adj. 巨大的；极大的
+involve                     v. 包括；包含
+guardian                    n. 监护人
+home visit                  家访
+sutuation                   n. 情况；状况
+fixed assets                固定资产
+kit                         n. 工具箱；成套的工具
+stall                       n. 货摊
+consideration               n. 考虑；体谅
+charge                      v. 收费
+interest                    n. 利息
+modest                      adj. 适度的；不太多的
+bank rate                   银行利率
+impoverished                adj. 贫困的；赤贫的
+seek                        v. 寻找；探求
+fulfill                     v. 履行；实现
+provision                   n. 提供；供应
+entreprenurial              adj. 企业家的
+ambition                    n. 雄心；野心
+effective                   adj. 有效的；实际的
+means                       n. 方法；手段
+extend                      v. 扩充；延伸
+in association with         与……联合
+productive                  adj. 多产的；富有成效的
 ```
 扩展词汇
 
