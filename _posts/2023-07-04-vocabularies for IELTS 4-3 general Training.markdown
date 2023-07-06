@@ -466,7 +466,7 @@ horizontally                adv. 水平地
 sheet                       n. 张，片，页
 Deccan plateau              德干草原
 slurp                       n. 啧啧吃的声音
-                            v. 
+                            v. 啜食
 trap                        v. 使陷于困境
 glow                        vi. 发白热光
 froth                       n. 泡，泡沫；琐物
@@ -617,6 +617,44 @@ benefit                     vi. 受益于
 additional                  adj. 附加的，另外的
 commentary                  n. 评论，评注；实况广播报道，现场口头评述
 observer                    n. 观察者，观察员；评论者
+structured                  adj. 有明显结构的
+session                     n. 会议；一次开会（或开庭）；一段时间
+systematically              adv. 系统地，有秩序地
+bilingual                   adj. （能说）两种语言的
+interpreter                 n. 译员，口译人员
+work-sheet                  n. 工作表
+questionnaire               n. 调查表
+restricted                  adj. 受限制的，有限的
+feature                     n. 特征，特色；五官之一；（报纸的）特写
+pronunciation               n. 发音，发音方法
+elicit                      v. 引出 探出
+elicitation                 n. 引出，诱出，抽出
+substitution                n. 替换
+stimulus                    n. 刺激物
+representative              n. 代表
+                            adj. 代表性的；代理的
+compile                     v. 编辑，汇编
+corpus                      n. 素材；语料
+unbiased                    adj. 没有偏见的
+statement                   n. 陈述，声明；财务报表，申报单
+frequency                   n. 频率；屡次，频繁
+accessible                  adj. 可得到的，易接近的；可进入的
+variable                    adj. 可变的，易变的
+                            n. 变量
+extract                     v. 取出，拔出；提取，榨
+                            n. 摘录，提炼物
+selective                   adj. 有选择性的
+collection                  n. 收集，搜集，采集，收藏品
+hypothesis                  n. 假设
+principle                   n. 原则，原理；道义，信念
+by contrast with            和……形成对照；和……比起来
+inevitably                  adv. 不可避免地
+coverage                    n. 涵盖面；覆盖面
+derive                      vi. 起源
+introspection               n. 内省，反省
+experimentation             n. 实验，试验
+
+
 ```
 扩展词汇
 
