@@ -91,20 +91,96 @@ understaffed                adj. 人手不足的
 ```
 扩展词汇
 ```
-
+self-access language center     语言自学中心
+computer center             计算机中心
+common room                 师生公用的休息室
+cafeteria                   n. 自助餐厅
+administration building     行政楼
+campus                      n. 校园
+coordinator                 n. 协调人
+auditorium                  n. 大礼堂
+sports center               体育中心
 ```
 
 # part 3 #
 必背词汇
 ```
+assignment                  n. 作业
+task                        n. 任务，作业
+data                        n. 数据
+assess                      v. 评估
+social science              社会科学（研究社会中的人的科学，如政治、社会学等）
+carry out                   实施
+subject                     n. 研究对象
+questionnaire               n. 调查问卷
+interview                   n. 采访
+time-consuming              adj. 费时的
+reckon                      v.<英><口>猜想，估计
+wording                     n. 措辞
+response                    n. 回答
+reliable                    adj. 可靠的
+drawback                    n. 缺点
+response rate               回收率
+reveal                      v. 揭示
+sample                      n. 样本，例子
+survey                      n. 调查
+tutorial                    n. 辅导课
+reading list                阅读书目
 ```
 扩展词汇
-
 ```
+quantitative                adj. 定量的
+qualitative                 adj. 定性的
+rate of return              回收率
+literature review           文献回顾
+seminar                     n. 研讨会
+presentation                n. 陈述
+research methods            研究方法
+deadline                    n. 最后期限
+draft                       n. 草稿
 ```
 # part 4 #
 必背词汇
 ```
+contemporary                adj. 当代的
+preoccupation               n. 关注之事
+unique                      adj. 独特的
+massive                     adj. 巨大的
+corporate                   adj. 企业的
+illegal                     adj. 非法的
+in accordance with          与……一致
+quote……unquote              用于引用语前后，表示如实引用
+commit a crime              犯罪
+theft                       n. 偷窃
+embezzlement                n. 盗用公款
+fraud                       n. 欺骗
+exclude                     v. 把……排除在外
+excusable                   adj. 可原谅的
+coventional                 adj. 常规的
+ignore                      v. 忽视
+mass media                  大众传媒
+under-reported              adj. 报道不足的
+in comparison with          跟……比较
+academic circles            学术圈
+specialist knowledge        专业知识
+unaware                     adj. 不知道的，没察觉的
+misfortune                  n. 不幸
+dilute                      v. 冲淡
+concentration               n. (饮料)浓度
+carton                      n. 硬纸盒或塑料盒
+deception                   n. 欺骗
+be deprived of              被掠夺
+undermine                   v. 破坏
+illustrate                  v. 举例说明
+reference to                关于
+oil tanker                  油轮
+crew                        n. (船上或飞机上)全体工作人员
+inquiry                     n. 调查
+lay blame on                归咎于
+deliberately                adv. 故意地
+indifference                n. 漠然
+innocent                    adj. 无辜的
+loophole                    n. 漏洞
 ```
 扩展词汇
 
