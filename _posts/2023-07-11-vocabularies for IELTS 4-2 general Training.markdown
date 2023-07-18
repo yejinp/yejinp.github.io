@@ -302,6 +302,89 @@ mere                        adj. 仅仅的；起码的
 # Section 2 #
 必背词汇
 ```
+cover                       v. 涵盖；包括
+acupuncture                 n. 针灸
+ancient                     adj. 古老的；古代的
+healing                     adj. 有疗效的；可愈合的
+regulate                    v. 调节；控制
+pathway                     n. 神经纤维；途径
+acceptance                  n. 接受；接纳
+establishment               n. 社团；机构
+conservative                adj. 保守的；谨慎的
+alternative                 adj. 另类的；二者选其一的
+therapy                     n. 疗法；治疗
+loath                       adj. 厌恶的；不愿意的；勉强的
+pretender                   n. 冒充者；伪装者
+come into it                成功；达到目的
+hand in glove               秘密地；勾结地
+industrialised              adj. 工业化的
+orthodox                    adj. 正统的；传统的
+prescribe                   v. 开处方；开药
+herbal                      adj. 草药的；草本植物的
+account for                 占……比例
+turnover                    n. 营业额；成交量
+pharmaceuticals             n. 药剂；药物；药品
+therapist                   n. (特定治疗法的)治疗专家
+scientifically              adv. 科学地；按科学方法地
+disenchantment              n. 觉醒；清醒
+popularity                  n. 流行；普及
+contact                     v. 与……取得联系；接触
+chiropractor                n. 按摩师；脊椎指压治疗师
+naturopath                  n. 自然疗法医师；理疗师
+osteopath                   n. 整骨医生
+acupuncturist               n. 针灸医生
+harbalist                   n. 草药医生
+prior to                    在……之前
+consulation                 n. 咨询；会诊
+educated                    adj. 受过教育的；有教养的
+accepting                   adj. 易于接受的；赞同的
+skeptical                   adj. 怀疑的；好猜疑的
+empirically                 adv. 以经验未依据地；经验主义地
+standing                    n. 地位；身份；级别
+erode                       v. 毁坏；消弱；损害
+resist                      v. 抵抗；反抗
+criticize                   v. 批评；批评
+group practice              联合医疗
+herbalism                   n. 草药学；草本植物学
+incentive                   n. 动机
+financial                   adj. 财政的；金融的
+bottom line                 要点；关键之处
+practitioner                n. 从业者；开业者
+potential                   adj. 潜在的；可能的
+clientele                   n. 客户；委托人
+attend                      v. 参加；接受
+practice                    n. 常规工作；业务
+chronic                     adj. 慢性的；长期的
+relief                      n. 减轻；缓解
+comment                     vi. 评论；注释
+holistic                    adj. 整体主义的；全面的
+approach                    n. 方式；方法
+concerned                   adj. 关心的；关注的
+impersonal                  adj. 冷淡的；无感情的
+feature                     v. 以……为特色
+exodus                      n. 大批离去
+couple                      v. 把……联系起来；并提
+relevant                    adj. 有关的；相应的
+inadequacy                  n. 不足；不充分
+mainstream                  adj. 主流的
+concur                      vi. 同意；赞同
+bedside manner              医生对病人的态度
+preventative                adj. 预防性的
+musculo-skeletal            adj. 肌(与)骨骼的
+complaint                   n. 疾病
+digestive                   adj. 消化的；与消化有关的
+emotional                   adj. 情感的；情绪的
+respiratory                 adj. 呼吸的；与呼吸有关的
+candida                     n. 假丝酵母
+represent                   v. 相当于；等于
+respectively                adv. 分别地；各自地
+maintenance                 n. 维护；保持
+complementary               adj. 互补的；补充的
+term                        n. 词语；术语
+adjunct                     n. 附属物；辅助物
+seek                        v. 追求；寻求
+conventional                adj. 常规的；传统的
+
 ```
 扩展词汇
 
