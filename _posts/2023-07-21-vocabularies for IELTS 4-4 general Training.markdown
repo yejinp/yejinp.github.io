@@ -259,6 +259,37 @@ fundamental                 adj. 基础的，基本的
 # Section 2 #
 必背词汇
 ```
+archaeology                 n. 考古学
+treasure                    n. 财富，财产
+analyst                     n. 分析家，分析者
+excavation                  n. 挖掘，发掘
+painstaking                 adj. 辛苦的，艰苦的
+conservation                n. 保存，保持，守恒
+heritage                    n. 遗产，继承权，传统
+loot                        v. 掠夺，抢劫，劫掠
+detective                   adj. 侦探的
+vehicle                     n. 车辆，载体
+portrayal                   n. 描画，描写
+capture                     v. 俘获，抓住，夺取
+discipline                  n. 纪律，学科
+anthropology                n. 人类学
+humanity                    n. 人性，人类
+characteristic              n. 特性，特征
+anthropologist              n. 人类学家
+restricted                  adj. 受限制的，有限的
+distinguish                 v. 区别，辨别
+biological                  adj. 生物学的
+branch                      n. 分歧，分店
+ethnography                 n. 人种志，民族志
+contemporary                adj. 当代的，同时代的
+artefact                    n. 人工品
+interpret                   v. 解释，说明，口译
+dwelling                    n. 住处
+distinction                 n. 区别，差别
+pre-history                 n. 史前
+convenient                  adj. 便利的，方便的
+formulate                   v. 用公式表示，阐明
+coherent                    adj. 一致的，连贯的
 ```
 扩展词汇
 
