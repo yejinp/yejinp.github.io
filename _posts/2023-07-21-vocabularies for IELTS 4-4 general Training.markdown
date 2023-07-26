@@ -149,10 +149,56 @@ magnet                      n. 磁体，磁铁
 # part 4 #
 必背词汇
 ```
+reputation                  n. 名誉，名声
+hunt one's pray             打猎，猎取食物（猎物）
+dangerous creature          危险的生物
+essentially                 adv. 本质上，本来
+breed                       v. (使)繁殖
+                            n. 品种，种
+acute                       adj. 敏锐的；[医]急性的，剧烈的
+sense of smell              嗅觉
+skeleton                    n. (动物之)骨架，骨骼
+cartilage                   n. [解剖]软骨
+meshing                     n. 网孔
+pliable                     adj. 易曲折的，柔软的
+be crowded with             充满，满是
+scale                       n. 刻度，鱼鳞
+Tahiti                      n. 塔西提岛(位于南太平洋，法属玻利西亚的经济活动中心)
+barb                        n. 鱼钩
+maximum temperature         最高温度
+big seas                    汹涌的大海
+sandpaper                   n. 砂纸
+rolling waves               浪涛汹涌
+underneath                  adv. 在下面
+                            prep. 在……的下面
+strong currents             巨浪
+fin                         n. 鳍，鱼翅
+less effective              不太有效
+scavenge                    v. 打扫，以(腐肉)为食
 ```
 扩展词汇
 
 ```
+vole                        n. 野鼠类
+bison                       n. 美洲或欧洲的野牛
+buffalo                     n. 水牛，美洲野牛
+wolf                        n. 狼；残忍贪婪之人；极度的穷困
+                            vt. 狼吞虎咽，大吃
+                            vi. 猎狼
+beaver                      n. 海狸(毛衣)
+elephant                    n. 象；一种纸张的尺寸
+hare                        n. 野兔
+otter                       n. 水濑，水濑皮
+marmot                      n. 旱濑，土拔鼠
+badger                      n. 獾
+ferret                      n. 白鼬，雪貂
+squirrel                    n. 松鼠
+                            v. 贮藏
+bear                        n. 熊
+fox                         n. 狐狸
+lark                        n. 云雀
+raven                       n. 大乌鸦，布谷鸟
+swan                        n. 天鹅；杰出的诗人、歌手
 ```
 
 ## Reading
