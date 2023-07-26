@@ -208,6 +208,49 @@ swan                        n. 天鹅；杰出的诗人、歌手
 
 必背词汇
 ```
+athletic                    adj. 运动的
+federation                  n. 同盟，联盟
+steady                      adj. 稳固的，稳定的
+massive                     adj. 厚重的，结实的
+release                     n./v. 释放，让渡
+sprint                      n. 短跑
+endurance                   n. 持久(力)，耐久(性)
+dramatic                    adj. 戏剧性的，生动的
+marathon                    n. 马拉松赛跑
+genetics                    n. 遗传学
+athlete                     n. 运动员
+adage                       n. 格言，谚语
+gene pool                   基因库
+appreciably                 adv. 略微，有一点
+tempt                       v. 诱惑，引诱，吸引
+individual                  n. 个人，个体
+                            adj. 单独的，个人的
+emeritus                    adj. 名誉退休的，退休的
+duplicate                   v. 复写，复制，使加倍
+plyometrics                 n. 增强式训练
+interval                    n. 间隔，距离
+nutrition                   n. 营养，营养学
+adequately                  adv. 充分地
+coach                       n. 教练
+deficiency                  n. 缺乏，不足
+mineral                     n. 矿物质
+assert                      v. 断言，声明
+methodology                 n. 方法论，方法学
+biomechanics                n. 生物力学
+joint                       n. 关节
+unorthodox                  adj. 非正统的，异端的
+simulation                  n. 仿真，假装，模拟
+innovation                  n. 改革，创新
+cushion                     n. 垫子，软垫
+sawdust                     n. 木屑
+pit                         n. 深坑，深渊
+foam                        n. 泡沫
+psychologist                n. 心理学者
+mundane                     adj. 世界的，世俗的，平凡的
+variable                    n. 可变物，变量
+foreseeable                 adj. 可预知的，能预测的
+fundamental                 adj. 基础的，基本的
+
 ```
 扩展词汇
 
