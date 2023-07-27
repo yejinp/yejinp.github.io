@@ -299,6 +299,45 @@ coherent                    adj. 一致的，连贯的
 # Section 3 #
 必背词汇
 ```
+allocate                    v. 分配，分派
+apportion                   v. 分配
+distribute                  v. 分发，分配
+proportion                  n. 比例，均衡
+treatment                   n. 待遇，对待，处理
+priority                    n. 优先，优先权
+consideration               n. 体谅，考虑
+onwards                     adv. 向前地，在先地
+outlook                     n. 景色，展望，前景
+finitude                    n. 界线，限制
+clientele                   n. 委托诉讼人，客户
+resource                    n. 资源，财力
+provision                   n. 供应，规定
+fossil                      adj. 化石的，陈腐的，守旧的
+capacity                    n. 容量，才能
+severe                      adj. 严厉的，严格的
+obvious                     adj. 明显的，显而易见的
+incredible                  adj. 难以置信的
+assume                      v. 假定，设想
+invisible                   adj. 看不见的，无形的
+realization                 n. 实现
+awareness                   n. 知道，晓得
+contrary                    adj. 相反的，逆的
+institution                 n. 公共机构，协会，制度
+autonomous                  adj. 自治的
+personal                    adj. 私人的，个人的
+liberty                     n. 自由，特权
+deprive                     v. 剥夺，使丧失
+confusion                   n. 混乱，混淆
+autonomy                    n. 自治
+resistance                  n. 反抗，抵抗
+obligation                  n. 义务，职责，债务
+public good                 公共产品
+declaration                 n. 宣布，宣言，声明
+demographic                 adj. 人口统计的
+consumer                    n. 消费者
+predict                     v. 预测
+consequence                 n. 结果
+match                       v. 相配，相称
 ```
 扩展词汇
 
