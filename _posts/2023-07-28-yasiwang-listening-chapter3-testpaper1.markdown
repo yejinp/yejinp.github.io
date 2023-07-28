@@ -6,7 +6,7 @@ category: IELTS
 ---
 
 ```
-test paper1
+test paper 1
 ability          能力
 abstract          摘要
 accountant          会计
@@ -39,7 +39,7 @@ analysis          分析
 analyst          分析家
 anger          愤怒
 animal          动物
-ankle          怀疑
+ankle          踝关节，踝
 answer          回答
 Antarctica          南极洲
 ape          猿
