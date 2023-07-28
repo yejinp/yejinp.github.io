@@ -6,8 +6,7 @@ category: IELTS
 ---
 
 ```
-test paper 1
-ability          能力
+ability    [əˈbɪləti]      能力
 abstract          摘要
 accountant          会计
 accuracy          准确度
