@@ -202,6 +202,94 @@ rapidly                     adv. 迅速地
 # Section 3 #
 必背词汇
 ```
+acceptable                  adj. 受欢迎的，可接受的
+perform                     v. 执行，表演
+task                        n. 任务，工作
+pattern-recognition         n. 模式识别，图形识别
+in the wilderness           失宠的，不被承认的，不当政的
+make a comeback             东山再起，重新流行
+big                         adj. 极受欢迎的，极成功的
+vanish                      v. 消失，突然不见
+consciousness               n 意识，观念
+ignite                      v. 引发，点燃
+irony                       n. 反语
+inverted comma              <主英>引号，单引号
+hype                        n. 大肆宣传，天花乱坠的宣传
+justification               n. 正当理由，辩解
+originally                  adv. 原来
+admittedly                  adv. 诚然，无可否认地
+rehabitation                n. 恢复原状
+ambitous                    adj. 雄心勃勃的，很有抱负的
+under-achieving             adj. 未能实现的
+field                       n. 领域，田地
+launch                      v. 发动，开始
+coin                        v. 创造，杜撰(新字等)
+                            n. 硬币
+figure                      n. 人物，数字
+attractive                  adj. 吸引人的
+informative                 adj. 提供或揭露信息的
+encompass                   v. 包含，涵盖
+disparate                   adj. 根本不同的，不能比拟的
+cyhernetics                 n. 控制论
+capture                     v. 再现，捕捉，占领
+mimic                       v. 模仿
+                            adj. 模拟的
+peak                        v. 达到全盛
+                            n. 顶峰
+rear                        v. 培养，养育，培养
+imply                       v. 暗示
+breakthrough                n. 突破
+just around the corner      马上，不久
+substantially               adv. 实质性地，大幅度地
+solve                       v. 解决
+prototype                   n. 原型，模范，样本
+diagnosis                   n. 诊断
+a false dawn                空欢喜
+materialise                 v. 变为现实
+backlash                    n. 强烈反对
+undue                       adj. 过度的，过分的
+optimism                    n. 乐观主义，乐观态度
+rectrenchment               n. 紧缩，费用消减
+opt                         v. 选择
+align                       v. 与……同列，与……结盟
+ironically                  adv. 具有讽刺意义地
+victim                      n. 受害者
+apparently                  adv. 明显地
+mundance                    adj. 世俗的，世界的
+unattended                  adj. 无人看管的，无人到场的
+characterise                v. 描绘，描述……的特征
+goal-post                   n. 目标；；球门柱
+blue-sky                    adj. 纯理论的，不切实际的；蓝天的
+commercialisation           n. 商业化
+joke                        v. 开玩笑
+implement                   v. 实施
+within the umbrella of      在……范围内
+tide                        n. 趋势，潮水
+back                        v. 支持
+                            n. 背
+reckon                      v. 认为
+promising                   adj. 有前途的
+a cluster of                一系列
+processor                   n. 处理器
+spot                        v. 发现
+camouflage                  v. 伪装
+battlefield                 n. 战场
+extract                     v. 提取，抽取
+live up to                  与……相符
+boost                       v. 促进，加强
+prospect                    n. 前景
+differentiate               v. 区别
+exacerbate                  v. 恶化
+filter                      v. 过滤
+categorise                  v. 将……分类
+classic                     adj. 典型的，经典的
+emerge                      v. 开始出现
+lipread                     v. 观察人的嘴唇动作来理解话意
+encapsulate                 v. 涵盖，概况
+transcribe                  v. 记录，用音标记下……的语音
+elusive                     adj. 难以琢磨的，难记的
+impressive                  adj. 令人惊叹的
+
 ```
 扩展词汇
 
