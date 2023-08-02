@@ -140,10 +140,52 @@ internship          n. 实习补助金
 # part 4 #
 必背词汇
 ```
+project             n. 项目
+household           adj. 家庭的
+                    n. 家庭
+recycle             v. 回收，重复利用，再循环
+shock               v. 震惊
+target              n. 目标
+carbon dioxide      二氧化碳
+emission            n. 放出物，发射物
+virgin material     原材料
+greenhouse          n. 温室
+landfill site       垃圾填埋地
+incineration plant  焚化植物
+come up             发生，出现
+drop-off            n. 丢弃；下降
+bale                v. 打包
+remove              v. 移动
+toughened           adj. 坚硬的
+oddly               adv. 奇怪地
+import              v. 进口
+fiberglass          n. 玻璃纤维
+manufacture         n. 生产
+filtration          n. 过滤
+stationery          n. 文具
+conditioner         n. 调节器
+ban                 v. 禁止
+alternative         adj. 可选择的，二选一的
+deal with           处理
+bumper              保险杠
+container           n. 容器；集装箱
+scheme              n. 计划，方案
+vend                v. 贩卖，出售
+polystyrene         n. 聚苯乙烯
+polycup             n. 聚苯乙烯杯子
+sum up              总结
 ```
 扩展词汇
-
 ```
+pollution           n. 污染
+sewage system       排污系统
+filter              n./v. 过滤
+suplhur dioxide     二氧化硫
+slurry              n. 浆
+lime                n. 生石灰
+noise               n. 噪音
+skin cancer         皮肤癌
+allergic            adj. 过敏的
 ```
 
 ## Reading
