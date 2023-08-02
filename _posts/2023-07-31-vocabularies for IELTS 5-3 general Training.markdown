@@ -11,19 +11,90 @@ category: IELTS
 # part 1 #
 必背词汇
 ```
+make                n. 品牌，型号
+engine              n. 发动机
+power               n. 动力
+do                  v. 行，可以，适合
+gear                n. 排挡，齿轮
+presume             v. 假定，认为
+manual              adj. 手动的
+automatic           adj. 自动的
+shade               n. 色度, (颜色)的浓淡深浅
+go for              喜欢
+terms               n. 价钱；条款
+arrangement         n. 安排，准备
+valuation           n. 评估
+full name           全名
+postcode            n. 邮政编码
+get hold of         找到，得到
+mileage             n. 英里数
+roughly             adv. 大概地
+metallic grey       金属灰
+call in             来访
 ```
 扩展词汇
-
 ```
+Peuget              标致
+Chevrolet           雪佛兰
+Audi                奥迪
+Benz                奔驰
+Ford                福特
+Lincoln             林肯
+Cadilac             凯迪拉克
+brake               n. 刹车
+wind shield         挡风玻璃
 ```
 
 # part 2 #
 必背词汇
 ```
+physical            adj. 自然的，天然的
+geographical        adj. 地理的
+capability          n. 能力
+assessment          n. 测试，评估
+engineering         n. 工科，工程学
+science             n. 理科，自然科学
+geography           n. 地理学，地理
+sales talk          销售演讲，招揽买卖的话
+sip                 n. 啜饮，呷
+hold-up             n. 延迟
+reference           n. 推荐人
+keep in touch       保持联络
+move along          向前进行
+devise              v. 设计，策划
+phone sb. up        给某人打电话
+liaise              v. 与某人建立联系，保持联络
+concern             n. 关心的事情
+awful               adj. 可怕的，极坏的
+norm                n. 规范，准则
+take a while        花一段时间
+adjust              v. 调整，适应
+body                n. 团体，群体
+priority            n. 优先权
+allocation          n. 配给，分配
+category            n. 范畴，种类
+exceed              v. 超过
+sort out            弄清楚，解决，整理
+snap up             抢先做某事
+in advance          提前
+agency              n. 代理
+in good time        及时地
+on one's behalf     为……的利益，代表……
+make allowance for  体谅
+audience            n. 听众
 ```
 扩展词汇
-
 ```
+rugby               n. 橄榄球
+cricket             n. 板球
+hockey              n. 曲棍球
+curling             n. 冰壶
+squash              n. 壁球
+shaping             n. 塑身，健身
+track and field     田径
+baseball            n. 棒球
+softball            n. 垒球
+hurdle              n. 跨栏
 ```
 
 # part 3 #
