@@ -100,10 +100,42 @@ hurdle              n. 跨栏
 # part 3 #
 必背词汇
 ```
+feedback            n. 反馈
+course code         课程编码
+communication       n. 交流；通讯，书信
+gosh                int. 天啊
+outline             n. 提纲
+session             n. 学期；一段时间；会议期
+dead                adv. 绝对地，完全地
+all of a sudden     突然
+whole load of       大量，大批
+course delivery     课程讲授
+on a course         关于一门课程
+handout             n. 讲义，小册子
+key text            重要课文
+reserve             n. 储备(物)
+evaluation          n. 评分，评价
+assignment          n. 作业，任务
+presentation        n. 陈述，表达
+criteria            n. 标准
+clarity             n. 明确，清晰
 ```
 扩展词汇
 
 ```
+stressful           adj. 产生压力的
+deadline            n. 期限
+extension           n. 延期
+reference book      参考书
+hand in             上交(作业)
+paper               n. 论文
+thesis              n. 硕士生毕业论文
+dissertation        n. 博士生毕业论文
+experiment          n. 实验
+trainee             n. 实习生
+field trip          教学实习，实地考察旅行
+intern              n. 实习医生
+internship          n. 实习补助金
 ```
 # part 4 #
 必背词汇
