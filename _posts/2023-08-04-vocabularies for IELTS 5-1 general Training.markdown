@@ -152,10 +152,46 @@ presentation                n. (论文)陈述
 # part 4 #
 必背词汇
 ```
+attitude                    n. 态度
+various                     adj. 不同的，各种各样的
+social                      adj. 社会的
+cultural                    adj. 文化的
+gender                      n. 性别
+basically                   adv. 基本地
+intelligent                 adj. 聪明的
+therefore                   adv. 因此，所以
+essential                   adj. 本质的
+pretension                  n. 抱负，意图；自负
+assumption                  n. 假设，假定
+fundamental                 adj. 基础的
+save up                     储蓄
+surprisingly                adj. 令人惊讶地
+retirement                  n. 退休
+nursing care                照料
+furthermore                 adv. 而且
+crisis                      n. 恐慌，危机；转折，转变期
+pension                     n. 退休金，补助金
+effectively                 adv. 有效地
+confidence                  n. 信心
+low-risk investment         低风险投资
+initiative                  n. 第一步，着手；主动精神
+consequence                 n. 后果
+account                     n. 账户
+deposit                     n. 存款
+overdraft                   n./v. 透支
 ```
 扩展词汇
-
 ```
+credit card                 n. 信用卡
+bank of issue               发行银行
+exchange bank               汇兑银行
+Industrial and Commercial Bank      工商银行
+Agricultural Bank           农业银行
+Bank of Communication       交通银行
+Commercial Bank             商业银行
+authorized bank             外汇指定银行
+specialized bank            专业银行
+the World Bank              世界银行
 ```
 
 ## Reading
