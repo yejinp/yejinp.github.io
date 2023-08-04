@@ -61,10 +61,50 @@ drifting            n. 漂流
 # part 2 #
 必背词汇
 ```
+programme           n. 广播电视节目
+tip                 n. 秘诀；警告
+baby cot            婴儿床
+budget price        廉价
+feature             v. 描述特征
+verdict             n. 批判，评语
+recommend           v. 推荐
+slight problem      小毛病
+brake               n. 刹车
+matter              v. 紧要，有重大关系
+concern             v. 担心，关心
+side bar            侧柱
+trap                v. 卡住
+satisfactory        adj. 令人满意的
+minus side          负面(因素)
+pick up             拿起，拾起
+hazard              n. 危害；冒险
+label               v. 贴标签
+dangerous           adj. 危险的
+convenient          adj. 方便的
+niggle              n. 轻微的抱怨
+detach              v. 分开，分离，拆开
+discontinue         v. 终止，停止
+best buy            最合算的商品
+comfort             n. 舒适
+rust                v. 生锈
+bent in             向内弯曲
+edging              n. 镶边，磨边；(衣服)边饰
+sharp               adj. 尖锐的
+todler              n. 蹒跚学步的人，婴儿     
 ```
 扩展词汇
-
 ```
+receipt             n. 发票，收据
+docket              n. 标签，签条
+refund              n./v. 退款
+discount            n./v. 打折
+on sale             甩卖
+ring the bill       结账
+rail                货架
+supermarket         n. 超市
+shopping center(shopping mall)  购物中心
+shopping basket     购物篮
+shopping guide      购物指南
 ```
 
 # part 3 #
