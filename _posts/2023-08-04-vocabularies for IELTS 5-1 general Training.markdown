@@ -110,10 +110,44 @@ shopping guide      购物指南
 # part 3 #
 必背词汇
 ```
+management          n. 管理
+diploma course      学位课程
+prospectus          n. 大纲，计划书
+full-time           adj. 全职的，全部时间的
+intensive           adj.(课程)强化的
+part-time           adj. 兼职的，非全日的
+advantage           n. 优势，好处
+disadvantage        n. 劣势，坏处
+financial circumstance  财政状况
+administration      n. 管理
+relevant            adj. 相关的
+focus on            集中于，聚焦于
+personnel management    人事管理
+current             adj. 目前的
+keen                adj. 热衷于
+unpaid leave        无薪休假
+modular course 单元课程
+flexible            adj. 灵活的
+involve             v. 涉及
+seminar             n. 研究小组，研究会
+discussion          n. 讨论
+workshop            n. 学术专题讨论
+essay               n. 论文
+assessment          n. 评估
+report              n. 报告
 ```
 扩展词汇
-
 ```
+selective/elective/optional subject 选修课
+required/mandatory subject  必修课
+thesis/dissertation         论文
+test                        n. 测验
+examination                 n. 考试
+tutorial                    n. （老师带领的）讨论小组
+experiment                  n. 实验
+field study                 实习
+defend                      v. 答辩
+presentation                n. (论文)陈述
 ```
 # part 4 #
 必背词汇
