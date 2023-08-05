@@ -1,6 +1,6 @@
 ---
 layout: post
-title: vocabularies for IELTS 5-3 general Training
+title: vocabularies for IELTS 5-3
 date: 2023-07-31 08:12:23 +0800
 category: IELTS
 ---
