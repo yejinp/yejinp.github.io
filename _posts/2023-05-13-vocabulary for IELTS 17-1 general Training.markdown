@@ -425,7 +425,7 @@ due                 adj. 应得的，应有的
 
 必背词汇
 ```
-constoversy         n. 争论
+controversy         n. 争论
 version             n. 版本
 awareness           n. 意识
 attempt             n. 尝试，试图
