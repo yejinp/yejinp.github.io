@@ -245,7 +245,7 @@ transit             n. 转机
 suitcase            n. 行李箱
 split               v. 分开；破裂
 ```
-认知词汇
+扩展词汇
 ```
 refer to            参考
 concession          n. 特许权
@@ -269,7 +269,7 @@ charge              v. 收费
 administration      n. 管理
 ```
 
-认知词汇
+扩展词汇
 ```
 levy                v. 征收
 grant               v. 给予
@@ -307,7 +307,7 @@ facilitate          v. 使便捷；促进
 terminal            n. 终端；航站楼
 inspire             v. 激发（想法）          
 ```
-认知词汇
+扩展词汇
 ```
 pillar              n. 柱子
 lace                n. 网眼织物；雷斯
@@ -355,7 +355,7 @@ input               n. 意见；输入
 dependable          adj. 可靠的
 work out            找到
 ```
-认知词汇
+扩展词汇
 ```
 template            n. 模板
 shine through       表现出来
@@ -405,7 +405,7 @@ container           n. 容器
 identify            v. 识别
 ```
 
-认知词汇
+扩展词汇
 ```
 in tune with        与……一致
 ruthless            adj. 坚决的，果断的
@@ -421,7 +421,7 @@ take a back seat    处于次要地位
 due                 adj. 应得的，应有的
 ```
 
-# Section 2 #
+# Section 3 #
 
 必背词汇
 ```
@@ -481,7 +481,7 @@ disregard           v. 忽视
 proper              adj. 适当的
 insist              v. 坚持
 ```
-认知词汇
+扩展词汇
 ```
 thereafter          adv. 此后
 charcoal            n. 木炭
