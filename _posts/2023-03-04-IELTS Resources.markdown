@@ -30,3 +30,7 @@ Resouces for IELTS
  - [顾家北写作集训营]
 
 ## 口语
+
+## 经验帖
+ - [雅思备考：两个月自学雅思8分经验分享](https://forum.chasedream.com/thread-1380370-1-1.html)
+ - [自学三月雅思首考8分（附经验贴）！ ](https://www.douban.com/group/topic/265933957/?_i=1450773BvLmUAU)
