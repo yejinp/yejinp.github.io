@@ -13,3 +13,18 @@ Resouces for IELTS
  - [https://github.com/codeyu/EnglishGrammarBook](https://github.com/codeyu/EnglishGrammarBook)
  - [旋元佑文法]
  - [旋元佑英文字彙]
+
+
+# 考试准备
+
+## 听力
+ - [何琼雅思听力]
+ - [雅思网听力预料库]
+
+## 阅读
+ - [雅思阅读真经总纲]
+
+## 写作
+ - [顾家北写作集训营]
+
+## 口语
