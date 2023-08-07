@@ -1,6 +1,6 @@
 ---
 layout: post
-title: vocabularies for IELTS 4-4 general Training
+title: vocabularies for IELTS 4-4
 date: 2023-07-21 08:20:23 +0800
 category: IELTS
 ---
