@@ -201,6 +201,95 @@ the World Bank              世界银行
 
 必背词汇
 ```
+concern                     n. 担忧，担心
+state                       n. 状态；国家
+as to                       关于
+bring some order to         整理……的顺序，规范……
+chaos                       n. 混乱，无序的状态
+solution                    n. 解决方案，解决方法
+compile                     v. 编辑，编纂
+under the title             以……为标题
+alphabeticall               adj. (古英语拼法)=alphabetical按字母表顺序的倾向于
+tend to                     倾向于
+concentrate                 v. 集中；关注
+scholarly                   adj. 博学的，学问精深的
+function                    n. 功能
+convey                      v.  传达，传递
+impression                  n. 印象，感觉
+fine                        adj. 优秀的，杰出的
+make order out of           使……有序
+be associated with          与……相关
+define                      v. 给……下定义
+circumscribe                v. 限制，约束
+conquer                     v. 征服
+lexical                     adj. 词汇的
+commercial                  adj. 商业的
+heyday                      n. 全盛时期
+critic                      n. 批评家
+common sense                常识
+intensely                   adv. 强烈地，非常
+establishment               n. 权势集团，特定机构
+academy                     n. 研究院，学会
+genius                      n. 天赋；天才
+approach                    n. 方法
+contract                    n. 合同，契约
+inn                         n. 小旅馆，小酒馆
+in instalment               分期地
+garret                      n. 阁楼，顶楼的小房间
+counting house              (昔日的)账房，会计室
+station                     v. 静坐，驻扎
+rickety                     adj. 不牢固的，快要散架的
+crazy                       adj. 疯狂的，狂热的
+whilst                      conj. = while 当……时候
+immense                     adj. 巨大的
+file                        v. 把文具或资料归档
+                            n. 文件
+to hand                     随手可用， 在手边
+definition                  n. 定义
+quotation                   n. 引语，引文，引述
+Elizabethan                 n. 伊丽莎白女王一世时代的英国人(尤指诗人、剧作家和作家)
+originality                 n. 创造力，独创性
+deadline                    n. 最后期限
+previous                    adj. 先前的，以前的
+heroic                      adj. 宏大的，宏伟的
+synthesis                   n. 整合
+predecessor                 n. 先驱者，先前的人
+shade                       n. 细微差别；背阴处
+English common law          英国普通法
+precedent                   n. 先例
+rival                       v. 对抗，与……抗衡
+vicissitude                 n. 变故，变迁，兴衰，浮沉
+instantly                   adv. 立即，当即
+landmark                    n. 里程碑
+lexicographer               n. 词典编纂者
+perpetual                   adj. 永恒的
+monument                    n. 丰碑，纪念碑
+fame                        n. 荣誉，名声
+the Republic of Letters     文学界
+take on                     接受工作，承担责任
+celebration                 n. 庆祝
+the learned                 学者
+patronage                   n. 赞助，帮助
+obscurity                   n. 隐匿；费解；默默无闻
+retirement                  n. 退休
+bower                       n. 树阴处，凉亭；闺房；村舍
+amidst                      prep. 在……之中
+inconvenience               n. 不便
+distraction                 n. 干扰
+sorrow                      n. 悲伤
+eccentricity                n. 古怪，异乎寻常
+volume                      n. 卷
+masterpiece                 n. 杰作
+orthography                 n. 正确拼字法
+analogy                     n. 对比，类比
+ascertain                   v. 确定
+signification               n. 字词的含义；意义
+cornerstone                 n. 基石，基础
+confer on                   给予；授予头衔、荣誉勋章等
+esteemed                    adj. 令人尊敬的
+prevail upon                说服，劝说
+pension                     n. 养老金，退休金
+folklore                    n. 民间传说，民俗
 ```
 扩展词汇
 
