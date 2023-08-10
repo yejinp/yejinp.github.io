@@ -425,6 +425,82 @@ elucidate                   v. 阐明，说明，解释
 # Section 3 #
 必背词汇
 ```
+environmentalist            n. 环境论者，环境保护论者
+hit-list                    n. 重要事件的列表；按计划进行杀害的名单
+species                     n. 物种
+extinct                     adj. 灭绝的
+in vast numbers             大量地
+planet                      n. 行星
+the planet                  地球
+picture                     n. 情况；图片
+abundant                    adj. 丰富的，大量的
+starve                      v. 使……挨饿
+exaggerate                  v. 夸大，夸张
+transient                   adj. 暂时的，短暂的
+associate                   v. 与……相连
+phase                       n. 阶段
+cure                        v. 治愈
+restrict                    v. 限制，约束
+accelerate                  v. 加速，加快
+phenomenon                  n. 现象
+inappropriate               adj. 不当的
+devastating                 adj. 破坏性的
+opinion poll                民意测验，民意调查
+nurture                     v. 培育；形成
+disjunction                 n. 分离，分裂
+perception                  n. 观点，看法
+lopsideness                 n. 不平衡，倾斜
+wise                        adj. 睿智的
+impression                  n. 印象，感觉
+potential                   adj. 潜在的，有可能的
+mass media                  大众媒体，大众传媒
+roll in                     流入
+understandably              adv. 可理解地，可懂地
+overstate                   v. 夸大
+press release               新闻稿
+overwhelmingly              adv. 绝大多数
+lobby                       n. 游说团
+                            v. 游说
+apply                       v. 应用，适用
+scepticism                  n. 怀疑主义
+instantly                   adv. 立即，马上
+self-interested             adj. 只考虑自己利益的，自私的
+green                       adj. 环保的，绿色的
+oppose                      v. 反对
+altruistic                  adj. 无私的，利他的
+impartial                   adj. 客观的
+confusion                   n. 混乱；困惑
+curious                     adj. 好奇的
+distortion                  n. 扭曲
+EI Nino                     厄二尼诺现象
+allergy                     n. 过敏
+melt                        v. 融化
+ski                         n. 滑雪
+slope                       n. 斜坡
+diminish                    v. 消失；减少
+poor                        adj. 不佳的；贫穷的
+stuff                       n. 物质，东西
+dispose                     n. 处理，处置
+what of ……                  ……的情况怎么样
+carbon dioxide              二氧化碳
+emission                    n. 排放
+best estimate               估计最高……
+considerable                adj. 相当多的，很大的
+intuition                   n. 直觉
+drastic                     adj. 猛烈的；极端的；严厉的
+radically                   adv. 大幅度地；激进地
+adaptation                  n. 适应
+model                       n. 模范；模型
+experience                  v. 经历
+postpone                    v. 推延，延迟
+buy                         v. 争取(时间)，买
+pressing                    adj. 紧迫的，迫在眉睫的
+access                      n. 获得；获得接触(数据或程序)的途径
+sanitation                  n. 卫生设施，公共卫生
+avoid                       v. 避免
+crucial                     adj. 关键的，至关重要的
+optimistic                  adj. 乐观的
+pessimistic                 adj. 悲观的
 ```
 扩展词汇
 
