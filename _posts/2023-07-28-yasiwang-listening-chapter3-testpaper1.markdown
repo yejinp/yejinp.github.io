@@ -1,14 +1,14 @@
 ---
 layout: post
-title: yasiwang listening chapter3 testpaper 1
+title: 雅思王听力语料库 chapter3 testpaper 1
 date: 2023-07-28 07:55:23 +0800
 category: IELTS
 ---
 
 ```
-ability    [əˈbɪləti]      能力
-abstract          摘要
-accountant          会计
+ability     [əˈbɪləti]          能力
+abstract    [ˈæbstrækt]         摘要
+accountant  [ə'kaʊntənt]        会计
 accuracy          准确度
 acid          酸
 action          行动
