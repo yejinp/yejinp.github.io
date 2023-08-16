@@ -197,7 +197,27 @@ Europe                      n. 欧洲
 
 必背词汇
 ```
-
+bakelite                    n. 酚醛塑料，酚醛电木
+Belgian                     adj. 比利时的
+patent                      v. 申请专利  n. 专利
+synthetic                   adj. 合成的，人造的；综合的
+material                    n. 材料，资料
+enormous                    adj. 巨大的
+plastics                    n. 塑料
+term                        n. 术语；期限
+mould                       v. 铸造，塑造
+be derived from             源于
+semi-                       一半，部分
+substance                   n. 物质
+entirely                    adv. 完全地
+engineer                    v. 设计，加工  n. 工程师
+constituent                 n. 成分
+thermo                      adj. 热的，与热有关的
+candlewax                   n. 烛蜡
+thermosetting               adj. 热定型的
+revert                      v. 返回
+viscous                     adj. 黏滞的，黏稠的
+distinction                 n. 特点，区别
 ```
 扩展词汇
 
