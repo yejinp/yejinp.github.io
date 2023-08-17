@@ -315,7 +315,101 @@ innovative                  adj. 创新的
 # Section 2 #
 必背词汇
 ```
-
+headphone               n. 耳机
+punchline               n. 笑话中的妙句，关键句
+silly                   adj. 愚蠢的，笨的
+fitting                 adj. 合适的
+tempt                   v. 引发
+mysterious              adj. 神秘的
+pointless               adj. 无意义的
+dub                     v. 称作
+luxury                  adj. 奢侈的 n. 奢侈
+reflex                  n. 反射，反射作用
+unique                  adj. 独特的
+apparent                adj. 明显的
+pedigree                n. 起源，由来；家谱
+delighted               adj. 高兴的
+superiority             n. 优越感
+rely                    v. 依赖，依靠
+psychic                 adj. 精神的
+tension                 n. 紧张
+puncture                v. 化解，戳破
+ludicrousness           n. 滑稽可笑
+settle on               决定，选定
+version                 n. 版本
+resolution              n. 解析，决定，决议
+incongruity             n. 不合适，不合时宜
+Plato                   柏拉图
+Kant                    康德
+Freud                   弗洛伊德
+Aristotle               亚里士多德
+computational           adj. 计算的，计算机的
+reasoning               n. 推理
+format                  n. 格式，套路
+revolve around          围绕，环绕
+conceptual              adj. 概念上的
+shift                   n. 转换，转移
+interpretation          n. 解释，阐述；口译
+apt                     adj. 恰当的，合适的
+semantic                adj. 语义的
+buzz                    n. 信号；蜂鸣器，警报器
+insight                 n. 洞察力
+perspective             n. 观点，看法
+appeasement             n. 缓解，平息
+mammal                  n. 哺乳动物
+ultrasonic              adj. 超声波的
+squeak                  n. 尖叫
+scuffle                 n. 扭打，混战
+nasty                   adj. 糟糕的，恶心的
+chimpanzee              n. 猩猩
+gaping                  adj. 张口的，目瞪口呆的
+panting                 adj. 气喘吁吁的
+congnitive              adj. 认知的
+trigger                 v. 引发，触发
+instinctual             adj. 本能的
+marker                  n. 记号，标记
+fairground ride         旋转木马
+flag                    v. 发出信号表明
+amused                  adj. 开心的，愉快的
+tap into                利用，开发
+circuit                 n. 网络，线路；环形线
+motor                   adj. 运动的
+vocalisation            n. 发声，发音
+functional              adj. 官能的，功能的
+magnetic resonance      磁共振
+track                   v. 追踪
+oxygenated              adj. 氧饱和的，充氧的
+accomany                v. 伴随
+snapshot                n. 快照
+prefrontal              adj. 前额的，额前骨的
+cortex                  n. 脑皮层，皮层
+light up                发亮
+temporal lobes          颞叶
+spring of life          开始活跃，恢复生机
+orbital                 adj. 眼眶的，轨道的
+patch                   n. 小块区域，补丁
+tuck                    v. 蜷缩，隐藏
+demanding               adj. 要求高的，艰巨的
+blink                   n. 眨眼
+abrupt                  adj. 突然的
+candidate               n. 候选的人或物，选手
+cortical                adj. 脑皮层的
+metabolic               adj. 新陈代谢的
+warm-blooded            adj. (动物)温血的，恒温的
+constant                adj. 经常的，不变的
+tiny                    adj. 微小的，细小的
+complicated             adj. 复杂的
+surrounding             n. 环境
+milk                    v. 猎取；挤奶
+disgusting              adj. 恶心的
+frightening             adj. 可怕的
+outlook                 n. 观念；景色
+mechanism               n. 机制，体制
+evolutionary            adj. 进化的，演化的
+distort                 v. 扭曲，歪曲
+perceptual              adj. 感性的，感知的，感觉的
+analytical              adj. 分析的
+lingual                 adj. 语言的，舌音的
 ```
 扩展词汇
 
