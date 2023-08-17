@@ -218,6 +218,95 @@ thermosetting               adj. 热定型的
 revert                      v. 返回
 viscous                     adj. 黏滞的，黏稠的
 distinction                 n. 特点，区别
+impetus                     n. 动力，促进物
+immense                     adj. 巨大的
+domain                      n. 领域，部门
+couple with                 与……相结合
+pragmatic                   adj. 务实的，实际的
+substitute                  n. 替代品
+dwindling                   adj. 日益减少的
+luxury                      adj. 奢侈的  n. 奢侈品
+tortoiseshell               n. 龟甲，玳瑁壳
+ivory                       n. 象牙
+embark on                   踏上……的旅途，开始
+phenolic resin              酚醛树脂
+aldehyde                    n. 醛，乙醛
+volatile                    adj. 易挥发的；动荡不安的
+fluid                       n. 液体
+alcohol                     n. 酒精，乙醇
+abandon                     v. 放弃，抛弃
+subject                     n. 研究课题，科目
+wealthy                     adj. 富裕的，有钱的
+make one's fortune          发财，攒钱
+amass                       v. 累计，积累
+manufacture                 v. 制造
+reaction                    n. 反应，反响
+formaldehyde                n. 甲醛
+take out                    通过申请取得
+essential                   adj. 必要的，基本的
+outline                     v. 列举
+initially                   adv. 起初
+vacuum                      n. 真空
+egg-shaped kettle           卵形瓶
+soluble                     adj. 可溶的
+malleable                   adj. 有延展性的
+tray                        n. 浅盘
+grind into                  碾成
+filler                      n. 填料
+woodflour                   n. 碎木屑
+asbestos                    n. 石棉
+strength                    n. 强度，力量
+moisture                    n. 水分，湿气
+resistance                  n. 抵抗力，抵抗
+catalyst                    n. 催化剂
+hexa                        n. 六分子物质，六元化合物
+ammonia                     n. 氨
+granular                    adj. 颗粒状的
+raw                         adj. 粗糙的，原始的
+a vast range of             范围广的，一系列
+pour into                   (使)川流不息涌入(出)
+hollow                      adj. 中空的
+extreme                     adj. 极端的，极度的
+thereby                     adv. 因此
+govern                      v. 受……限制
+to a large extent           很大程度上
+requirement                 n. 要求
+extract                     v. 抽取，提取
+taper                       v. 逐渐变细，变尖
+evenly                      adv. 均匀地
+smooth                      adj. 光滑的
+streamlined                 adj. 流线型的
+wall                        n. 容器的壁；墙
+crucial                     adj. 关键的，重要的
+efficient                   adj. 高效的
+disdain                     n. 蔑视，鄙视
+unparalleled                adj. 前所未有的，无与伦比的
+wonder                      n. 奇观，奇迹
+non-porous                  adj. 防渗的
+germ-free                   adj. 无菌的
+sterilisable                adj. 可消毒的
+seize on                    抓住，利用
+insulating                  adj. 绝缘的
+property                    n. 特性
+relish                      v. 欣赏，品味
+dazzling                    adj. 炫目的，令人眼花缭乱的
+array                       n. 排列
+shade                       n. 色彩的浓淡深浅，色泽，树阴处
+delighted                   adj. 高兴的
+tone                        n. 语气；色调
+drab                        adj. 单调的，乏味的
+era                         n. 年代
+fall from favour            失宠
+despise                     v. 鄙视，轻视
+in vast quantities          大量地
+renaissance                 n. 复兴，复苏
+renewed                     adj. 重新的
+marketplace                 n. 市场
+society                     n. 社团；社会
+dedidated                   adj. 热诚的；献身的
+appreciate                  v. 欣赏，赞赏
+originality                 n. 新颖，独创性
+innovative                  adj. 创新的
 ```
 扩展词汇
 
