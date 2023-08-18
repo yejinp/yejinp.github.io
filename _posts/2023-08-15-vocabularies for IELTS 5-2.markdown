@@ -419,7 +419,57 @@ lingual                 adj. 语言的，舌音的
 # Section 3 #
 必背词汇
 ```
-
+dominate                v. 统治，在……中拥有重要的位置
+paper                   n. 论文
+audience                n. 读者，观众
+prominence              n. 重要性，显要
+intellectuals           n. 知识分子，脑力工作者
+the European Renaissance    欧洲文艺复兴
+c.=circa               大约，左右
+revival                 n. 复兴，复活
+renew                   v. 重新开始，使复活，使更新
+classical               adj. 正统派的，古典的(指古希腊古罗马文学，艺术的)
+emergent                adj. 新兴的，浮现的
+expansion               n. 扩张，扩大
+magnatism               n. 磁场，磁性，磁力
+cartography             n. 地图制作伐，制图学
+astronomy               n. 天文学
+in relation to          相对的，与……相关的
+planet                  n. 行星，星球
+star                    n. 恒星
+Copemicus               哥白尼
+adopt                   v. 接受，采纳
+publicise               v. 宣扬
+enthusiasm              n. 热情
+the Rayol Society       英国皇家学会
+promote                 v. 促进，加强
+empirical               adj. 以实际实验为依据或知道的
+academy                 n. 学会，研究院
+initial                 adj. 初始的，起始的
+encyclopedia            n. 百科全书
+treatise                n. 专著，专题论文
+the Principia           n. 《自然哲学的数学原理》(简称《原理》)
+opticks                 n. （古英语）光学
+original                adj. 原始的，原版的，原作的
+hence                   adv. 因此
+perversely              adv. 荒谬地，变态地
+concern                 n. 关心，担忧
+domain                  n. 区域，领域
+preliminary             addj. 初步的，初始的
+exploit                 v. 探索
+notion                  n. 观念，提法
+rational                adj. 理性的，明智的；合理的
+commercial              adj. 商业的
+exploitation            n. 利用
+distinction             n. 区别；特征
+men of trade            商人，生意人
+proof                   n. 证据
+cipher                  n. 密码
+obscure                 adj. 艰深晦涩的
+deposit                 v. 储存，堆积，放置，存放
+seal                    v. 盖戳
+restrict                v. 限制
+keenly                  adv. 热切地
 ```
 扩展词汇
 
