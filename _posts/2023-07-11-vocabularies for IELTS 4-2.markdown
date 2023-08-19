@@ -1,6 +1,6 @@
 ---
 layout: post
-title: vocabularies for IELTS 4-2
+title: Vocabularies for IELTS 4-2
 date: 2023-07-11 08:20:23 +0800
 category: IELTS
 ---
