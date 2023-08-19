@@ -126,7 +126,7 @@ personnel management    人事管理
 current             adj. 目前的
 keen                adj. 热衷于
 unpaid leave        无薪休假
-modular course 单元课程
+modular course      单元课程
 flexible            adj. 灵活的
 involve             v. 涉及
 seminar             n. 研究小组，研究会
@@ -404,7 +404,7 @@ property                    n. 财产；特性
 loyalty                     n. 忠诚
 self-sacrifice              n. 自我牺牲
 discipline                  n. 自制，约束；科目；纪律
-molevolent                  adj. 恶毒的，狠毒的
+malevolent                  adj. 恶毒的，狠毒的
 forgo                       v. 放弃
 sort out                    找出，查明
 polar                       adj. 截然对立的；极地的
