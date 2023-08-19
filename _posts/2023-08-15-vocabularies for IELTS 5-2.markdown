@@ -432,7 +432,7 @@ classical               adj. 正统派的，古典的(指古希腊古罗马文�
 emergent                adj. 新兴的，浮现的
 expansion               n. 扩张，扩大
 magnatism               n. 磁场，磁性，磁力
-cartography             n. 地图制作伐，制图学
+cartography             n. 地图制作法，制图学
 astronomy               n. 天文学
 in relation to          相对的，与……相关的
 planet                  n. 行星，星球
@@ -483,7 +483,7 @@ engage                  v. 参与，参加
 linguistic              adj. 语言上的
 proposal                n. 建议，提议
 committee               n. 委员会
-fostter                 v. 促进，加强
+foster                 v. 促进，加强
 monograph               n. 学术专著，专论，专题著作
 curator                 n. 负责人，监督人
 microscope              n. 显微镜
