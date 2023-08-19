@@ -1,6 +1,6 @@
 ---
 layout: post
-title: vocabularies for IELTS 17-2 general Training
+title: Vocabularies for IELTS 17-2 general Training
 date: 2023-05-19 08:20:23 +0800
 category: IELTS
 ---
