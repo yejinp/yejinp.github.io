@@ -1,6 +1,6 @@
 ---
 layout: post
-title: vocabularies for IELTS 5-1
+title: Vocabularies for IELTS 5-1
 date: 2023-08-04 22:20:23 +0800
 category: IELTS
 ---
