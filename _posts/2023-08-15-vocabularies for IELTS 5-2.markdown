@@ -470,6 +470,44 @@ deposit                 v. 储存，堆积，放置，存放
 seal                    v. 盖戳
 restrict                v. 限制
 keenly                  adv. 热切地
+delay                   v. 拖延，延迟
+inadequacy              n. 不足，不充分
+lack                    v. 缺少
+grammatical             adj. 语法的
+impersonal              adj. 不受个人感情影响的，客观的
+complex                 adj. 复杂的
+hypothetical            adj. 假设的
+entity                  n. 实体，独立存在物
+fortunately             adv. 幸运地
+engage                  v. 参与，参加
+linguistic              adj. 语言上的
+proposal                n. 建议，提议
+committee               n. 委员会
+fostter                 v. 促进，加强
+monograph               n. 学术专著，专论，专题著作
+curator                 n. 负责人，监督人
+microscope              n. 显微镜
+narriative              adj. 描述性的，记叙性质的
+transcript              n. 抄本，文字记录
+oral                    adj. 口头的
+demonstration           n. 展示，示范
+lecture                 n. 讲座
+journal                 n. 期刊，杂志
+transaction             n. 学术团体的学报；交易
+inaugurate              v. 创立
+genre                   n. 风格，格调
+focused                 adj. 重点的，集中的
+account                 n. 记述
+formative               adj. 发展的
+establishment           n. 建立
+momentum                n. 势头；动力
+estimate                v. 估计
+oppose                  v. 对立，对抗
+as opposed to           与……相对
+lexical                 adj. 词汇的
+professional            adj. 专业的，职业的
+institue                v. 建立
+discipline              n. 学科
 ```
 扩展词汇
 
