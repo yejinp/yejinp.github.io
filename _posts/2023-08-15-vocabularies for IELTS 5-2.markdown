@@ -6,7 +6,7 @@ category: IELTS
 ---
 
 
-## Listening
+# Listening
 
 # part 1 #
 必背词汇
@@ -190,7 +190,7 @@ Asia                        n. 亚洲
 Europe                      n. 欧洲
 ```
 
-## Reading
+# Reading
 
 
 # Section 1 #
@@ -425,7 +425,7 @@ audience                n. 读者，观众
 prominence              n. 重要性，显要
 intellectuals           n. 知识分子，脑力工作者
 the European Renaissance    欧洲文艺复兴
-c.=circa               大约，左右
+c.=circa                大约，左右
 revival                 n. 复兴，复活
 renew                   v. 重新开始，使复活，使更新
 classical               adj. 正统派的，古典的(指古希腊古罗马文学，艺术的)
@@ -437,7 +437,7 @@ astronomy               n. 天文学
 in relation to          相对的，与……相关的
 planet                  n. 行星，星球
 star                    n. 恒星
-Copemicus               哥白尼
+Copernicus               哥白尼
 adopt                   v. 接受，采纳
 publicise               v. 宣扬
 enthusiasm              n. 热情
@@ -487,7 +487,7 @@ foster                 v. 促进，加强
 monograph               n. 学术专著，专论，专题著作
 curator                 n. 负责人，监督人
 microscope              n. 显微镜
-narriative              adj. 描述性的，记叙性质的
+narrative              adj. 描述性的，记叙性质的
 transcript              n. 抄本，文字记录
 oral                    adj. 口头的
 demonstration           n. 展示，示范
