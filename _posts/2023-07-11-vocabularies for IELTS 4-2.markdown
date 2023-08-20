@@ -85,7 +85,7 @@ musical instrument          乐器
 Welfare Service             福利服务
 staff cuts                  裁员
 appeal                      n. 要求，诉请
-lauch                       v. 发起
+launch                      v. 发起
 on behalf of                代表
 understaffed                adj. 人手不足的
 ```
@@ -338,6 +338,7 @@ prior to                    在……之前
 consulation                 n. 咨询；会诊
 educated                    adj. 受过教育的；有教养的
 accepting                   adj. 易于接受的；赞同的
+disillusion                 v. 使觉悟；使清醒；使梦想破灭
 skeptical                   adj. 怀疑的；好猜疑的
 empirically                 adv. 以经验未依据地；经验主义地
 standing                    n. 地位；身份；级别
