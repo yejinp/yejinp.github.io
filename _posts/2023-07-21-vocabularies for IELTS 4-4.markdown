@@ -42,7 +42,7 @@ by the way                  在途中，顺便
 flatmate                    n. 租同一套公寓的人
 instant coffee              速溶咖啡
 real coffee                 煮咖啡
-esprosso coffee             浓咖啡
+espresso coffee             浓咖啡
 hot dish                    热菜
 have to dash                马上要走了
 meet up                     偶遇
@@ -197,7 +197,8 @@ squirrel                    n. 松鼠
 bear                        n. 熊
 fox                         n. 狐狸
 lark                        n. 云雀
-raven                       n. 大乌鸦，布谷鸟
+raven                       n. 大乌鸦；掠夺 v. 掠夺；狼吞虎咽
+cuckoo                      n. 杜鹃鸟，布谷鸟
 swan                        n. 天鹅；杰出的诗人、歌手
 ```
 
