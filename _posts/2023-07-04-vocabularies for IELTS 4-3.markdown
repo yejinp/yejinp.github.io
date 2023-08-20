@@ -53,6 +53,7 @@ den                         n. （舒适的）私室（作学习或办公用）�
 living room                 客厅，起居室
 sitting room                起居室
 kitchenette                 n. 小厨房
+twin room                   （旅馆的）双人间
 bathroom                    n. 浴室，
 gas heater                  烧煤气的暖气
 fridge                      n. 电冰箱
@@ -144,6 +145,7 @@ convenor                    n. 会议召集人
 upgrade                     n. 升级
                             vt. 使升级，提升
 cope with                   处理，应对
+focus on                    集中
 stress management           压力管理
 be better off               境况好
 in line with                符合
@@ -319,7 +321,8 @@ relationship                n. 关系；关联
 build                       v. 营造；修建；构筑
 establish                   v. 建立；建造
 involvement                 n. 卷入；牵连；参与
-essential                   adj. 相关的；有关的
+essential                   adj. 基本的；必需的
+revelant                    adj. 相关的；有关的
 abide by                    坚持；遵守
 enforce                     v. 执行；加强
 critical                    adj. 重要的；关键的
@@ -367,6 +370,8 @@ blow the top                生气，怒不可遏；此处指火山爆发
 scatter                     v. 驱散；散开
 fine                        adj. 美好的；纤细的
 ash                         n. 灰，灰末
+practically                 adv. 几乎，简直；实际上
+hurl                        v. 猛投，猛掷
 fragment                    n. 碎屑；偏短
 stratosphere                n. 同温层；平流层
 bang                        vi. 猛敲，猛撞
