@@ -358,6 +358,7 @@ additional                  adj. 额外的
 evidence                    n. 证据
 mechanical                  adj. 机械的
 arrangement                 n. 安排
+vary                        v. 变化
 demand                      n. 需求
 majority                    n. 大多数
 familiar                    adj. 熟悉的
