@@ -139,6 +139,14 @@ bit                         n. (事物的)小部分，片段
 set                         n. (戏剧)布景
 visually                    adv. 在视觉上地
 stunning                    adj. 绝妙的，极好的
+dimly                       adv. 湖南地
+contemporary                adj. 现代的，当代的
+brilliant                   adj. 技艺高的，杰出的
+act                         n. (戏剧、歌剧)一幕
+violence                    n. 暴力
+extreme                     adj. 偏激的，极端的
+intensify                   v. (使)加强，增强
+depth                       n. 深刻，深度
 ```
 
 
@@ -217,6 +225,7 @@ tenant                  n. 房客，租客
 query                   n. 疑问
 administration          n. 管理
 contract                n. 合同
+objective               adj. 目标
 trouble-free            adj. 可靠的
 informed                adj. 知情的，了解情况的
 specific                adj. 特定的
@@ -225,7 +234,7 @@ properly                adv. 恰当地，正确地
 defence                 n. 辩护
 obligation              n. 责任，义务
 determine               v. 决定
-formar                  n. 前者
+former                  n. 前者
 latter                  n. 后者
 motorist                n. 驾驶员
 switch                  v. 转变
