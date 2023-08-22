@@ -155,11 +155,52 @@ draft                       n. 草稿
 # part 4 #
 必背词汇
 ```
-
+guidance                    n. 引导
+guided tour                 带导游的参观
+muddle                      v. 使……迷惑
+computer literate           会用计算机的
+outline                     n. 概要，框架
+available                   adj. 可以被使用的
+critical                    adj. 批判性的，有鉴别能力的
+MLA(Modern Language Association)    文科或人文科学中普遍采用的论文写作及标注格式
+accessible                  adj. 容易使用的
+phase……out                  逐渐停止使用某物
+eventually                  adv. 最终地
+restricted                  adj. 有限制的
+supervisor                  n. 管理者，负责人
+oversee                     v. 监督，监管
+induction                   n. 入门
+initial                     adj. 最初的
+dissertation                n. 论文
+relevant                    adj. 相关的
+at the outset               在一开始的时候
+bibliography                n. 参考书目
+register                    v. 注册
 ```
 扩展词汇
 ```
-
+librarian                   n. 图书馆
+catalog/catalogue           n. 目录
+call slip                   借书单(索书单)
+library/borrower's/admission card   借书卡
+deadline/date of expiry     最后期限
+due                         adj. 到期的
+overdue and pan a fine      过期并交罚款
+renew                       v. 续借
+out on loan                 已经借出的
+interlibrary service        图书馆互借服务
+reserve/book                v. 预借
+in circulation              在书库里
+out circulation             借走了
+not for circulation         不外借
+on shelves                  在书架上
+journal                     n. (学术性的)杂志
+periodical(magazines and journals) n. 期刊
+current/back issue          最新的/过期的一期
+encyclopedia                n. 百科全书
+almanac                     n. 年鉴
+test paper                  考试卷
+photocopying room           复印室
 ```
 
 ## Reading
