@@ -210,11 +210,66 @@ photocopying room           复印室
 
 必背词汇
 ```
-
+remote                      adj. 遥远的，偏远的
+boom                        v. 繁荣，兴旺，(发出)轰轰声
+promote                     v. 促进，发扬，提拔
+wilderness                  n. 荒野，茫茫一片
+initial                     adj. 最初的，词首的，初始的
+fragile                     adj. 脆弱的，易碎的
+vulnerable                  adj. 脆弱的，易受到攻击的
+abnormal                    adj. 异常的，反常的
+ecology                     n. 生态学，生态
+inhabitant                  n. 居民，居住者
+prevail                     v. 流行，盛行，获胜
+consequently                adv. 从而，因此
+landscape                   n. 风景，山水画
+unique                      adj. 唯一的，独特的
+isolate                     v. 隔离，孤立，绝缘
+currency                    n. 货币，流通
+element                     n. 元素，充分
+zone                        n. 地域，地带
 ```
 扩展词汇
 
 ```
+location                    n. 位置，场所，特定区域
+destination                 n. 目的地，终点
+porter                      n. 行李搬运工，门房
+trekker                     n. 背包客
+output                      n. 产量，输出
+diet                        n. 日常饮食
+terrace                     n. 梯田，露台
+irrigation                  n. 灌溉，冲洗
+culprit                     n. 犯人
+handout                     n. 救济物，印刷品，宣传稿
+undermine                   v. 破坏
+dilemma                     n. 困境，进退两难的局面
+external                    adj. 外部的，客观的
+                            n. 外部，外面
+associate                   v. 联系，交往
+erosion                     n. 腐蚀，侵蚀
+fuel                        n. 燃料  v. 加燃料
+degradation                 n. 降级，降格，退化
+inevitably                  adv. 不可避免地
+ensure                      v. 保证，确保
+population                  n. 人口
+community                   n. 社区，团体，社会
+integrate                   v. 使成整体，结合
+renaissane                  n. 复兴，新生，文艺复兴
+communal                    adj. 公开的，公社的
+reliable                    adj. 可靠的，可信赖的
+exploit                     v. 开拓，开发
+transient                   adj. 短暂的，瞬时的
+                            n. 瞬时现象
+repatriate                  v. 遣返
+reservation                 n. 保留；(旅馆房间等)预订
+purchase                    v. 买，购买
+handicraft                  n. 手工艺，手工艺品
+artwork                     n. 艺术品，美术品
+pottery                     n. 陶器，陶器厂
+penetrate                   v. 穿透，渗透，刺入
+demonstrate                 v. 示范，证明
+critical                    adj. 关键的，评论的，危急的
 ```
 # Section 2 #
 必背词汇
