@@ -74,6 +74,9 @@ newsletter                  n. (组织、俱乐部等内部)新闻摘要
 regularly                   adv. 按时地
 Head Coach                  主教练
 refreshments                n. (会议、运动赛事期间提供的)食品饮料
+```
+扩展词汇
+```
 hold a meeting              举行会议
 schedule                    n. 日程
 annual                      adj. 每年的
@@ -83,19 +86,71 @@ coffee break                茶歇
 check-in                    报到处
 key-note speech             主题发言
 ```
-扩展词汇
-```
-
-```
 
 # part 3 #
 必背词汇
 ```
-
+case study                  案例分析
+exam assessment             考试评估
+summarise                   v. 总结
+take……on board              考虑、倾听并接受
+advertising campaign        广告宣传活动
+on top of                   在……之外
+immediate                   adj. 直接的
+competition                 n. 竞争
+get to grips                理解或解决某些难题
+be stalled by               被……所拖累、耽搁
+colossal                    adj. 巨大的
+be set back by              因……而受挫
+interest rate               利率
+market share                市场份额
+be credited to              归因于
+favourable terms            优惠条件
+cautious                    adj. 谨慎的
+assume                      v. 假定
+dramatic                    adj. 巨大的，突然的
+a simple fix                简单的解决办法
+go under                    破产
+instrinsic                  adj. 固有的，内在的
+innovative                  adj. 创新的
+foregone conclusion         定局
+stock market                股市
+realistic expectation       现实的期望值
+kick-start                  起动，摩托车发动
+come up with                想到    
 ```
 扩展词汇
 ```
-
+assignment                  n. 作业
+task                        n. 任务，作业
+data                        n. 数据
+assess                      v. 评估
+social science              社会科学(研究社会中的人的科学，如政治学、社会学等)
+carry out                   实施
+subject                     n. 研究对象
+questionnaire               n. 调查问卷
+interview                   n. 采访
+time-consuming              adj. 费时的
+reckon                      v. <英><口>猜想，估计
+wording                     n. 措辞
+response                    n. 回应
+reliable                    adj. 可靠的
+drawback                    n. 缺点
+response rate               回收率
+reveal                      v. 揭示
+sample                      n. 样本，例子
+survey                      n. 调查
+tutorial                    n. 辅导课
+reading list                阅读书目
+quantitative                adj. 定量研究的
+qualitative                 adj. 定性研究的
+rate of return              回收率
+literature review           文献综述
+seminar                     n. 研讨会
+presentation                n. 陈述
+research method             研究方法
+deadline                    n. 最后期限
+draft                       n. 草稿
 ```
 # part 4 #
 必背词汇
