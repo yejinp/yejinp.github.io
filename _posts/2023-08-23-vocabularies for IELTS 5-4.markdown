@@ -58,7 +58,30 @@ entrance hall               门廊(进门的门厅)
 # part 2 #
 必背词汇
 ```
-
+soccer                      n. 足球
+season                      n. 赛季
+competition                 n. 比赛
+picnic                      n. 野餐会
+presentation of prizes      颁奖
+trainning session           训练课
+committee                   n. 委员会
+president                   n. 主席
+treasurer                   n. (组织、俱乐部等)财务主管
+fee                         n. 费用，收费
+equipment                   n. 设备
+volunteer                   v. 自愿
+newsletter                  n. (组织、俱乐部等内部)新闻摘要
+regularly                   adv. 按时地
+Head Coach                  主教练
+refreshments                n. (会议、运动赛事期间提供的)食品饮料
+hold a meeting              举行会议
+schedule                    n. 日程
+annual                      adj. 每年的
+snack                       n. 零食
+conference                  n. 大会
+coffee break                茶歇
+check-in                    报到处
+key-note speech             主题发言
 ```
 扩展词汇
 ```
