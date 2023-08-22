@@ -291,6 +291,7 @@ refreshment                 n. 饮料；小食
 cancel                      v. 取消
 newborn                     adj. 新生的
 alternative                 addj. 可供替代的
+route                       n. 路线
 identify                    v. 发现
 squirrel                    n. 松鼠
 pond                        n. 池塘
