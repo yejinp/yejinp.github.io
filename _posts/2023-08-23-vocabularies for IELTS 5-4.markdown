@@ -274,7 +274,69 @@ critical                    adj. 关键的，评论的，危急的
 # Section 2 #
 必背词汇
 ```
-
+shatter                     v. 粉碎，打碎
+                            n. 碎片
+fragment                    n. 碎片，片段
+analyse                     v. 分析，分解
+manufacturer                n. 制造业者，厂商
+crystal                     n. 晶体，水晶
+nickel                      n. 镍，镍币
+sulphide                    n. 硫化物
+industry                    n. 工业，产业，行业
+issue                       n. 问题，(报刊等)期、号、论点
+committee                   n. 委员会
+association                 n. 协会，联合
+standard                    n. 标准 adj. 标准的
+insist                      v. 坚持，强调
+rare                        adj. 稀罕的，珍贵的  adv. 非常
+disagree                    v. 不一致，不赞同
+consultant                  n. 顾问，商议者，咨询者
+investigation               n. 调查，研究
+similar                     adj. 相似的，类似的
+consult                     v. 商量，咨询
+press                       n. 新闻；压，压力 v. 压，拥挤
+everywhere                  adv. 各处，到处
+shelter                     n. 掩蔽处
+                            n./v. 掩蔽，躲避
+strength                    n. 强度，力量，力气
+cube                        n. 立方体，立方
+razor                       n. 剃刀   v. 剃
+architect                   n. 建筑师
+transparent                 adj. 透明的，显然的
+ceiling                     n. 天花板，最高限度
+structure                   n. 结构，构造，建筑物
+layer                       n. 层，阶层
+contract                    v. 收缩；订约 n. 合同，契约
+solidify                    v. 凝固，巩固
+interior                    n. 内部  adj. 内部的，内的
+exert                       v. 施加(压力等)，尽(力)
+permanent                   adj. 永久的，持久的
+compression                 n. 压缩，压榨，浓缩
+tensile                     adj. 张力的，可拉长的
+propagate                   v. 传播，宣传；繁殖
+tension                     n. 压力，紧张(状态)，不安
+overcome                    v. 战胜，克服
+resistant                   adj. 抵抗的，有抵抗力的
+contain                     v. 包含，容纳，容忍
+impurity                    n. 杂质，混杂物，不纯
+alloy                       n. 合金
+atom                        n. 原子
+create                      v. 产生，创造
+form                        n. 现状，形态  v. 形成，构成
+dense                       adj. 密集的，浓厚的
+stable                      adj. 稳定的
+compact                     adj. 紧凑的，紧密的
+                            adj. 契约，合同
+subsequent                  adj. 后来的，并发的
+expand                      v. 膨胀，扩张，发展
+elapse                      v. (时间)过去，消逝
+ironically                  adv. 说反话地，讽刺地
+complete                    v.  完成 adj. 全部的，完成的
+contamination               n. 污染，污染物
+scan                        v. 扫描，浏览
+potentially                 adv. 潜在地
+alternative                 n. 二中选一
+                            adj. 选择性的，二中选一的
 ```
 扩展词汇
 
