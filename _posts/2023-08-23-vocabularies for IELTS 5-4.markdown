@@ -346,7 +346,62 @@ alternative                 n. 二中选一
 # Section 3 #
 必背词汇
 ```
-
+organism                    n. 生物体，有机体
+cue                         n. 暗示，提示
+rhythm                      n. 节奏，韵律
+assist                      v. 帮助，援助
+occur                       v. 发生，出现
+reliable                    adj. 可靠的，可信赖的
+behaviour                   n. 行为，举止，习性
+predictable                 adj. 可预测的
+temperature                 n. 温度
+fluctuate                   v. 变动，波动
+increase                    v. 增加，增大
+impact                      n. 影响，碰撞，冲击
+phenomenon                  n. 现象
+artificially                adv. 人工地
+exceed                      v. 超越，胜过
+differ                      v. 不一致，不同
+species                     n. 种类，物种
+regardless                  adj. 不管不顾的，不注意的
+neutral                     adj. 中性的，中立的
+evolve                      v. 进化，发展，进展
+offspring                   n. 儿女，子孙，后代
+reserve                     n. 储备(物)  v.储备，保存
+adequate                    adj. 适当的，足够的
+resource                    n. 资源，财力，办法
+assure                      v. 保证，断然地说
+adaptive                    adj. 适应的
+significance                n. 意义，重要性
+maximise                    v. 最大值，最佳化
+fertilization               n. 受精，肥沃，施肥
+ripen                       v. 成熟
+evolutionary                adj. 进化的
+advantage                   n. 优势，有利条件
+connection                  n. 关系，连接
+favourable                  adj. 有利的，赞成的，称许的
+rainfall                    n. 降雨，降雨量
+delay                       v. 耽搁，延迟
+extraordinary               adj. 非常的，特别的
+bamboo                      n. 竹子
+perennial                   adj. (植物)多年生的，终年的，长期的
+remain                      v. 保持，逗留，剩余
+generation                  n. 一代，一代人，发生
+simultaneous                adj. 同时的，同时发生的
+escape                      v. 逃脱，避开
+photosynthesis              n. 光合作用
+process                     n. 过程，程序，步骤
+conver                      v. 转变，转换
+carbon                      n. 碳
+variation                   n. 变化，变更
+intensity                   n. 强烈，强度
+divide                      v. 划分，分开，隔开
+classification              n. 分类，分级
+prevent                     v. 防止，预防
+occupy                      v. 占据，占领，占用
+component                   n. 成分 adj. 组成的，构成的
+adaptation                  n. 适应，改编
+survive                     v. 幸免，幸存
 ```
 扩展词汇
 
