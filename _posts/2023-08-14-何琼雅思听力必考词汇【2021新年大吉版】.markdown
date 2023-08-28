@@ -10,9 +10,6 @@ category: IELTS
 ## 旅游出行
 ```
 ```
-## 
-```
-```
 ## 租房
 ```
 address/ area/ location
