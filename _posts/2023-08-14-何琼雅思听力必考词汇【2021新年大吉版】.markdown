@@ -5,6 +5,36 @@ date: 2023-08-23 22:08:23 +0800
 category: IELTS
 ---
 
+
+
+## 旅游出行
+```
+```
+## 
+```
+```
+## 租房
+```
+address/ area/ location
+具体地址，格式都是 number 空格 name 空格 road/street/avenue/lane/drive
+方向 east west south north
+
+```
+
+## 新生入学
+
+## 手续办理
+
+## 聚会活动
+
+## 图书馆
+
+## 医疗健康
+
+## 电台节目
+
+## 作业讨论
+
 ```
 certificate 证明，执照
 barrier 障碍，栅栏
