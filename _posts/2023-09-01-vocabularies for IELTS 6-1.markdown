@@ -84,11 +84,45 @@ director                n. 导演
 # part 3 #
 必背词汇
 ```
-
+tutor                   n. 导师，老师
+enrol                   v. 注册
+part-time               adj. 业余的
+recommend               v. 推荐
+integrate               v. 合而为一；综合
+particular              adj. 特别的
+presumably              adv. 推测地，假定地
+refectory               n. 餐厅，食堂
+allergy                 n. 过敏
+in advance              提前
+eligible                adj. 合适的，合格的
+nursery                 n. 幼儿园
+supervise               v. 监督，监管
+qualified               adj. 有资格的
+stock                   v. 贮存，储藏
+journal                 n. 期刊
+audio-visual            adj. 视听的
+cassette                n. 磁带
+manual                  n. 手册
+hire                    v. 租用
+laptop                  n. 手提电脑
+queue up                排队
 ```
 扩展词汇
 ```
-
+diploma                 n. 学位
+certificate             n. 证书
+prospectus              n. 大纲；计划书
+seminar                 n. 研讨会
+workshop                n. 学术专题讨论
+essay                   n. 论文
+assessment              n. 评估
+optional course         选修课
+mandatory course        必修课
+thesis/dissertation     n. 论文
+tutorial                n. (导师带领的)讨论小组
+field study             实习
+defend                  v. 答辩
+presentation            n. 论文陈述
 ```
 # part 4 #
 必背词汇
