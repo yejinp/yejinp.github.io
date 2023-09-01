@@ -127,11 +127,51 @@ presentation            n. 论文陈述
 # part 4 #
 必背词汇
 ```
-
+East End                伦敦东部
+head                    v. 朝……走去
+livestock               n. 家畜
+feed                    v. 喂养
+invasion                n. 侵略
+tribe                   n. 部落
+leather                 n. 皮革，皮革制品
+conquer                 v. 征服，克服
+prosperous              adj. 繁荣的，兴旺的
+restriction             n. 限制
+newcomer                n. 新来的人
+merchant                n. 商人
+money-lender            n. 借款人，债主，放款人
+dock                    n. 船坞
+construct               v. 建造，建设
+eventually              adv. 最终地
+economically            adv. 经济地
+alternative             n. 选择
+marshland               n. 沼泽
+drained                 adj. 已排水的
+port                    n. 港口
+poverty                 n. 贫困
+suffer                  v. 折磨
+appalling               adj. 令人毛骨悚然的
+sanitary                adj. 卫生的
+tenant                  n. 佃户，房客
+landlord                n. 房主，房东
+electricity             n. 电
+implication             n. 含意，暗指
+nutrition               n. 营养
 ```
 扩展词汇
 ```
-
+lifestyle               n. 生活方式
+industry                n. 工业，产业
+cattle                  n. 牲畜
+coastline               n. 海岸线
+downside                n. 劣势，坏处
+afford                  v. 负担得起
+primarily               adv. 基本地，最初地
+particular              adj. 特别的
+retire                  v. 退休
+vital                   adj. 致命的，重要的
+cultivate               v. 培养
+nourishing              adj. 有营养的
 ```
 
 ## Reading
