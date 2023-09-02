@@ -181,7 +181,72 @@ nourishing              adj. 有营养的
 
 必背词汇
 ```
-
+fair                    adj. 合理的
+demolish                v. 击败；破坏，毁坏
+rival                   n. 竞争者，对手
+seeming                 adj. 表面上的(通常事实并非如此)
+ease                    n. 不费力，轻松
+extensive               adj. 广泛的，涉及面广的
+underpin                v. 以……为稳固基础
+pro                     n. 职业运动员
+under the eye of        在……的注意下
+body                    n. 团体，机构
+finance                 v. 给……提供经费
+excellence              n. 优秀，卓越
+intensive               adj. 强化的
+nutritional             adj. 营养的
+centre stage            中心地位
+collaborate             v. 合作
+golfer                  n. 打高尔夫球的人
+squash                  n. 壁球
+instrument              n. 仪器，器械
+ethereal                adj. 飘渺的，引申为不切实际的
+come down to(sth.)      可归结为
+second-by-second        每秒的
+output                  n. 输出
+wring……out of           原义为扭、榨取，此处引申为从……中(经过努力)获得
+tweak                   v. 扭，用力拉
+world-beating           adj. 举世瞩目的
+prototype               n. 原型
+wire-frame              adj. 线框的
+slice                   v. 划开；切开
+slow motion             慢动作
+side-on                 从侧面
+stroke                  n. 划动，划水
+spine                   n. 脊柱
+swivel                  v. 旋转
+biomechanical           adj. 生物力(学)的
+profile                 n. 原义为轮廓、外形，此处意为模型
+budding                 adj. 发展中的
+frame                   n. 帧，画面
+velocity                n. 速度，速率
+lap                     n. 一圈
+spit out                原义是吐出，此处引申为显示出，分析出
+turn time               转身时间
+unobtrustive            adj. 不显眼的，不醒目的
+sensor                  n. 传感器
+embed                   v. 使插入；使嵌入
+sweat                   v. 出汗，发汗
+experimentation         n. 实验，试验
+immune-system           免疫系统的
+immunoglobulin          n. 免疫球蛋白
+present                 adj. 存在的
+saliva                  n. 唾液
+ease                    v. 减轻，减弱
+remarkably              adv. 显著地，引人注目地；非常地
+complex                 adj. 复杂的
+championship            n. 冠军赛
+gear                    v. 调整，(使)适合
+segment                 n. 部分
+transform               v. 转换，转变，改变
+arguably                adv. 可论证地(可辩论地)，有理由说地
+unveil                  v. 展示(新产品)；揭开
+coolant-lined           流线型散热
+endurance               n. 耐力；忍耐力
+slice                   v. 减少，降低
+altitude tent           高原帐篷
+replicate               v. 复制
+encompass               v. 包含或包括某事物
 ```
 扩展词汇
 
