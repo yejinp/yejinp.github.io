@@ -11,7 +11,8 @@ category: IELTS
 ## Reading 阅读部分错题分析
 # C6-1
 
-|编号  |          题型     |         答案  |     正确答案  | 原因分析 |
+|编号  |          题型     |         我的答案  |     正确答案  | 原因分析 |
+|---|---|---|---|---| 
 |3    |    MATCHING       |       E       |      B    |   |      
 |7    |    MATCHING       |       C       |      E    |   | 
 |8    |    MATCHING       |       C       |      A    |   没有理解exclusively的含义 |
@@ -22,9 +23,14 @@ category: IELTS
 
 # 6-2
 
-|编号    |      题型       |           答案  |    正确答案  | 原因分析 |
-|3       |    LIST OF HEADING  |    v  |       iv       |       此题实际上较简单，多处有对应含义，没有彻底理解段落内容导致做错 |
+|编号    |      题型       |   我的答案  |    正确答案  | 原因分析 |
+|---|---|---|---|---|
+|3    |    LIST OF HEADING  |  v |  iv  | 此题实际上较简单，多处有对应含义，没有彻底理解段落内容导致做错 |
 |9    |   TRUE/FALSE/NOT GIVEN  | NG |  FALSE  |   第3段中，漏掉了对explosion in demand的理解 |
 |29   |  SENTENCE COMPLETION  | F  | A     | 漏掉了对第4段最后一句的理解 |
 |35   |  TRUE/FALSE/NOT GIVEN | NG  | FALSE |  忽略了对第4段第一句的理解 |
 |38   |  TRUE/FALSE/NOT GIVEN | TRUE | FALSE |   没有理解第6段中 distinct sets的正确含义 |
+
+# 不熟悉单词记录
+
+# 近义词记录
