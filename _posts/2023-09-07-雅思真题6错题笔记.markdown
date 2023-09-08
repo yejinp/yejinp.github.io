@@ -7,6 +7,7 @@ category: IELTS
 
 ## Listening 听力部分错题分析
 # C6-2 (40-23=17)
+
 |编号|题型|我的答案|正确答案|原因分析|
 | --- | --- | --- | --- | --- | 
 |3 | | | | 单词拼写错误|
@@ -43,8 +44,8 @@ category: IELTS
 |7| MATCHING | C | E |   |
 |8| MATCHING | C | A | 没有理解exclusively的含义 |
 |21|TRUE/FALSE/NOT GIVEN | FALSE | TRUE | 没有理解D段第一句的含义，countries 与most countries是近义词，不能构成否定 |
-|33|SUMMARY | the atctic | farming | 应该选更具体，更能代表含义的 |
-|40|SUMMARY | local shops | imported |  应该选更具体，更能代表含义的 |
+|33|SUMMARY | the atctic | farming | 应该选应该选最精确的内容 |
+|40|SUMMARY | local shops | imported |  应该选最精确的内容 |
 
 # C6-2
 
