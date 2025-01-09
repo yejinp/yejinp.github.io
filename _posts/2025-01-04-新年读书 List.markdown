@@ -1,15 +1,15 @@
 ---
 layout: post
 title: 2025-Read_list
-date: 2024-08-02 18:20:23 +0800
+date: 2025-01-02 18:20:23 +0800
 category: TO DO LIST
 ---
 
-新年要多读书，都好书，好好读书，都经典的书；
+新年要多读书，读好书，好好读书，读经典的书；
 包括不限于：
 - 《Thought and Knowledge An Introduction to Critical Thinking_ 5th Ed (Diane F. Halpern)》
 - 《Asking the Right Questions A Guide to Critical Thinking (M. Neil Browne_ Stuart M. Keeley)》
 - 《Vincent Ruggiero-Beyond Feelings_ A Guide to Critical Thinking-McGraw-Hill (2011)》
 - 《Principles - Ray Dalio》
-读书的时候要多做笔记，多实践总结，否则跟没读是一样。
+读书的时候要多做笔记，另外也要多实践总结，否则跟没读是一样。
 
