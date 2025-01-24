@@ -26,8 +26,16 @@ Linux 之前一直都是用汇编语言和C语言编写，最近了解到在Linu
 # 第四章 理解所有权
 ## Rust中的所有权规则：
 - 每个值都有一个所有者
-- 值在每一个时刻只能有一个所有者
-- 当所有者离开有效范围，值就会被丢弃
+- 值在任一个时刻只能有一个所有者
+- 当所有者离开作用域，这个值就会被丢弃
+
+## 引用的规则
+- 任何时刻，你只能有一个可变引用或者任意多个不可变引用
+- 引用必须总是有效的
+At any given time, you can have either one mutable reference or any number of immutable references.
+References must always be valid.
+
+## 变量范围
 
 # 第五章使用结构体管理相关数据
 
