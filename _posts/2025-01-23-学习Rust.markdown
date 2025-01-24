@@ -32,12 +32,10 @@ Linux 之前一直都是用汇编语言和C语言编写，最近了解到在Linu
 ## 引用的规则
 - 任何时刻，你只能有一个可变引用或者任意多个不可变引用
 - 引用必须总是有效的
-At any given time, you can have either one mutable reference or any number of immutable references.
-References must always be valid.
 
 ## 变量范围
 
-# 第五章使用结构体管理相关数据
+# 第五章 使用结构体管理相关数据
 
 # 第六章 枚举和模式匹配
 
@@ -52,3 +50,35 @@ References must always be valid.
 # 第十一章 编写自动化测试
 
 # 第十二章 一个I/O项目： 构建一个命令行程序
+
+# 第十三章 函数语言特征：迭代和闭包
+
+# 第十四章 更多关于cargo和 crates.io 
+
+# 第十五章 聪明的指针
+
+# 第十六章 不可怕的并发
+
+# 第十七章 面向对象编程 Rust的特点
+
+# 第十八章 模式和匹配
+
+# 第十九章 高级特性
+
+# 第二十章 最后的项目：构建一个多线程web服务器
+
+# 第二十一章 附录
+
+## A 关键字
+
+## B 操作符和符号
+
+## C 
+
+## D 有用的开发工具
+
+## E 版本
+
+## F 本书翻译
+
+## G Rust是如何制造的，
