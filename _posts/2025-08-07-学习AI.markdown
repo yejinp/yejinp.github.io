@@ -5,16 +5,25 @@ date: 2025-08-07 22:20:23 +0800
 category: AI
 ---
 
-AI技术日新月异，不跟上就落后了，为了更好的利用AI，有必要了解其原理。
+AI技术日新月异，不跟上就落后了，为了更好的利用AI，有必要了解其基本原理。
 
 ## 学习资料
 [《Deep.Learning.for.Coders.with.fastai.and.PyTorch》By Howard.Gugger OReilly](https://www.amazon.com/Deep-Learning-Coders-fastai-PyTorch/dp/1492045527)
 
 ## 练手平台 
-[https://www.kaggle.com/](https://www.kaggle.com/)
+[https://www.kaggle.com/](https://www.kaggle.com/) 
+一个机器学习和数据科学社区。
 
+在这个平台上注册后，每周可以使用一定配额的GPU资源、CPU和磁盘可以使用。其可以访问外网，一定程度上还可以当作GW内部访问外网的代理。
+比如，有些在国内下载的[amazonaws](https://s3.amazonaws.com/fast-ai-imageclas/oxford-iiit-pet.tgz), 就先下载到这个平台，再从这个平台下载到本地。
 ## 视频课程
 [https://course.fast.ai/](https://course.fast.ai/)
+## Practical Deep Learning
+一个为有编程经验又想知道如何将深度学习和机器学习应用于解决实际问题的人士设计的免费课程。
 
-
-常用的resnet模型有：
+resnet模型层数有：
+resnet18：
+resnet34
+resnet50
+resnet101
+resnet152
