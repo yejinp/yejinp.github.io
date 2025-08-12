@@ -9,29 +9,29 @@ category: AI
 | --- | --- | --- | --- | --- |
 | Deep learning | DL | 深度学习 | | |
 | Machine learning | ML | 机器学习 |  The training of programs developed by allowing a computer to learn from its experience, rather than through manually coding the individual steps. |
-| Label | | | The data that we’re trying to predict, such as “dog” or “cat” | |
-| Architecture | | | The template of the model that we’re trying to fit; i.e., the actual mathematical function that we’re passing the input data and parameters to | |
-| Model  | | | The combination of the architecture with a particular set of parameters | |
-| Parameters | | | The values in the model that change what task it can do and that are updated through model training | |
-| Fit | | | Update the parameters of the model such that the predictions of the model using the input data match the target labels | |
-| Train | | | A synonym for fit | |
-| Pretrained model | | | A model that has already been trained, generally using a large dataset, and will be fine-tuned | |
+| Label | |标记 | The data that we’re trying to predict, such as “dog” or “cat” | |
+| Architecture | | 模型的模板 | The template of the model that we’re trying to fit; i.e., the actual mathematical function that we’re passing the input data and parameters to | |
+| Model  | |模型 | The combination of the architecture with a particular set of parameters | |
+| Parameters | | 参数 | The values in the model that change what task it can do and that are updated through model training | |
+| Fit | | 调适 | Update the parameters of the model such that the predictions of the model using the input data match the target labels | |
+| Train | | 训练 | A synonym for fit | |
+| Pretrained model | | 提前训练好的模型 | A model that has already been trained, generally using a large dataset, and will be fine-tuned | |
 | Fine-tune | | | Update a pretrained model for a different task | |
-| Epoch | | |One complete pass through the input data | |
-| Loss | | | A measure of how good the model is, chosen to drive training via SGD | |
-| Metric | | | A measurement of how good the model is using the validation set, chosen for human consumption | |
-| Validation set | | | A set of data held out from training, used only for measuring how good the model is | |
-| Training set | | | The data used for fitting the model; does not include any data from the validation set | |
-| Overfitting | | | Training a model in such a way that it remembers specific features of the input data, rather than generalizing well to data not seen during training | |
-| CNN | | | Convolutional neural network; a type of neural network that works particularly well for computer vision tasks | |
-| Natural language processing | NLP | | | | |
-| Graphics Processing Unit | GPU | | A special kind of processor in your computer that can handle thousands of single tasks at the same time, especially designed for displaying 3D environments on a computer for playing games. | |
-| Jupyter Notebook | | | A piece of software that allows you to include formatted text, code, images, videos, and much more, all within a single interactive document.| |
-| Regression | | |A regression model is one that attempts to predict one or more numeric quantities, such as a temperature or a location.  | |
-| Classification | | | A classification model is one that attempts to predict a class, or category. That is, it’s predicting from a number of discrete possibilities, such as “dog” or “cat.”  | |
-| Transfer Learning | | | Using a pretrained model for a task different from what it was originally trained for.| |
-| Tabular | | | Data that is in the form of a table, such as from a spreadsheet, database, or a comma-separated values (CSV) file. | |
-| Datasets | | | Food for Models | |
-| DataLoaders | | | A fastai class that stores multiple DataLoader objects you pass to it | |
+| Epoch | | 一轮 |One complete pass through the input data | |
+| Loss | | 丢失| A measure of how good the model is, chosen to drive training via SGD | |
+| Metric | | 度量| A measurement of how good the model is using the validation set, chosen for human consumption | |
+| Validation set | | 验证集 | A set of data held out from training, used only for measuring how good the model is | |
+| Training set | |训练集 | The data used for fitting the model; does not include any data from the validation set | |
+| Overfitting | |过度拟合 | Training a model in such a way that it remembers specific features of the input data, rather than generalizing well to data not seen during training | |
+| CNN | | 卷积神经网络 | Convolutional neural network; a type of neural network that works particularly well for computer vision tasks | |
+| Natural language processing | NLP | 自然语言处理 | | | |
+| Graphics Processing Unit | GPU |图像处理单元 | A special kind of processor in your computer that can handle thousands of single tasks at the same time, especially designed for displaying 3D environments on a computer for playing games. | |
+| Jupyter Notebook | |  | A piece of software that allows you to include formatted text, code, images, videos, and much more, all within a single interactive document.| |
+| Regression | |回归 |A regression model is one that attempts to predict one or more numeric quantities, such as a temperature or a location.  | |
+| Classification | |分类 | A classification model is one that attempts to predict a class, or category. That is, it’s predicting from a number of discrete possibilities, such as “dog” or “cat.”  | |
+| Transfer Learning | |迁移学习 | Using a pretrained model for a task different from what it was originally trained for.| |
+| Tabular | |表格数据 | Data that is in the form of a table, such as from a spreadsheet, database, or a comma-separated values (CSV) file. | |
+| Datasets | |数据集 | Food for Models | |
+| DataLoaders | |数据加载器 | A fastai class that stores multiple DataLoader objects you pass to it | fastai |
 | | | | | |
 | | | | | |
