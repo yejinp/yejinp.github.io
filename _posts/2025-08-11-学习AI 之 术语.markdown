@@ -13,12 +13,12 @@ category: AI
 | Architecture | | 模型的模板 | The template of the model that we’re trying to fit; i.e., the actual mathematical function that we’re passing the input data and parameters to | |
 | Model  | |模型 | The combination of the architecture with a particular set of parameters | |
 | Parameters | | 参数 | The values in the model that change what task it can do and that are updated through model training | |
-| Fit | | 调适 | Update the parameters of the model such that the predictions of the model using the input data match the target labels | |
-| Train | | 训练 | A synonym for fit | |
+| Fit | | 训练 | Update the parameters of the model such that the predictions of the model using the input data match the target labels | |
+| Train | | 训练，同fit | A synonym for fit | |
 | Pretrained model | | 提前训练好的模型 | A model that has already been trained, generally using a large dataset, and will be fine-tuned | |
-| Fine-tune | | | Update a pretrained model for a different task | |
+| Fine-tune | |微调 | Update a pretrained model for a different task | |
 | Epoch | | 一轮 |One complete pass through the input data | |
-| Loss | | 丢失| A measure of how good the model is, chosen to drive training via SGD | |
+| Loss | | 损失 | A measure of how good the model is, chosen to drive training via SGD | |
 | Metric | | 度量| A measurement of how good the model is using the validation set, chosen for human consumption | |
 | Validation set | | 验证集 | A set of data held out from training, used only for measuring how good the model is | |
 | Training set | |训练集 | The data used for fitting the model; does not include any data from the validation set | |
