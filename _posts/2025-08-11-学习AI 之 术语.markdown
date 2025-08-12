@@ -8,7 +8,7 @@ category: AI
 | 术语 | 缩写 | 中文名称 | 含义 | 备注| 
 | --- | --- | --- | --- | --- |
 | Deep learning | DL | 深度学习 | | |
-| Machine learning | ML | 机器学习 | | The training of programs developed by allowing a computer to learn from its experience, rather than through manually coding the individual steps. |
+| Machine learning | ML | 机器学习 |  The training of programs developed by allowing a computer to learn from its experience, rather than through manually coding the individual steps. |
 | Label | | | The data that we’re trying to predict, such as “dog” or “cat” | |
 | Architecture | | | The template of the model that we’re trying to fit; i.e., the actual mathematical function that we’re passing the input data and parameters to | |
 | Model  | | | The combination of the architecture with a particular set of parameters | |
