@@ -23,7 +23,7 @@ category: AI
 | Validation set | | 验证集 | A set of data held out from training, used only for measuring how good the model is | |
 | Training set | |训练集 | The data used for fitting the model; does not include any data from the validation set | |
 | Overfitting | |过度拟合 | Training a model in such a way that it remembers specific features of the input data, rather than generalizing well to data not seen during training | |
-| CNN | | 卷积神经网络 | Convolutional neural network; a type of neural network that works particularly well for computer vision tasks | |
+| Convolutional neural network | CNN | 卷积神经网络 | a type of neural network that works particularly well for computer vision tasks | |
 | Natural language processing | NLP | 自然语言处理 | | | |
 | Graphics Processing Unit | GPU |图像处理单元 | A special kind of processor in your computer that can handle thousands of single tasks at the same time, especially designed for displaying 3D environments on a computer for playing games. | |
 | Jupyter Notebook | |  | A piece of software that allows you to include formatted text, code, images, videos, and much more, all within a single interactive document.| |
