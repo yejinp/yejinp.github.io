@@ -34,7 +34,8 @@ category: AI
 | Datasets | |数据集 | Food for Models | |
 | DataLoaders | |数据加载器 | A fastai class that stores multiple DataLoader objects you pass to it | fastai |
 | Learning Rate| LR | | The size of the step we take when applying SGD to update the parameters of the model. | |
-| Activations | | | | |
+| Activations | | | Numbers that are calculated (both by linear and nonlinear layers) | |
+| Parameters |||Numbers that are randomly initialized, and optimized (that is, the numbers that define the model)|
 | Rank-0 | | | scalar| |
 | Rank-1 | | | vector | |
 | Rank-2 | | | matrix | |
