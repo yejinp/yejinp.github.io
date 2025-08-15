@@ -11,6 +11,8 @@ AI技术日新月异，不跟上就落后了，为了更好的利用AI，有必�
 
 [Deep Learning for Coders with fastai and PyTorch](https://www.amazon.com/Deep-Learning-Coders-fastai-PyTorch/dp/1492045527)
 
+这本书从上到下讲解Deep learning，还有输入原始数据直接输出最终结果的模型训练例子。
+
 在线资源 [fastbook](https://github.com/fastai/fastbook)
 
 和 [中文版](https://github.com/fastai/fastbook/tree/master/translations/cn)
@@ -19,7 +21,7 @@ AI技术日新月异，不跟上就落后了，为了更好的利用AI，有必�
 
 [kaggle](https://www.kaggle.com/) 
 
-一个机器学习和数据科学社区。
+一个机器学习和数据科学社区。有了这个平台，不用自己搭建GPU训练模型的环境了，可以快速上手。
 
 其提供了Jupyter Notebook可以使用。
 
@@ -34,4 +36,4 @@ AI技术日新月异，不跟上就落后了，为了更好的利用AI，有必�
 一个为有编程经验又想知道如何将深度学习和机器学习应用于解决实际问题的人设计的免费课程。
 
 
-resnet模型层数有：resnet18、resnet34、resnet50、resnet101和resnet152
+resnet模型层数有：18、34、50、101和152
