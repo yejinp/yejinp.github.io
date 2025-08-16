@@ -1,0 +1,22 @@
+---
+layout: post
+title: 学习AI 之 其他重要的技术
+date: 2025-08-15 22:12:23 +0800
+category: AI
+---
+
+| 技术 |  | 用途 | | 备注| 
+| --- | --- | --- | --- | --- |
+| Python Imaging Library | | 图片处理库 | | PIL |
+| NumPy | | 科学计算库 | | |
+| Jupyter | | | | |
+| Matplotlib | | 数据可视化库 | | plt |
+| | | | | |
+| | | | | |
+| | | | | |
+
+## 重要的数据集
+
+- [MNIST](https://storage.googleapis.com/tensorflow/tf-keras-datasets/mnist.npz)
+- [ImageNet](http://www.image-net.org/)
+- [Fashion-MNIST](https://www.kaggle.com/datasets/zalando-research/fashionmnist)
